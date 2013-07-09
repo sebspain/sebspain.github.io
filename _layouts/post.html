@@ -7,4 +7,4 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
-<p>categories: {{ page.categories | array_to_sentence_string }}</p>
+<p>categories: {{ post.categories | category_links }}</p>
