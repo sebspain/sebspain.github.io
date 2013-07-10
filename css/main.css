@@ -59,9 +59,15 @@ ul.posts span {
 /* Site
 /*
 /*****************************************************************************/
-
-.site {
+.container {
   font-size: 115%;
+  text-align: justify;
+  width: 65em;
+  line-height: 1.5em;
+  margin: 0 auto;
+}
+.site {
+  
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
@@ -126,6 +132,13 @@ ul.posts span {
   border: 0;
 }
 
+.sidebar {
+float: right;
+width: 10em;
+margin: 0 0.5em;
+padding: 0 0.2em;
+background: #eaeaea;
+}
 /*****************************************************************************/
 /*
 /* Posts
