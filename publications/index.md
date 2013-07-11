@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-For PDF copies of any of the articles below please <a href="mailto:sebastian.spain@nottingham.ac.uk">contact Seb</a>
+For PDF copies of any of the articles below please <a href="mailto:seb@sebspain.co.uk">contact Seb</a>
 
 ###Peer-reviewed Journals
 
