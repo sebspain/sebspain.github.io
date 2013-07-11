@@ -5,5 +5,20 @@ permalink: /:year/:month/:day/:title.html
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-paginate: 5
-paginate_path: "blog/page:num"
+
+
+scholar:
+  style: _plugins/american-chemical-society.csl
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: page
+
+  details_dir:    publications
+  details_layout: bibtex.html
+  details_link:   Details
+  
