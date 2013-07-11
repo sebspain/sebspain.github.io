@@ -1,4 +1,4 @@
-name: Seb Spain Beta Site
+name: Seb Spain
 pygments: true
 permalink: /:year/:month/:day/:title.html
 #markdown: rdiscount
