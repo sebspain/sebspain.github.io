@@ -15,7 +15,7 @@ tags: graphics
 
 _This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](http://sebspain.co.uk/graphics/graphics-for-scientists-intro/)._
 
-So the _Journal of Pretty Pictures over Content _requires that you submit all vector graphics as EPS files in the CMYK colo(u)r space with defined bounding boxes and raster graphics must be TIF/LZW format. Hopefully I will explain the basics of what this means over the next few posts. It probably won't be strictly correct as I'm not an expert in file formats for graphics but as some of the advanced features of these files are only relevant and accessible to experts hopefully it will be illuminating enough.
+So the *Journal of Pretty Pictures over Content* requires that you submit all vector graphics as EPS files in the CMYK colo(u)r space with defined bounding boxes and raster graphics must be TIF/LZW format. Hopefully I will explain the basics of what this means over the next few posts. It probably won't be strictly correct as I'm not an expert in file formats for graphics but as some of the advanced features of these files are only relevant and accessible to experts hopefully it will be illuminating enough.
 
 
 ### Raster vs. Vector Graphics
@@ -31,11 +31,8 @@ Even if you don't know it you are probably familiar with raster graphics as this
 
 [![benzene](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene1.png)](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene1.png)
 
-
-[![benzene](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene1.png)](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene1.png)
-
-
-Both are produced from the same image file (benzene.png, click the images if you want to check) but in the second picture I've made it show it at 4 times the size. As your computer can't magically make more information appear all it can do is increase the pixel size and the result is a blocky, _pixelated_, image (see the [Wikipedia page](http://en.wikipedia.org/wiki/Raster_graphics) for a colour example).
+<p><a href="http://sebspain.co.uk/wp-content/uploads/2013/01/benzene1.png"><img src="http://sebspain.co.uk/wp-content/uploads/2013/01/benzene1.png" alt="benzene" width="248px" ></a></p>
+Both are produced from the same image file (benzene.png, click the images if you want to check) but in the second picture I've made it show it at 4 times the size. As your computer can't magically make more information appear all it can do is increase the pixel size and the result is a blocky, *pixelated*, image (see the [Wikipedia page](http://en.wikipedia.org/wiki/Raster_graphics) for a colour example).
 
 Example formats: JPEG, PNG, GIF, TIF(F), BMP
 
@@ -48,8 +45,7 @@ Like raster graphics, you are probably familiar with vector graphics without eve
 [![benzene](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene.svg)](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene.svg)
 
 
-[![benzene](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene.svg)](http://sebspain.co.uk/wp-content/uploads/2013/01/benzene.svg)
-
+<p><a href="http://sebspain.co.uk/wp-content/uploads/2013/01/benzene.svg"><img src="http://sebspain.co.uk/wp-content/uploads/2013/01/benzene.svg" alt="benzene" width="248px" ></a></p>
 
 
 

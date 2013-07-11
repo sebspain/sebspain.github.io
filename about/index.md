@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Your New Jekyll Site
+title: About
 ---
 
-this is a test
---------------
+###Name: Seb Spain
+###Occupation: Research Fellow (Chemistry)
 
-test
+
+
+
+
