@@ -10,6 +10,7 @@ categories:
 - Graphics
 - Graphics for Scientists
 - Science
+tags: graphics
 ---
 
 _This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](http://sebspain.co.uk/graphics/graphics-for-scientists-intro/)._

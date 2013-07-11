@@ -138,11 +138,18 @@ float: right;
 width: 13.5em;
 margin: -3.5em ;
 padding: 0 0.3em 0 0.3em;
-background-color: #eaeaea;
 border-radius: 0.5em;
+border: 1px solid #ddd;
+background-color: #eef;
+
 }
 
 .sidebar p {
+text-decoration: none;
+font-size: small;
+}
+
+.sidebar ul.posts {
 text-decoration: none;
 font-size: small;
 }

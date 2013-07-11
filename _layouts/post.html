@@ -1,22 +1,13 @@
 ---
 layout: default
 ---
-<!-- MathJax Section -->
-<script type="text/javascript"
- src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script>
-  MathJax.Hub.Config({
-    tex2jax: {
-      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  });
-  MathJax.Hub.Queue(function() {
-      var all = MathJax.Hub.getAllJax(), i;
-      for(i=0; i < all.length; i += 1) {
-          all[i].SourceElement().parentNode.className += ' has-jax';
-      }
-  });
-</script>
+
+<div class="sidebar">
+        <div> {% include recent_posts.md %}</div>
+         </div>
+
+<div class="site">
+
 
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
@@ -24,5 +15,4 @@ layout: default
 <div class="post">
 {{ content }}
 </div>
-
 <div class="categories">Categories: {{ page.categories | category_links }}</div>
