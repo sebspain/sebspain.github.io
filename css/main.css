@@ -116,10 +116,11 @@ text-align: justify;
 
 .container .header a.extra:hover {
   color: #000;
-  background-color: #eef;
+  /* use this to add a background on hover*/
+  /*background-color: #bbb;
   border-radius: 0.3em;	
-  border: 1px solid #ddd;
-  padding: 0 2px 0 2px; 
+  border: 1px solid #bbb;
+  padding: 0 2px 0 2px;*/
 }
 
 .site .meta {
