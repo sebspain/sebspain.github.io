@@ -1,0 +1,7 @@
+#!/bin/bash
+title=$1
+#clean_title=sed 's/[!@#\$%^&*()]//g' $title
+echo " ---
+layout: post
+title: $title
+---" > $(date -I)-$title.md
