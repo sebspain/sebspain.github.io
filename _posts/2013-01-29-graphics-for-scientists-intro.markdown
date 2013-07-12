@@ -28,7 +28,7 @@ and
 is pointless when abbreviations such as CMYK are completely alien to them. This is somewhat ironic considering that the [*Angew. Chem.* author guidelines also state](http://onlinelibrary.wiley.com/journal/10.1002/\(ISSN\)1521-3773/homepage/2002_guideline.html)
 
 
-> Please be considerate to our many readers for whom English is a foreign language---use a simple, clear style and avoid jargon.
+> Please be considerate to our many readers for whom English is a foreign language - use a simple, clear style and avoid jargon.
 
 
 With this in mind a couple of years ago I gave a brief presentation on the basics of producing publication quality graphics to a couple of the research groups I work with. Having recently spent a lot time preparing graphics for publication, often having to either start from scratch or make do with poor quality sources, I thought I'd produce a document that students etc could refer to in future. Rather than keep it in house I thought I'd produce it as a series of posts on here. As and when I add sections I'll link to them from here.
