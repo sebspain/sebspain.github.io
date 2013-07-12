@@ -23,7 +23,7 @@ During a recent conversion about the lower temperature of testicles compared to 
 The improved quality of sperm produced when the testes are kept cool is a pretty well established phenomenon (see [Schuppe et al 2007](http://www.ncbi.nlm.nih.gov/pubmed/18076419)) and BabyStart are keen to point this out providing multiple references to proper peer-reviewed journals including [Mulcahy 1984](http://www.ncbi.nlm.nih.gov/pubmed/6471178) and [Schuppe et al 2005](http://www.ncbi.nlm.nih.gov/pubmed/15811070). Consequently a cooling patch for the testes seems like a good idea if you are trying for a baby but how does the FertilMate achieve its cooling?
 
 
-> The **babystart(r) FertilMate^(TM) Scrotum Cooling Pah** is a specially designed hydrogel pad with natural l-menthol used to provide the cooling effect.
+> The **babystart(r) FertilMate^(TM) Scrotum Cooling tch** is a specially designed hydrogel pad with natural l-menthol used to provide the cooling effect.
 
 >The **Cooling Patch** has a pleasant aroma and a slim, flexible, non-messy format. It is easily trimmed and shaped for use on all sizes of scrotum and comes in a re-sealable bag, with no need for refrigeration.
 
