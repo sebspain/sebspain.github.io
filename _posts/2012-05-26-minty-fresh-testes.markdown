@@ -25,7 +25,7 @@ The improved quality of sperm produced when the testes are kept cool is a pretty
 
 > The **babystart®** **FertilMate**^TM **Scrotum Cooling Patch **is a specially designed hydrogel pad with natural l-menthol used to provide the cooling effect.
 
->The **Cooling Patch** has a pleasant aroma and a slim, flexible, non-messy format. It is easily trimmed and shaped for use on all sizes of scrotum and comes in a re-sealable bag, with no need for refrigeration.
+>The __Cooling Patch__ has a pleasant aroma and a slim, flexible, non-messy format. It is easily trimmed and shaped for use on all sizes of scrotum and comes in a re-sealable bag, with no need for refrigeration.
 
 So according to Babystart the cooling effect is provided by L-menthol. Now we've all experienced the cooling effect of menthol whenever we brush our teeth or chew some minty fresh gum but does it actually change the temperature of the skin it comes into contact with?
 
