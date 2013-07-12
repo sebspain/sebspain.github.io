@@ -25,5 +25,7 @@ appropriate, whale.to is not a reference. To minimise the risk of legal proceedi
 The comment facility provided by [Disqus](http://disqus.com) and has additional spam-filtering by [askimet](https://akismet.com/). Occasionally a non-spam post will be caught and I'll have to release it from moderation so there may be a delay.
 ###Contact
 ![My email address:seb[at][mydomain].co.uk](http://sebspain.co.uk/wp-content/uploads/2011/08/email.png "email me")
+
 Twitter: [@sebspain](http://twitter.com/sebspain)
+
 Linkedin: [LinkedIn](http://uk.linkedin.com/pub/sebastian-spain/31/516/38a)
