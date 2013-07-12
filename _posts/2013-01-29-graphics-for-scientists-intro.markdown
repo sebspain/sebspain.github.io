@@ -13,7 +13,7 @@ categories:
 - Science
 ---
 
-As [DeevyBee](https://twitter.com/deevybee) has [pointed out](http://deevybee.blogspot.co.uk/2010/06/exciting-day-in-life-of-scientist.html) previously, these days academic publishers expect scientists to not only to produce the written content of a journal article but also to provide figures in a suitable format that they can use directly, usually to very specific technical guidelines (for an example see the Wiley's guidelines for [*Angew. Chem.*](http://onlinelibrary.wiley.com/journal/10.1002/\(ISSN\)1521-3773/homepage/2002_graphgest.html). Although I don't entirely agree with DeevyBee's position on this, part of science communication is the production of good quality graphics, the expectation by publishers that all scientists will be *au fait* with the technicalities of graphic design is absurb and throwing around jargon such as
+As [DeevyBee](https://twitter.com/deevybee) has [pointed out](http://deevybee.blogspot.co.uk/2010/06/exciting-day-in-life-of-scientist.html) previously, these days academic publishers expect scientists to not only to produce the written content of a journal article but also to provide figures in a suitable format that they can use directly, usually to very specific technical guidelines (for an example see the Wiley's guidelines for [*Angew. Chem.*](http://onlinelibrary.wiley.com/journal/10.1002/\(ISSN\)1521-3773/homepage/2002_graphgest.html). Although I don't entirely agree with DeevyBee's position on this, part of science communication is the production of good quality graphics, the expectation by publishers that all scientists will be *au fait* with the technicalities of graphic design is absurb and throwing around jargon such as
 
 
 > The colors for color pictures must be defined with the CMYK system (do not use the RGB color system, which is common in Windows).
@@ -22,7 +22,7 @@ As [DeevyBee](https://twitter.com/deevybee) has [pointed out](http://deevybee.b
 and
 
 
-> Final format for vector graphics (stick diagrams, etc.): Encapsulated Postscript (EPS) with bound fonts and the characters must be converted into outlines, **not** Postscript (PS). The "bounding boxes" must be of an appropriate size.
+> Final format for vector graphics (stick diagrams, etc.): Encapsulated Postscript (EPS) with bound fonts and the characters must be converted into outlines, **not** Postscript (PS). The "bounding boxes" must be of an appropriate size.
 
 
 is pointless when abbreviations such as CMYK are completely alien to them. This is somewhat ironic considering that the [*Angew. Chem.* author guidelines also state](http://onlinelibrary.wiley.com/journal/10.1002/\(ISSN\)1521-3773/homepage/2002_guideline.html)
