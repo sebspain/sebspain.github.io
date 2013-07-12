@@ -1,10 +1,10 @@
 name: seb spain
 pygments: true
 permalink: /:year/:month/:day/:title.html
-#markdown: rdiscount
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+markdown: rdiscount
+#markdown: redcarpet
+#redcarpet:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
 
 scholar:
