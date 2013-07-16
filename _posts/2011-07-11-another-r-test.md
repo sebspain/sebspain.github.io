@@ -1,9 +1,11 @@
 ---
 layout: post
 comments: false
-title:another R test
+title: another R test
 ---
+
 To plot the following graph
+
 ```{r}
 fret_raw<-read.table("FRET_kinetics.txt", header=T)
 attach(fret_raw)

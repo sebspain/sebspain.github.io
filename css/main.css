@@ -209,10 +209,12 @@ padding: 0.3em;
 }
 
 .post code {
+  display: block;
   border: 1px solid #ddd;
   background-color: #eef;
   padding: 0 .2em;
   border-radius: 0.3em;
+  overflow: auto;
 }
 
 .post img {
