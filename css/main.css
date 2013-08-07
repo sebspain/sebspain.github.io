@@ -14,15 +14,22 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 16px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  font-size: 115%; 
+  margin-bottom: 1em; }
+h2 {
+  font-size: 110%; 
+  margin-bottom: 1em; }
+h3 {
+  font-size: 105%; }
+h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #a00;
@@ -94,7 +101,7 @@ ul.posts span {
 }
 
 .container .header a {
-  font-size: 115%;
+  font-size: 100%;
   font-weight: bold;
   text-decoration: none;
 }
