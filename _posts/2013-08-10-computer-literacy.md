@@ -5,7 +5,7 @@ date: 2013-08-14
 layout: post
 slug: computer-literacy
 title: Computer Literacy in Scientists
-published: published
+published: false
 categories:
 - Computing
 - Science
