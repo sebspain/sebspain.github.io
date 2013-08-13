@@ -5,7 +5,7 @@ date: 2013-08-13
 layout: post
 slug: photo-forensics
 title: Some photo forensics
-published:
+published: true
 categories:
 - Science
 
