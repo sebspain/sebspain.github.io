@@ -7,9 +7,9 @@ For PDF copies of any of the articles below please <a href="mailto:seb@sebspain.
 
 ###Peer-reviewed Journals
 
-1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>PCCP</em>, 2014, Accepted.
+1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>PCCP</em>, 2014, Accepted subject to revisions.
 
-2. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain† and Cameron Alexander "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted.
+2. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain† and Cameron Alexander "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted subject to revisions
 
 3. Teresa Matini, Nora Francini, Anna Battocchio, Sebastian G. Spain, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander "Synthesis and characterization of variable conformation pH responsive block co-polymers for nucleic acid delivery and targeted cell entry" <em>Polym. Chem.</em> 2014, Advance Article. [\[DOI\]](http://dx.doi.org/10.1039/C3PY00744H)
 
