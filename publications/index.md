@@ -7,30 +7,30 @@ For PDF copies of any of the articles below please <a href="mailto:seb@sebspain.
 
 ###Peer-reviewed Journals
 
-<a href="http://pubs.rsc.org/en/content/articlelanding/2013/bm/c2bm00184e">Samer R. Abulateefeh, Sebastian G. Spain, Kristofer J. Thurecht, Jonathan W. Aylott, Weng C. Chan, Martin C. Garnett and Cameron Alexander, "Enhanced uptake of nanoparticle drug carriers via a thermoresponsive shell enhances cytotoxicity in a cancer cell line" <em>Biomaterials Science</em>, 2013, <strong>1</strong>, 434-442</a>
+1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>PCCP</em>, 2014, Accepted.
 
-<a href="http://pubs.rsc.org/en/content/articlelanding/2012/py/c2py20352a">Yasayan, G.; Redhead, M.; Magnusson, J.; Spain, S. G.; Allen, S.; Davies, M. C.; Alexander, C. and Fernandez-Trillo, F, "Well-defined Polymeric Vesicles with High Stability and Modulation of Cell Uptake by a Simple Coating Protocol" <em>Polymer Chemistry</em>, 2012, <strong>3</strong>, 2596-2604</a>
+2. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain† and Cameron Alexander "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted.
 
-<a href="http://dx.doi.org/10.1002/mabi.201100252">Abulateefeh, S. R.; Spain, S. G.; Aylott, J. W. et al., "Thermoresponsive colloids in cancer therapy" <em>Macromolecular Bioscience</em>, 2011, <strong>11</strong>, 1722-1734.</a>
+3. Teresa Matini, Nora Francini, Anna Battocchio, Sebastian G. Spain, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander "Synthesis and characterization of variable conformation pH responsive block co-polymers for nucleic acid delivery and targeted cell entry" <em>Polym. Chem.</em> 2014, Advance Article. [\[DOI\]](http://dx.doi.org/10.1039/C3PY00744H)
 
-Selected for Wiley's <em>Best of Macromolecular Journals 2012</em>
+4. Samer R. Abulateefeh, Sebastian G. Spain, Kristofer J. Thurecht, Jonathan W. Aylott, Weng C. Chan, Martin C. Garnett and Cameron Alexander; "Enhanced uptake of nanoparticle drug carriers via a thermoresponsive shell enhances cytotoxicity in a cancer cell line" <em>Biomater. Sci.</em>, 2013, <strong>1</strong>, 434-442. [\[DOI\]](http://dx.doi.org/10.1039/C2BM00184E)
 
-<a href="http://dx.doi.org/10.1039/C1PY00030F">*Spain, S. G. and Cameron, N. R., "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polymer Chemistry</em>,2011, <strong>2</strong>, 1552-1560</a>
+5. Gokcen Yasayan, Martin Redhead, Johannes P. Magnusson, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, Cameron Alexander and Francisco Fernandez-Trillo; "Well-defined Polymeric Vesicles with High Stability and Modulation of Cell Uptake by a Simple Coating Protocol" <em>Polym. Chem.</em>, 2012, <strong>3</strong>, 2596-2604. [\[DOI\]](http://dx.doi.org/10.1039/c2py20352a)
 
-<a href="http://dx.doi.org/10.1039/C0PY00149J">Spain, S. G. and Cameron, N. R., "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polymer Chemistry</em>, 2011,<strong>2</strong>, 60-68</a>
+6. Samer R. Abulateefeh, Sebastian G. Spain, Jonathan W. Aylott et al.; "Thermoresponsive colloids in cancer therapy" <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. [\[DOI\]](http://dx.doi.org/10.1002/mabi.201100252)
 
-<a href="http://dx.doi.org/10.1021/bm801069x">Gibson, M. I.; Barker, C. A.; Spain, S. G.; Albertin, L.; Cameron, N. R., "Inhibition of ice crystal growth by synthetic glycopolymers: implications for the rational design of antifreeze glycoprotein mimics" <em>Biomacromolecules</em>, 2009, <strong>10</strong>, 328-333.</a>
+6. Sebastian G. Spain and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/C1PY00030F)
 
-<a href="http://dx.doi.org/10.1039/b717177c">Cameron, N. R.; Spain, S. G.; Kingham, J. A.; Weck, S.; Albertin, L.; Barker, C. A.; Battaglia, G.; Smart, T.; Blanazs, A., "Synthesis of well-defined glycopolymers and some studies of their aqueous solution behaviour" <em>Faraday Discussions</em>, 2008, <strong>139</strong>, 359-368.</a>
+5. Sebastian G. Spain and Neil R. Cameron; "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polym. Chem.</em>, 2011,<strong>2</strong>, 60-68. [\[DOI\]](http://dx.doi.org/10.1039/C0PY00149J)
 
-<a href="http://www3.interscience.wiley.com/cgi-bin/fulltext/114208347/PDFSTART">Spain, S. G.; Gibson, M. I.; Cameron, N. R., "Recent Advances in the Synthesis of Well-defined Glycopolymers" <em>Journal of Polymer Science: Part A; Polymer Chemistry</em> 2007, <strong>45</strong>, 2059-2072.</a>
+4. Matthew I. Gibson, Carl A. Barker, Sebastian G. Spain, Luca Albertin and Neil R. Cameron; "Inhibition of ice crystal growth by synthetic glycopolymers: implications for the rational design of antifreeze glycoprotein mimics" <em>Biomacromolecules</em>, 2009, <strong>10</strong>, 328-333. [\[DOI\]](http://dx.doi.org/10.1021/bm801069x)
 
-Top 10 most accessed article for over 2 years.
+3. Neil R. Cameron, Sebastian G. Spain, James A. Kingham, Stefan Weck, Luca Albertin, Carl A. Barker, Guiseppe Battaglia, Thomas Smart, and Adam Blanazs; "Synthesis of well-defined glycopolymers and some studies of their aqueous solution behaviour" <em>Faraday Discuss.</em>, 2008, <strong>139</strong>, 359-368. [\[DOI\]](http://dx.doi.org/10.1039/b717177c)
 
-<a href="http://www.rsc.org/Publishing/Journals/CC/article.asp?doi=b608383h">Spain, S. G.; Albertin, L.; Cameron, N. R., "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chemical Communications</em> 2006, 4198-4200.</a>
+2. Sebastian G. Spain, Matthew I. Gibson and Neil R. Cameron; "Recent Advances in the Synthesis of Well-defined Glycopolymers" <em>J. Polym. Sci. Part A Polym. Chem.</em> 2007, <strong>45</strong>, 2059-2072. [\[DOI\]](http://dx.doi.org/10.1002/pola.22106)
 
-Selected for publication in the RSC's <em><a href="http://www.rsc.org/Publishing/Journals/cb/Index.asp">Biology Virtual Journal</a></em> and one of the <a href="http://www.rsc.org/Publishing/Journals/cb/Top10.asp">top ten most accessed articles in October 2006.</a>
+3. Sebastian G. Spain, Luca Albertin and Neil R. Cameron; "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chem. Commun.</em> 2006, 4198-4200. 	[\[DOI\]](http://dx.doi.org/10.1039/b608383h)
 
 ###Book Chapters
 
-<a href="http://www.elsevierdirect.com/ISBN/9780080553023/Comprehensive-Biomaterials">Spain, S. G.; Yasayan, G.; Soliman, M.; Heath, F.; Saeed, A. O. and Alexander, C., "Nanoparticles of Nucleic Acid Delivery" in <em>Comprehensive Biomaterials</em>. Elsevier 2011, vol.4, pp 389-410.</a>
+1. Sebastian G. Spain, Gokcen Yasayan, Mahmoud Soliman, Felicity Heath, Aram O. Saeed and Cameron Alexander, "Nanoparticles of Nucleic Acid Delivery" in <em>Comprehensive Biomaterials</em>. Elsevier 2011, vol.4, pp 389-410. [\[link\]](http://www.elsevierdirect.com/ISBN/9780080553023/Comprehensive-Biomaterials)
