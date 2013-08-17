@@ -81,7 +81,7 @@ ul.posts span {
   text-align: justify;
   width: 56em;
   line-height: 1.5em;
-  margin: 1em auto;
+  margin: auto;
 
 }
 .site {
@@ -95,9 +95,11 @@ ul.posts span {
 .container .header {
   position: fixed;
   width: 56em;
-  box-shadow: 0 0 20px 25px #ffffff;
-  background-color: #ffffff;
-  height: 1.5em;
+  padding-top: 1em;
+/*  box-shadow: 0 0 20px 25px #ffffff;*/
+  background: url('header.bg.png') repeat-x center top;
+/*  background-color: #ffffff;
+  height: 1.5em; */
 }
 
 .container .header a {
@@ -175,7 +177,7 @@ ul.posts span {
 .sidebar {
 float: right;
 width: 13.5em;
-margin: 0 0 0 42.5em ;
+margin: 1em 0 0 42.5em ;
 padding: 0.3em 0.3em 0 0.3em;
 border-radius: 0.5em;
 border: 1px solid #ddd;
