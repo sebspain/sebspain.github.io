@@ -79,7 +79,7 @@ ul.posts span {
 .container {
   font-size: 115%;
   text-align: justify;
-  width: 56em;
+  width: 800px;
   line-height: 1.5em;
   margin: auto;
 
@@ -94,7 +94,7 @@ ul.posts span {
 
 .container .header {
   position: fixed;
-  width: 56em;
+  width: 800px;
   padding-top: 1em;
 /*  box-shadow: 0 0 20px 25px #ffffff;*/
   background: url('header.bg.png') repeat-x center top;
