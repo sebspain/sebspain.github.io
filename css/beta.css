@@ -1,5 +1,7 @@
 body {
 	margin: 0;
+	font-family: Montserrat, Helvetica;
+	font-sze: 12px;
 }
 
 a {
@@ -111,11 +113,45 @@ a:hover {
 	float: right;
 	margin: 1.5em .3em 0 .3em;
 }
-/* text */
+
 .title h1 {
 	padding: 2px 0 0 0;
 	font-size: 40px;
 	margin: 0px auto;
+}
+
+.content p {
+	text-align:left;
+}
+
+.content a {
+	font-size: 100%;
+	font-family: Montserrat, Helvetica;
+	color: #21c2f2;
+}
+
+.content {
+	width: 800px;
+	min-height: 230px;
+	margin: 0px;
+}
+
+
+
+.sidebar {
+	float: right;
+	width: 230px;
+}
+
+.sidebar ul {
+	list-style-type: none;
+	text-align: left;
+	font-size: 120%;
+	margin: 0;
+}
+
+.sidebar li {
+
 }
 
 img {
