@@ -1,0 +1,120 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates:400,700|Montserrat:400,700);
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #993300;
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.header {
+	background-color: #333333;
+	height: 60px;
+	font-family: 'Montserrat Alternates';
+}
+.title {	
+	max-width: 1000px;
+	min-width: 750px;
+	margin: 0px auto;
+	color: #ffffff;
+}
+
+.front-main {
+	max-width: 1000px;
+	min-width: 750px;
+	margin: 20px auto;
+/*	border: 1px solid #333;  for visibility, remove once finished */
+	background-color: #ffffff;
+}
+
+.front-main p {
+	display: block;
+	text-align: center;
+}
+
+.front-main a {
+	font-family: 'Montserrat Alternates';
+	font-size: 110%;
+
+}
+
+.front-main a:hover {
+	text-decoration: none;
+	color: #333;
+}
+
+.front-link-left {
+	float:left;
+	border: 2px solid #333;
+	border-radius: 10px;
+	width: 230px;
+	height: 230px;
+}
+
+.front-link-left:hover {
+	border: 2px solid #21c2f2;
+}
+
+.front-link-mid {
+	border: 2px solid #333;
+	border-radius: 10px;
+	width: 230px;
+	height: 230px;
+	margin: 0px auto;
+}
+
+.front-link-mid:hover {
+	border: 2px solid #F220C1;
+}
+
+.front-link-right {
+	float: right;
+	border: 2px solid #333;
+	border-radius: 10px;
+	width: 230px;
+	height: 230px;
+}
+
+.front-link-right:hover {
+	border: 2px solid #C1F220;
+}
+
+.front-footer {
+	background-color: #333333;
+	height: 60px;
+	font-family: 'Montserrat Alternates';
+}
+
+.contact {
+	color: #fff;
+	font-size: 90%;
+	max-width: 1000px;
+	min-width: 750px;
+	margin: 0px auto;
+}
+
+.contact a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.sub-contact {
+	float: right;
+	margin: 1.5em .3em 0 .3em;
+}
+/* text */
+.title h1 {
+	padding: 2px 0 0 0;
+	font-size: 40px;
+	margin: 0px auto;
+}
