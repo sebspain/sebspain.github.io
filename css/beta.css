@@ -136,6 +136,32 @@ a:hover {
 	margin: 0px;
 }
 
+.content pre {
+  border: 1px solid #ddd;
+  background-color: #ececec;
+  padding: 0 .4em;
+  border-radius: 0.3em;
+}
+
+.content code {
+  display: block;
+  border: 1px solid #ddd;
+  background-color: #ececec;
+  padding: 0 .2em;
+  border-radius: 0.3em;
+  overflow: auto;
+}
+
+.content img {
+  display: block;
+  margin-right:auto;
+  margin-left:auto;
+  border: 0.1em solid #fff;
+  border-radius: 0.3em;
+  padding: 0em;
+  box-shadow: 0 0 0 2px #ddd;   
+}
+
 ul.posts {
 	list-style-type: none;
 	margin-left: 0;
