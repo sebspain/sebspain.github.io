@@ -1,31 +1,75 @@
----
-layout: front
-title: sebspain.co.uk
----
+<!DOCTYPE html>
+<html>
+  <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>sebspain.co.uk</title>
+        <meta name="viewport" content="width=device-width">
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-	<p>{{ post.excerpt }}</p>
-    {% endfor %}
-  </ul>
-</div>
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
 
-                <!-- MathJax Section -->
-<script type="text/javascript"
- src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script>
-  MathJax.Hub.Config({
-    tex2jax: {
-      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  });
-  MathJax.Hub.Queue(function() {
-      var all = MathJax.Hub.getAllJax(), i;
-      for(i=0; i < all.length; i += 1) {
-          all[i].SourceElement().parentNode.className += ' has-jax';
-      }
-  });
-</script>
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="css/beta.css">
+  </head>
+  <body>
+  <div class="wrapper"> <!-- main site container -->
+  <div class="header">
+	  <div class="title">
+	  <h1>seb spain</h1>
+	  </div><!--close title div -->
+	 </div> <!-- close header -->
+	  
+	  <div class="front-main">
+	  <div class="front-link-left">
+	  <a href="/blog.html"><p><img src="./img/blog.png" height="150" /></p>
+	  <p>blog</p></a>
+	  </div>
+	  
+	  <div class="front-link-right">
+	  <a href="/pubs.html"><p><img src="./img/pubs.png" height="150" /></p>
+	  <p>bibliography</p></a>
+	  </div>
+	  
+	  <div class="front-link-mid">
+	  <a href="/research.html"><p><img src="./img/research.png" height="150" /></p>
+	  <p>research</p></a>
+	  </div>
+	 
+	  </div><!-- close front main -->
+  
+	  <div class="front-main">
+	 
+	  <div class="front-link-left">
+	  <a href="/about.html"><p><img src="./img/me.png" height="150" /></p>
+	  <p>me</p></a>
+	  </div>
+	  
+	  <div class="front-link-right">
+	  <a href="/photos.html"><p><img src="./img/photography.png" height="150" /></p>
+	  <p>photography</p></a>
+	  </div>
+	 
+	  <div class="front-link-mid">
+	  <a href="/graphics.html"><p><img src="./img/graphics.png" height="150" /></p>
+	  <p>graphics</p></a>
+	  </div>
+	 
+	  </div><!-- close front main -->
+  
+  <div class="front-footer">
+	<div class="contact">  
+	<div class="sub-contact"><a href="jekyllrb.com">created with jekyll</a></div>
+	<div class="sub-contact" style="float: left; margin: 1em 1.3em 0 0"><a href="http://twitter.com/sebspain"><img src="./img/twitter.png"/></a></div>
+	<div class="sub-contact" style="float: left; margin: 1em 1.5em 0 0"><a href="http://github.com/sebspain"><img src="./img/github.png"/></a></div>
+	<div class="sub-contact" style="float: left; margin: 1.1em 1.5em 0 0"><a href="mailto:seb@sebspain.co.uk"><img src="./img/mail.png"/></a></div>
+    </div>
+  </div><!-- close footer -->
+  
+  
+ 
+    
+  </div> <!-- close wrapper -->
+  
+  </body>
+</html>
