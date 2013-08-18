@@ -5,52 +5,59 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
-
+		
+		<link href='http://fonts.googleapis.com/css?family=Montserrat+Alternates|Montserrat' rel='stylesheet' type='text/css'>
+		
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/beta.css">
 {% include mathjax.html %}
     </head>
     <body>
-
-        <div class="container">
+<div class="wrapper"> <!-- main site container -->
   <div class="header">
-	      <h1 class="title"><a href="/">home</a></h1>
-	      <a class="extra" href="/about/">about</a>
-	      <a class="extra" href="/research/">research</a>
-	      <a class="extra" href="/publications/">publications</a>
-            </div>
-
+	  <div class="title">
+			<h1>{{ page.title }}</h1>
+	  </div><!--close title div -->
+  </div> <!-- close header -->
+  
+  <div class="front-main">
+	 <div class="sidebar">
+		<ul>
+			<li><a href="/index.html">home</a></li>
+			<li><a href="/blog.html">home</a></li>
+			<li><a href="/about/">about</a></li>
+	        <li><a href="/research/">research</a></li>
+			<li><a href="/publications/">bibliography</a></li>
+		</ul>
+		{% include recent_posts.md %}
+     	{% include links.html %}
+		
+	  </div><!-- close sidebar -->
+	  
+	  <div class="content">
+    
                 {{ content }}
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Seb Spain<br />
-			<br />                
-                  site generated with <a href="http://jekyllrb.com">jekyll</a>
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="mailto:seb@sebspain.co.uk">seb@sebspain.co.uk</a>    <br />
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://twitter.com/sebspain/">twitter.com/sebspain</a><br />
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/sebspain/">github.com/sebspain</a><br />
-                </p>
-              </div>
-
-	      </div>
-            </div>
-        </div> <!-- /container -->
-    </body>
+     </div><!-- close content -->
+	  
+  </div><!-- close front main -->
+  
+  <div class="front-footer">
+	<div class="contact">  
+		<div class="sub-contact"><a href="http://jekyllrb.com">created with jekyll</a></div>
+		<div class="sub-contact" style="float: left; margin: 1em 1.3em 0 0"><a href="http://twitter.com/sebspain"><img src="/img/twitter.png" alt="twitter icon"/></a></div>
+		<div class="sub-contact" style="float: left; margin: 1em 1.5em 0 0"><a href="http://github.com/sebspain"><img src="/img/github.png" alt="github icon"/></a></div>
+		<div class="sub-contact" style="float: left; margin: 1.1em 1.5em 0 0"><a href="mailto:seb@sebspain.co.uk"><img src="/img/mail.png" alt="email icon"/></a></div>
+    </div><!-- close contact -->
+  </div><!-- close front-footer -->
+  
+  
+ 
+    
+</div> <!-- close wrapper -->
+  
+  </body>
 </html>

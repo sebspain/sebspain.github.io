@@ -136,7 +136,17 @@ a:hover {
 	margin: 0px;
 }
 
+ul.posts {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
 
+ul.posts span {
+	color: #606060;
+	font-family: monospace, Monaco, "Courier New";
+	font-size: 90%;	
+}
 
 .sidebar {
 	float: right;
@@ -148,8 +158,20 @@ a:hover {
 	text-align: left;
 	font-size: 120%;
 	margin: 0;
+	padding: 0;
 }
 
+.sidebar-includes ul {
+	list-style-type: none;
+	text-align: left;
+	font-size: 90%;
+	margin: 0;
+}
+.sidebar-includes span{
+	color: #606060;
+	font-family: monospace, Monaco, "Courier New";
+	font-size: 90%;
+}
 .sidebar li {
 
 }
