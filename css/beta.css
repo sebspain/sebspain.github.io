@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	font-family: Helvetica;
+	font-family: 'PTSans', sans-serif;
 	font-sze: 12px;
 }
 
@@ -126,7 +126,7 @@ a:hover {
 
 .content a {
 	font-size: 100%;
-	font-family: Montserrat, Helvetica;
+	font-family: 'PT Sans', sans-serif;;
 	color: #21c2f2;
 }
 
@@ -145,10 +145,7 @@ a:hover {
 
 .content code {
   display: block;
-  border: 1px solid #ddd;
-  background-color: #ececec;
   padding: 0 .2em;
-  border-radius: 0.3em;
   overflow: auto;
 }
 
@@ -170,7 +167,7 @@ ul.posts {
 
 ul.posts span {
 	color: #606060;
-	font-family: monospace, Monaco, "Courier New";
+	font-family: 'Share Tech Mono', monospace, 'Courier New';
 	font-size: 90%;	
 }
 
@@ -195,7 +192,7 @@ ul.posts span {
 }
 .sidebar-includes span{
 	color: #606060;
-	font-family: monospace, Monaco, "Courier New";
+	font-family: 'Share Tech Mono', monospace, 'Courier New';
 	font-size: 90%;
 }
 .sidebar li {
