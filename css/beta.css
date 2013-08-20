@@ -1,7 +1,12 @@
 body {
 	margin: 0;
-	font-family: 'PTSans', sans-serif;
+	font-family: 'PT Sans', sans-serif;
 	font-sze: 12px;
+}
+
+h3 {
+	margin: 0.5em 0 0.5em 0;
+	font-size: 110%;
 }
 
 a {
@@ -45,8 +50,6 @@ a:hover {
 
 .front-main a {
 	font-family: 'Montserrat Alternates', Helvetica;
-	font-size: 120%;
-
 }
 
 .front-main a:hover {
@@ -151,8 +154,7 @@ a:hover {
 
 .content img {
   display: block;
-  margin-right:auto;
-  margin-left:auto;
+  margin: 10px auto;
   border: 0.1em solid #fff;
   border-radius: 0.3em;
   padding: 0em;
@@ -169,6 +171,11 @@ ul.posts span {
 	color: #606060;
 	font-family: 'Share Tech Mono', monospace, 'Courier New';
 	font-size: 90%;	
+}
+
+ul.posts a {
+	color: #21c2f2;
+	font-family: 'PT Sans', sans-serif;
 }
 
 .sidebar {
@@ -198,6 +205,28 @@ ul.posts span {
 .sidebar li {
 
 }
+
+ul.sidebar-posts {
+        list-style-type: none;
+        margin-left: 0;
+        padding-left: 0;
+}
+
+ul.sidebar-posts span {
+        color: #606060;
+        font-family: 'Share Tech Mono', monospace, 'Courier New';
+        font-size: 90%; 
+}
+
+ul.sidebar-posts a {
+        color: #000;
+        font-family: 'PT Sans', sans-serif;
+}
+
+ul.sidebar-posts a:hover {
+        color: #21c2f2;
+}
+
 
 img {
 	border: 0px;
