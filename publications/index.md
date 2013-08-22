@@ -7,11 +7,11 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
-1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>PCCP</em>, 2014, Accepted subject to revisions.
+1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander; "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>PCCP</em>, 2014, Accepted subject to revisions.
 
-2. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain† and Cameron Alexander "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted subject to revisions
+2. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain* and Cameron Alexander; "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted subject to revisions
 
-3. Teresa Matini, Nora Francini, Anna Battocchio, Sebastian G. Spain, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander "Synthesis and characterization of variable conformation pH responsive block co-polymers for nucleic acid delivery and targeted cell entry" <em>Polym. Chem.</em> 2014, Advance Article. [\[DOI\]](http://dx.doi.org/10.1039/C3PY00744H) [\[PDF\]](/publications/PDFs/c3py00744h.pdf)
+3. Teresa Matini, Nora Francini, Anna Battocchio, Sebastian G. Spain, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander; "Synthesis and characterization of variable conformation pH responsive block co-polymers for nucleic acid delivery and targeted cell entry" <em>Polym. Chem.</em> 2014, Advance Article. [\[DOI\]](http://dx.doi.org/10.1039/C3PY00744H) [\[PDF\]](/publications/PDFs/c3py00744h.pdf)
 
 4. Samer R. Abulateefeh, Sebastian G. Spain, Kristofer J. Thurecht, Jonathan W. Aylott, Weng C. Chan, Martin C. Garnett and Cameron Alexander; "Enhanced uptake of nanoparticle drug carriers via a thermoresponsive shell enhances cytotoxicity in a cancer cell line" <em>Biomater. Sci.</em>, 2013, <strong>1</strong>, 434-442. [\[DOI\]](http://dx.doi.org/10.1039/C2BM00184E) [\[PDF\]](/publications/PDFs/c2bm00184e.pdf)
 
@@ -19,7 +19,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 6. Samer R. Abulateefeh, Sebastian G. Spain, Jonathan W. Aylott et al.; "Thermoresponsive colloids in cancer therapy" <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. [\[DOI\]](http://dx.doi.org/10.1002/mabi.201100252) 
 
-6. Sebastian G. Spain and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f.pdf) [\[PDF\]](/publications/PDFs/c2py20352a.pdf)
+6. Sebastian G. Spain* and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f.pdf) [\[PDF\]](/publications/PDFs/c2py20352a.pdf)
 
 5. Sebastian G. Spain and Neil R. Cameron; "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polym. Chem.</em>, 2011,<strong>2</strong>, 60-68. [\[DOI\]](http://dx.doi.org/10.1039/C0PY00149J) [\[PDF\]](/publications/PDFs/c0py00149j.pdf)
 
