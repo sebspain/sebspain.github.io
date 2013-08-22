@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-For PDF copies of any of the articles below please <a href="mailto:seb@sebspain.co.uk">contact Seb</a>
+Where copyright agreements allow a link to the published PDF may be found. Otherwise for PDF copies of any of the articles below please <a href="mailto:seb@sebspain.co.uk">contact me</a> and I will provide them where possible.
 
 ###Peer-reviewed Journals
 
@@ -17,17 +17,17 @@ For PDF copies of any of the articles below please <a href="mailto:seb@sebspain.
 
 5. Gokcen Yasayan, Martin Redhead, Johannes P. Magnusson, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, Cameron Alexander and Francisco Fernandez-Trillo; "Well-defined Polymeric Vesicles with High Stability and Modulation of Cell Uptake by a Simple Coating Protocol" <em>Polym. Chem.</em>, 2012, <strong>3</strong>, 2596-2604. [\[DOI\]](http://dx.doi.org/10.1039/c2py20352a) [\[PDF\]](/publications/PDFs/c2py20352a.pdf)
 
-6. Samer R. Abulateefeh, Sebastian G. Spain, Jonathan W. Aylott et al.; "Thermoresponsive colloids in cancer therapy" <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. [\[DOI\]](http://dx.doi.org/10.1002/mabi.201100252) [\[PDF\]](/publications/PDFs/)
+6. Samer R. Abulateefeh, Sebastian G. Spain, Jonathan W. Aylott et al.; "Thermoresponsive colloids in cancer therapy" <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. [\[DOI\]](http://dx.doi.org/10.1002/mabi.201100252) 
 
 6. Sebastian G. Spain and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f.pdf) [\[PDF\]](/publications/PDFs/c2py20352a.pdf)
 
 5. Sebastian G. Spain and Neil R. Cameron; "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polym. Chem.</em>, 2011,<strong>2</strong>, 60-68. [\[DOI\]](http://dx.doi.org/10.1039/C0PY00149J) [\[PDF\]](/publications/PDFs/c0py00149j.pdf)
 
-4. Matthew I. Gibson, Carl A. Barker, Sebastian G. Spain, Luca Albertin and Neil R. Cameron; "Inhibition of ice crystal growth by synthetic glycopolymers: implications for the rational design of antifreeze glycoprotein mimics" <em>Biomacromolecules</em>, 2009, <strong>10</strong>, 328-333. [\[DOI\]](http://dx.doi.org/10.1021/bm801069x) [\[PDF\]](/publications/PDFs/)
+4. Matthew I. Gibson, Carl A. Barker, Sebastian G. Spain, Luca Albertin and Neil R. Cameron; "Inhibition of ice crystal growth by synthetic glycopolymers: implications for the rational design of antifreeze glycoprotein mimics" <em>Biomacromolecules</em>, 2009, <strong>10</strong>, 328-333. [\[DOI\]](http://dx.doi.org/10.1021/bm801069x)
 
 3. Neil R. Cameron, Sebastian G. Spain, James A. Kingham, Stefan Weck, Luca Albertin, Carl A. Barker, Guiseppe Battaglia, Thomas Smart, and Adam Blanazs; "Synthesis of well-defined glycopolymers and some studies of their aqueous solution behaviour" <em>Faraday Discuss.</em>, 2008, <strong>139</strong>, 359-368. [\[DOI\]](http://dx.doi.org/10.1039/b717177c) [\[PDF\]](/publications/PDFs/b717177c.pdf)
 
-2. Sebastian G. Spain, Matthew I. Gibson and Neil R. Cameron; "Recent Advances in the Synthesis of Well-defined Glycopolymers" <em>J. Polym. Sci. Part A Polym. Chem.</em> 2007, <strong>45</strong>, 2059-2072. [\[DOI\]](http://dx.doi.org/10.1002/pola.22106) [\[PDF\]](/publications/PDFs/)
+2. Sebastian G. Spain, Matthew I. Gibson and Neil R. Cameron; "Recent Advances in the Synthesis of Well-defined Glycopolymers" <em>J. Polym. Sci. Part A Polym. Chem.</em> 2007, <strong>45</strong>, 2059-2072. [\[DOI\]](http://dx.doi.org/10.1002/pola.22106) 
 
 3. Sebastian G. Spain, Luca Albertin and Neil R. Cameron; "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chem. Commun.</em> 2006, 4198-4200. 	[\[DOI\]](http://dx.doi.org/10.1039/b608383h) [\[PDF\]](/publications/PDFs/b608383h.pdf)
 
