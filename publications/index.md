@@ -7,7 +7,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
-1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander; "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>PCCP</em>, 2014, Accepted subject to revisions.
+1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander; "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>PCCP</em>, Accepted. DOI: 10.1039/C3CP55243A [\[DOI\]](http://dx.doi.org/10.1039/C3CP55243A) 
 
 2. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain* and Cameron Alexander; "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted subject to revisions
 
