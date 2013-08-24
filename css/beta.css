@@ -4,9 +4,16 @@ body {
 	font-sze: 12px;
 }
 
+h1, h2, h3 {
+	font-family: 'Montserrat Alternates', Helvetica;
+}
+
+h2 {
+	font-size: 130%;
+}
 h3 {
 	margin: 0.5em 0 0.5em 0;
-	font-size: 110%;
+	font-size: 100%;
 }
 
 a {
