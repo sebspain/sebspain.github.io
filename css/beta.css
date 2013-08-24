@@ -129,6 +129,11 @@ a:hover {
 	margin: 0px auto;
 }
 
+.title-home-link {
+	float: right;
+	padding: 15px 5px;
+}
+
 .content p {
 	text-align:left;
 }
