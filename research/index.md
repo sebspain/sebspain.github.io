@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-**Work in progress**
+*Work in progress*
 
 ### Overview ###
 
