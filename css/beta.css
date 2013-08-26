@@ -225,6 +225,12 @@ ul.posts a {
 	font-family: 'Share Tech Mono', monospace, 'Courier New';
 	font-size: 90%;
 }
+
+.sidebar-includes h3{
+	border-top: 1 px solid #333;
+	font-size: 100%;
+}
+	
 .sidebar li {
 
 }
