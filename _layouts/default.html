@@ -1,65 +1,105 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <a href="/index.html"><title>{{ page.title }}</title></a>
-        <meta name="viewport" content="width=device-width">
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>sebspain.co.uk</title>
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans|Open+Sans:300italic,400italic,700italic,400,300,700|Montserrat+Alternates|Montserrat|Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/gridism.css">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+  {% include mathjax.html %}
+</head>
 
-		<link href='http://fonts.googleapis.com/css?family=PT+Sans|Montserrat+Alternates|Montserrat|Share+Tech+Mono' rel='stylesheet' type='text/css'>		
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+<body class="wrap wider">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/beta.css">
-{% include mathjax.html %}
-    </head>
-    <body>
-<div class="wrapper"> <!-- main site container -->
-  <div class="header">
-	  <div class="title">
-<!--
-		  <div class="title-home-link"><a href="/index.html"><img src="/img/home.png" alt="home icon"></a></div>
--->
-			<a href="/index.html"><h1>seb spain</h1></a>
-	  </div><!--close title div -->
-  </div> <!-- close header -->
-  
-  <div class="front-main">
-	 <div class="sidebar">
-		<ul>
-			<li><a href="/index.html">home</a></li>
-			<li><a href="/blog.html">blog</a></li>
-			<li><a href="/about/">about</a></li>
-	        <li><a href="/research/">research</a></li>
-			<li><a href="/publications/">bibliography</a></li>
-		</ul>
-		{% include recent_posts.md %}
-     	{% include links.html %}
-		
-	  </div><!-- close sidebar -->
-	  
-	  <div class="content">
-		<h2>{{ page.title }}</h2>
-                {{ content }}
-
-     </div><!-- close content -->
-	  
-  </div><!-- close front main -->
-  
-  <div class="front-footer">
-	<div class="contact">  
-		<div class="contact-right"><a href="http://jekyllrb.com">created with jekyll</a></div>
-		<div class="contact-left" ><a href="http://twitter.com/sebspain"><img src="/img/twitter.png" alt="twitter icon"/></a></div>
-		<div class="contact-left" ><a href="http://github.com/sebspain"><img src="/img/github.png" alt="github icon"/></a></div>
-		<div class="contact-left" ><a href="mailto:seb@sebspain.co.uk"><img src="/img/mail.png" alt="email icon"/></a></div>
-    </div><!-- close contact -->
-  </div><!-- close front-footer -->
-  
-  
+<header>
+<nav class="mobile-nav center-on-mobiles show-on-mobiles">
+<ul>
  
-    
-</div> <!-- close wrapper -->
+    <a href="/" class="button">Home</a>
   
-  </body>
+  <li class="button">
+    <a href="/blog.html">Blog</a>
+  </li>
+  <li class="button">
+    <a href="/research/">News</a>
+  </li>
+  <li class="button">
+    <a href="/publications/">Pub<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">lications</span></a>
+  </li>
+  <li class="button">
+    <a href="/graphics.html">Graphics</a>
+  </li>
+   <li class="button">
+    <a href="/photos.html">Photo<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">graphy</span></a>
+  </li>
+  <li class="button">
+    <a href="/about/">About</a>
+  </li>
+</ul>
+</nav>
+</header>
+
+<div class="grid">
+	<div class="unit w-2-3 ">
+	<h2>{{ page.title }}</h2>
+          {{ content }}
+    </div>
+
+<nav class="main-nav unit w-1-3 hide-on-mobiles">
+      <ul>
+  <li class="nav-button">
+    <a href="/">Home</a>
+  </li>
+  <li class="nav-button">
+    <a href="/blog.html">Blog</a>
+  </li>
+  <li class="nav-button">
+    <a href="/research/">News</a>
+  </li>
+  <li class="nav-button">
+    <a href="/publications/">Pub<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">lications</span></a>
+  </li>
+  <li class="nav-button">
+    <a href="/graphics.html">Graphics</a>
+  </li>
+   <li class="nav-button">
+    <a href="/photos.html">Photo<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">graphy</span></a>
+  </li>
+  <li class="nav-button">
+    <a href="/about/">About</a>
+  </li>
+</ul>
+
+    </nav>
+
+
+</div>
+  
+  
+
+  
+
+  <footer>
+    <div class="grid">
+      <div class="unit half">
+        <div class="center-on-mobiles">
+          <p>© Seb Spain</p>
+        </div>
+      </div>
+      <div class="unit half">
+        <div class="align-right center-on-mobiles">
+          <p>This website is <a href="https://github.com/sebspain/sebspain.github.io">hosted on github</a>, feel free to fork it</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  
+</body>
 </html>
+
+
+    
