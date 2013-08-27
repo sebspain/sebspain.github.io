@@ -118,7 +118,7 @@ li.posts {
   font-weight: 700;
   text-transform: uppercase;
   display: inline-block;
-  margin-bottom: .5em;
+  margin-bottom: .25em;
 }
 
 .button:hover, .button:focus {
