@@ -100,6 +100,10 @@ ul.posts {
 	padding: 0;
 }
 
+li.posts {
+	margin: 0.5em 0;
+}
+
 .button {
   border-radius: 5px;
   background: #efefef;
@@ -151,6 +155,11 @@ footer p {
   font-size: 1em;
 }
 
+ul.posts span {
+	color: #606060;
+	font-family: 'Share Tech Mono', monospace, 'Courier New';
+	font-size: 100%;	
+}
 
 pre {
   border: 1px solid #ddd;
