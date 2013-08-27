@@ -59,4 +59,15 @@ plot(data$t, data$ln, xlab="Time / min.", ylab="ln(1/1-x)", pch=16, xlim=c(0,144
 dev.off()
 
 ```
- 
+
+
+###$$\LaTeX$$###
+
+```{tex}
+\frac{x}{y}
+
+```
+
+$
+\frac{x}{y}
+$ 
