@@ -204,6 +204,14 @@ img {
   }
 }
 
+
+@media (max-width: 568px){
+  section, footer {
+  padding: 0px;
+  }
+}
+
+
 /* Styles to help demonstrate the grid */
 
 
