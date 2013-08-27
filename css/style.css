@@ -95,6 +95,11 @@ p, pre {
   line-height: 1.5em;
 }
 
+ul.posts {
+	list-style-type: none;
+	padding: 0;
+}
+
 .button {
   border-radius: 5px;
   background: #efefef;
@@ -145,6 +150,30 @@ footer p {
   margin: 0;
   font-size: 1em;
 }
+
+
+pre {
+  border: 1px solid #ddd;
+  background-color: #ececec;
+  padding: 0 .4em;
+  border-radius: 0.3em;
+}
+
+code {
+  display: block;
+  padding: 0 .2em;
+  overflow: auto;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  border: 0.1em solid #fff;
+  border-radius: 0.3em;
+  padding: 0em;
+  box-shadow: 0 0 0 2px #ddd;   
+}
+
 
 @media (min-width: 960px){
   h1 {
