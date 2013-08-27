@@ -8,7 +8,7 @@ I was born and raised in the Dursley area of Gloucestershire. A place that was o
 now at Warwick) I realised that polymer chemistry was for me (as predicted by Tim Reed several years earlier) and stayed in Durham to study for a PhD with Neil. In early 2008 I moved to the [Department of Clinical Pharmacology, University of Oxford](http://www.clinpharm.ox.ac.uk/), where I spent two years as a postdoc working on the development of "stealth" viruses and immunomodulatory polymers. In 2010 I moved to my current position in Nottingham where I am working for [Cameron Alexander](http://www.nottingham.ac.uk/pharmacy/people/cameron.alexander) on the development of DNA-polymer hybrids for drug-delivery. When not in the lab I split my time between geeky hobbies (I'm a linux geek in training), graphic design (see my [gallery](http://sebspain.co.uk/gallery/ "Gallery") for examples) and music (our one time Pharmacy band may be making a return). 
 
 ###About this site
-Originally this was supposed to an extension of my work website where I could use "modern" web technologies like PHP/MySQL but having grown tired of wordpress updates etc I've moved to the reliable Web 1.0 of a static website (generated with [Jekyll](http:www.jekyllrb.com), I'm *not* a luddite!)
+Originally this was supposed to an extension of my work website where I could use "modern" web technologies like PHP/MySQL but having grown tired of wordpress updates etc I've moved to the reliable Web 1.0 of a static website (generated with [Jekyll](http://www.jekyllrb.com), I'm *not* a luddite!)
 
 In terms of content, I'm not a prolific blogger but I do intend on trying to keep this up-to-date with research news as well as other things I've found interesting.
 
@@ -24,8 +24,9 @@ appropriate, whale.to is not a reference. To minimise the risk of legal proceedi
 
 The comment facility provided by [Disqus](http://disqus.com) and has additional spam-filtering by [askimet](https://akismet.com/). Occasionally a non-spam post will be caught and I'll have to release it from moderation so there may be a delay.
 ###Contact
-![My email address:seb[at][mydomain].co.uk](http://sebspain.co.uk/wp-content/uploads/2011/08/email.png "email me")
 
-Twitter: [@sebspain](http://twitter.com/sebspain)
+<a href="mailto:seb@sebspain.co.uk" class="button">Email</a>
+<a href="https://twitter.com/sebspain" class="button">Twitter</a>	       
+			
 
-Linkedin: [LinkedIn](http://uk.linkedin.com/pub/sebastian-spain/31/516/38a)
+
