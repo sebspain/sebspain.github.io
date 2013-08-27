@@ -12,7 +12,7 @@ body {
   color: #444;
   background: #ffffff;
   text-shadow: 0 1px 0 rgba(255,255,255,.5);
-  border-top: 5px solid #21c2f2;
+  border-top: 5px solid #008A3D;
 }
 
 /* I use full-width horizontal sections a lot */
@@ -52,7 +52,7 @@ h3 {
 }
 
 a {
-  color: #21c2f2;
+  color: #008A3D;
   text-decoration: none;
   -webkit-transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
@@ -74,7 +74,7 @@ section, footer {
 }
 
 footer {
-	border-bottom: 15px solid #21c2f2;
+	border-bottom: 15px solid #008A3D;
 }
 
 header h1 a {
@@ -123,7 +123,7 @@ li.posts {
 
 .button:hover, .button:focus {
   outline: none;
-  border: 1px solid rgba(33,194,242,.5);
+  border: 1px solid rgba(0, 138, 61, 0.5);
 }
 
 .nav-button {
@@ -147,7 +147,7 @@ li.posts {
 
 .nav-button:hover, .nav-button:focus {
   outline: none;
-  border: 1px solid rgba(33,194,242,.5);
+  border: 1px solid rgba(0, 138, 61, 0.5);
 }
 
 footer p {
