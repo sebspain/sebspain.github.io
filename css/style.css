@@ -172,6 +172,7 @@ code {
   display: block;
   padding: 0 .2em;
   overflow: auto;
+  width:100%
 }
 
 img {

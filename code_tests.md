@@ -3,7 +3,6 @@ layout: page
 title: Code Tests
 ---
 
-##Code Tests###
 A series of tests of code/syntax highlighting
 
 ###Shell Script###
