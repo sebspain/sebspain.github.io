@@ -74,7 +74,8 @@ section, footer {
 }
 
 footer {
-	border-bottom: 10px solid #008A3D;
+  border-bottom: 3px solid #008A3D;
+	border-top: 3px solid #008A3D;
 }
 
 header h1 a {
