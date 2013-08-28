@@ -151,7 +151,7 @@ li.posts {
 }
 
 .current {
-	background: rgba(0, 138, 61, 0.25);
+	border: 1px solid rgb(0, 138, 61);
 }
 
 footer p {
