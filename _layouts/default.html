@@ -1,81 +1,28 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>sebspain.co.uk</title>
-  <link href='http://fonts.googleapis.com/css?family=PT+Sans|Open+Sans:300italic,400italic,700italic,400,300,700|Montserrat+Alternates|Montserrat|Share+Tech+Mono' rel='stylesheet' type='text/css'>
-  {% include mathjax.html %}
-  <link rel="stylesheet" href="/css/gridism.css">
-  <link rel="stylesheet" href="/css/normalize.css">
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/syntax.css">
-</head>
+
+{% include preamble.html %}
+
 
 <body class="wrap wider">
-
 <header>
-<div class="mobile-nav center-on-mobiles show-on-mobiles">
-<p>
-   <a href="/" class="button">Home</a>
-   <a href="/blog.html" class="button">Blog</a>
-   <a href="/research/" class="button">Research</a>
-   <a href="/publications/" class="button">Pub<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">lications</span></a>
-   <a href="/graphics.html" class="button">Graphics</a>
-   <a href="/photos.html" class="button">Photo<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">graphy</span></a>
-   <a href="/about/" class="button">About</a>
-</p>
+	
+{% include mobile-nav.html %}
 
-</div>
 </header>
 
 <div class="grid">
+	
 	<div class="unit w-2-3 ">
 	<h2>{{ page.title }}</h2>
           {{ content }}
     </div>
 
-<nav class="main-nav unit w-1-3 hide-on-mobiles">
-      <ul>
-  <li class="nav-button">
-    <a href="/">Home</a>
-  </li>
-  <li class="nav-button">
-    <a href="/blog.html">Blog</a>
-  </li>
-  <li class="nav-button">
-    <a href="/research/">Research</a>
-  </li>
-  <li class="nav-button">
-    <a href="/publications/">Pub<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">lications</span></a>
-  </li>
-  <li class="nav-button">
-    <a href="/graphics.html">Graphics</a>
-  </li>
-   <li class="nav-button">
-    <a href="/photos.html">Photo<span class="show-on-mobiles">s</span><span class="hide-on-mobiles">graphy</span></a>
-  </li>
-  <li class="nav-button">
-    <a href="/about/">About</a>
-  </li>
-</ul>
-
-    </nav>
+{% include main-nav.html %}
 
 
 </div>
 
-  <footer>
-    <div class="grid">
-      
-      <div class="unit full">
-        <div class="align-left center-on-mobiles">
-          <p>This website is built with <a href="http://jekyllrb.com">jekyll</a> and the source is <a href="https://github.com/sebspain/sebspain.github.io">hosted on github</a>, feel free to fork it</p>
-        </div>
-      </div>
-    </div>
-  </footer>
-  
+{% include footer.html %}
+
 </body>
 </html>
 
