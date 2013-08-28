@@ -150,6 +150,10 @@ li.posts {
   border: 1px solid rgba(0, 138, 61, 0.5);
 }
 
+.current {
+	background: rgba(0, 138, 61, 0.25);
+}
+
 footer p {
   margin: 0;
   font-size: 1em;
