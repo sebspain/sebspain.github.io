@@ -184,7 +184,8 @@ img {
 }
 
 img.gallery {
-  max-width: 250px;
+  max-width: 100%;
+  height: 100%;
 }
 
 @media (min-width: 960px){
@@ -251,6 +252,11 @@ img.gallery {
   text-align: center;
 
 }
+
+.lb p {
+    margin-top: -45px;
+}
+
 .lb img
 {
   padding: 5px 5px 45px 5px;
