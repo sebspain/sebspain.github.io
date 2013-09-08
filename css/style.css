@@ -188,6 +188,10 @@ img.gallery {
   height: 100%;
 }
 
+.grid h2 {
+  margin-left: -3px;
+}
+
 @media (min-width: 960px){
   h1 {
     font-size: 5em;
@@ -210,15 +214,6 @@ img.gallery {
   }
 }
 
-
-/* Styles to help demonstrate the grid */
-
-
-.grid, .unit {
-  -webkit-transition: all .25s ease-in-out;
-  -moz-transition: all .25s ease-in-out;
-  transition: all .25s ease-in-out;
-}
 
 /** kludge to fix overly wide font spacing in firefox **/
 @-moz-document url-prefix() {
@@ -268,7 +263,7 @@ img.gallery {
   -webkit-animation-iteration-count: 1;
   -webkit-animation-direction: normal;
   -webkit-animation-timing-function: ease-in;
-  max-width: 700px;
+  max-width: 850px;
 }
 
 .lb:target {
@@ -276,3 +271,9 @@ img.gallery {
   display: table;
   height:100%
   }
+
+/** fixes padding for nested grids in gallery **/
+
+.grid .unit .gallery-list {
+  padding: 10px 0;
+}
