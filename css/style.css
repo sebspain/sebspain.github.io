@@ -183,6 +183,9 @@ img {
   box-shadow: 0 0 0 2px #ddd;   
 }
 
+img.gallery {
+  max-width: 250px;
+}
 
 @media (min-width: 960px){
   h1 {
