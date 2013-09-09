@@ -80,6 +80,12 @@ p, pre {
   line-height: 1.5em;
 }
 
+blockquote {
+  font-style: italic;
+  padding-left: 15px;
+  border-left: 3px solid #008A3D;
+}
+
 ul.posts {
 	list-style-type: none;
 	padding: 0;
