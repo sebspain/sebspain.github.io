@@ -7,8 +7,6 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
-1. Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>* and Cameron Alexander; "Programmed assembly of polymer–DNA conjugate nanoparticles with optical readout and sequence-specific activation of biorecognition" <em>Nanoscale</em> 2013, Accepted subject to revisions.
-
 1. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, <strong>Sebastian G. Spain</strong>* and Cameron Alexander; "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted. DOI:10.1039/C3BM60126A. [\[DOI\]](http://dx.doi.org/10.1039/C3BM60126A)
 
 1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>, Stephanie Allen, Martyn C. Davies, and Cameron Alexander; "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>Phys. Chem. Chem. Phys.</em>, 2013, <strong>15</strong>, 16263-16274. [\[DOI\]](http://dx.doi.org/10.1039/C3CP52243A) [\[PDF\]](/publications/PDFs/c3cp52243a.pdf)
