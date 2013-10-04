@@ -7,8 +7,13 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
+<<<<<<< HEAD
 1. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, <strong>Sebastian G. Spain</strong>* and Cameron Alexander; "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> DOI:10.1039/C3BM60126A. [\[DOI\]](http://dx.doi.org/10.1039/C3BM60126A
 )a
+=======
+1. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, <strong>Sebastian G. Spain</strong>* and Cameron Alexander; "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2014, Accepted. DOI:10.1039/C3BM60126A. [\[DOI\]](http://dx.doi.org/10.1039/C3BM60126A)
+
+>>>>>>> bc13152c0f2d65603d831535eb0e4110d0d334e6
 1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>, Stephanie Allen, Martyn C. Davies, and Cameron Alexander; "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>Phys. Chem. Chem. Phys.</em>, 2013, <strong>15</strong>, 16263-16274. [\[DOI\]](http://dx.doi.org/10.1039/C3CP52243A) [\[PDF\]](/publications/PDFs/c3cp52243a.pdf)
 
 1. Teresa Matini, Nora Francini, Anna Battocchio, <strong>Sebastian G. Spain</strong>, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander; "Synthesis and characterization of variable conformation pH responsive block co-polymers for nucleic acid delivery and targeted cell entry" <em>Polym. Chem.</em> 2014, Advance Article. [\[DOI\]](http://dx.doi.org/10.1039/C3PY00744H) [\[PDF\]](/publications/PDFs/c3py00744h.pdf)
