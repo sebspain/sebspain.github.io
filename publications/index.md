@@ -6,19 +6,10 @@ title: Publications
 Where copyright agreements allow a link to the published PDF may be found. Otherwise for PDF copies of any of the articles below please <a href="mailto:seb@sebspain.co.uk">contact me</a> and I will provide them where possible.
 
 \* denotes SGS as corresponding author
-<<<<<<< HEAD
 
 ###Peer-reviewed Journals
 
 1. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, <strong>Sebastian G. Spain</strong>\* and Cameron Alexander; "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2013, Advanced Article. DOI:10.1039/C3BM60126A. [\[DOI\]](http://dx.doi.org/10.1039/C3BM60126A) [\[PDF\]](http://sebspain.co.uk(publications/PDFs/c3bm60126a-adv.pdf)
-=======
-
-###Peer-reviewed Journals
-
-1. Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>\* and Cameron Alexander; "Programmed assembly of polymer-DNA conjugate nanoparticles with optical readout and sequence-specific activation of biorecognition" <em>Nanoscale</em> 2013, Accepted subject to revisions.
-
-1. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, <strong>Sebastian G. Spain</strong>\* and Cameron Alexander; "Synthesis and properties of dual responsive, programmable DNA-based hydrogel" <em>Biomat. Sci.</em> 2013, Advanced Article. DOI:10.1039/C3BM60126A. [\[DOI\]](http://dx.doi.org/10.1039/C3BM60126A) [\[PDF\]](publications/PDFs/c3bm60126a-adv.pdf)
->>>>>>> front_update
 
 1. Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>, Stephanie Allen, Martyn C. Davies, and Cameron Alexander; "Multi-modal switching in responsive DNA block co-polymer conjugates" <em>Phys. Chem. Chem. Phys.</em>, 2013, <strong>15</strong>, 16263-16274. [\[DOI\]](http://dx.doi.org/10.1039/C3CP52243A) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c3cp52243a.pdf)
 
@@ -30,11 +21,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 1. Samer R. Abulateefeh, <strong>Sebastian G. Spain</strong>, Jonathan W. Aylott et al.; "Thermoresponsive colloids in cancer therapy" <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. [\[DOI\]](http://dx.doi.org/10.1002/mabi.201100252)
 
-<<<<<<< HEAD
 1. <strong>Sebastian G. Spain</strong>\* and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f.pdf) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c2py20352a.pdf)
-=======
-1. <strong>Sebastian G. Spain</strong>\* and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f.pdf) [\[PDF\]](/publications/PDFs/c2py20352a.pdf)
->>>>>>> front_update
 
 1. <strong>Sebastian G. Spain</strong> and Neil R. Cameron; "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polym. Chem.</em>, 2011,<strong>2</strong>, 60-68. [\[DOI\]](http://dx.doi.org/10.1039/C0PY00149J) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c0py00149j.pdf)
 
@@ -44,11 +31,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 1. <strong>Sebastian G. Spain</strong>, Matthew I. Gibson and Neil R. Cameron; "Recent Advances in the Synthesis of Well-defined Glycopolymers" <em>J. Polym. Sci. Part A Polym. Chem.</em> 2007, <strong>45</strong>, 2059-2072. [\[DOI\]](http://dx.doi.org/10.1002/pola.22106)
 
-<<<<<<< HEAD
 1. <strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chem. Commun.</em> 2006, 4198-4200. [\[DOI\]](http://dx.doi.org/10.1039/b608383h) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/b608383h.pdf)
-=======
-1. <strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chem. Commun.</em> 2006, 4198-4200. [\[DOI\]](http://dx.doi.org/10.1039/b608383h) [\[PDF\]](/publications/PDFs/b608383h.pdf)
->>>>>>> front_update
 
 ###Book Chapters
 
