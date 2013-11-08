@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Open_Access_logo_PLoS_white.svg">
+  <defs
+     id="defs18">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="640 : 500 : 1"
+       inkscape:persp3d-origin="320 : 333.33333 : 1"
+       id="perspective20" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="940"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.262"
+     inkscape:cx="320"
+     inkscape:cy="477.09924"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>art designer at PLoS, modified by Wikipedia users Nina, Beao, JakobVoss, and AnonMoos</dc:creator>
+        <dc:description>Open Access logo, converted into svg, designed by PLoS. This version with transparent background.</dc:description>
+        <dc:source>http://commons.wikimedia.org/wiki/File:Open_Access_logo_PLoS_white.svg</dc:source>
+        <dc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <cc:attributionName>art designer at PLoS, modified by Wikipedia users Nina, Beao, JakobVoss, and AnonMoos</cc:attributionName>
+        <cc:attributionURL>http://www.plos.org/</cc:attributionURL>
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     width="640"
+     height="1000"
+     fill="#ffffff"
+     id="rect6" />
+  <path
+     style="fill:none;stroke:#008a3d;stroke-width:104.76399994000000504;stroke-opacity:1"
+     id="path10"
+     d="m 111.387,308.135 v -35.727 a 209.21,209.214 0 1 1 418.42,0 v 258.426" />
+  <circle
+     style="fill:none;stroke:#008a3d;stroke-width:104.76399994000000504;stroke-opacity:1"
+     sodipodi:ry="256.08301"
+     sodipodi:rx="256.08301"
+     sodipodi:cy="680.729"
+     sodipodi:cx="320.004"
+     id="circle12"
+     r="256.08301"
+     cy="680.729"
+     cx="320.004" />
+  <circle
+     fill="#f68212"
+     cx="321.01"
+     cy="681.659"
+     r="86.4287"
+     id="circle14"
+     style="fill:#008a3d;fill-opacity:1" />
+</svg>
