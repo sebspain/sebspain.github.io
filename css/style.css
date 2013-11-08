@@ -283,3 +283,11 @@ img.gallery {
 .grid .unit .gallery-list {
   padding: 10px 0;
 }
+
+
+img.oa {
+    border: 0 none;
+    box-shadow: none;
+    display: inline;
+    margin: 0 3px;
+}
