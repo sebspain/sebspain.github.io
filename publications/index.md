@@ -13,7 +13,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 ###Peer-reviewed Journals
 
 
-1. Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>\* and Cameron Alexander; "Programmed assembly of polymer-DNA conjugate nanoparticles with optical readout and sequence-specific activation of biorecognition" <em>Nanoscale</em>, Accepted Article, DOI:10.1039/C3NR04952C. <img height="14px" src="/img/oa.svg" class="oa" alt="open access logo"> [\[DOI\]](http://dx.doi.org/10.1039/C3NR04952C) 
+1. Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>\* and Cameron Alexander; "Programmed assembly of polymer-DNA conjugate nanoparticles with optical readout and sequence-specific activation of biorecognition" <em>Nanoscale</em>, Accepted Article, DOI:10.1039/C3NR04952C. <img height="14px" src="/img/oa.svg" class="oa" alt="open access logo"> [\[DOI\]](http://dx.doi.org/10.1039/C3NR04952C) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c3nr04952c-adv.pdf)
 
 1. Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, <strong>Sebastian G. Spain</strong>\* and Cameron Alexander; "Programmable polymer-DNA hydrogels with dual input and multiscale responses" <em>Biomat. Sci.</em> 2013, Advance Article. DOI:10.1039/C3BM60126A. <img height="14px" src="/img/oa.svg" class="oa" alt="open access logo"> [\[DOI\]](http://dx.doi.org/10.1039/C3BM60126A) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c3bm60126a-adv.pdf)
 
