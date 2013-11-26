@@ -27,7 +27,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 1. Samer R. Abulateefeh, <strong>Sebastian G. Spain</strong>, Jonathan W. Aylott et al.; "Thermoresponsive colloids in cancer therapy" <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. [\[DOI\]](http://dx.doi.org/10.1002/mabi.201100252)
 
-1. <strong>Sebastian G. Spain</strong>\* and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f.pdf) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c2py20352a.pdf)
+1. <strong>Sebastian G. Spain</strong>\* and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c2py20352a.pdf)
 
 1. <strong>Sebastian G. Spain</strong> and Neil R. Cameron; "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polym. Chem.</em>, 2011,<strong>2</strong>, 60-68. [\[DOI\]](http://dx.doi.org/10.1039/C0PY00149J) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c0py00149j.pdf)
 
