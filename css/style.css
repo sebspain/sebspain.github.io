@@ -103,11 +103,6 @@ li.posts {
 
 .button {
   border-radius: 5px;
-  background: #efefef;
-  background-image: -moz-linear-gradient(#FCFCFC, #EFEFEF);
-  background-image: -webkit-linear-gradient(#FCFCFC, #EFEFEF);
-  background-image: -ms-linear-gradient(#FCFCFC, #EFEFEF);
-  background-image: linear-gradient(#FCFCFC, #EFEFEF);
   border: 1px solid #DDDDDD;
   padding: 8px 16px;
   text-shadow: 0 1px 0 #fff;
@@ -125,11 +120,6 @@ li.posts {
 
 .nav-button {
   border-radius: 5px;
-  background: #efefef;
-  background-image: -moz-linear-gradient(#FCFCFC, #EFEFEF);
-  background-image: -webkit-linear-gradient(#FCFCFC, #EFEFEF);
-  background-image: -ms-linear-gradient(#FCFCFC, #EFEFEF);
-  background-image: linear-gradient(#FCFCFC, #EFEFEF);
   border: 1px solid #DDDDDD;
   padding: 8px 16px;
   text-shadow: 0 1px 0 #fff;
