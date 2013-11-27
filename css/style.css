@@ -218,6 +218,9 @@ img.gallery {
                     }
 }
 
+#meta {
+  font-family: 'Share Tech Mono', monospace, 'Courier New';
+}
 
 /**lightbox for gallery **/
 
@@ -280,3 +283,4 @@ img.oa {
     display: inline;
     margin: -2px 2px;
 }
+
