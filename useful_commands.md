@@ -33,6 +33,16 @@ for dir in ./*/
 	done
 ```
 
+Alternatively the leading ./ may be removed before the echo command
+
+```{sh}
+for dir in ./*/
+ 	do 	dir=${dir%*/} #strips closing /
+ 		dir=${dir##*/} 	#strips leading ./
+ 		echo $dir #prints list
+ 	done
+```
+
 ###Strip spaces
 Replaces spaces in filenames with underscores
 
