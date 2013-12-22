@@ -22,11 +22,24 @@ for i in {1..10}
 	done
 ```
 
-###List all directories in current
+###List directories
+This lists subdirectories of the current directory while stripping leading ./ and closing / making it useful where directory names need to be used as a variable.
 
 ```{sh}
+#!/bin/bash
 for dir in ./*/
 	do  dir=${dir%*/} #strips closing /
     	echo ${dir##*/} #prints and strips leading ./
 	done
+```
+
+###Strip spaces
+Replaces spaces in filenames with underscores
+
+```{sh}
+#!/bin/bash
+ls | while read -r FILE
+do
+    mv -v "$FILE" `echo $FILE | tr ' ' '_' `
+done
 ```
