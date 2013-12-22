@@ -1,6 +1,12 @@
 ---
-layout: page
-title: Useful Commands
+layout: post
+title: Useful Commands 1
+comments: true
+author: Seb Spain
+published: true
+categories:
+- Coding
+- Useful Commands
 ---
 
 This page is mainly an *aide-mémoire* for me but some of these may be useful for others
