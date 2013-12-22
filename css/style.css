@@ -13,6 +13,7 @@ body {
   background: #ffffff;
   text-shadow: 0 1px 0 rgba(255,255,255,.5);
   border-top: 10px solid #008A3D;
+  font-size: 14px;
 }
 
 /* I use full-width horizontal sections a lot */
