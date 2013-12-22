@@ -9,7 +9,7 @@ categories:
 - Useful Commands
 ---
 
-This page is mainly an *aide-mémoire* for me but some of these may be useful for others
+This page is mainly an *aide-mémoire* for me but some of these may be useful for others. Add suggestions for improvements in the comments.
 
 ###Create a set of test images
 This creates a set of images with the numbers 1 to 10 in the middle. Useful for creating a set of images for further scripting tests. Requires [ImageMagick](http://www.imagemagick.org/).
