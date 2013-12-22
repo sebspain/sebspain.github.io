@@ -16,7 +16,17 @@ for i in {1..10}; do convert -size 800x600 xc:#ffffccff -fill black -pointsize 8
 **Script version**
 
 ```{sh}
+#!/bin/bash
 for i in {1..10}
 	do convert -size 800x600 xc:#ffffccff -fill black -pointsize 80 -draw "text 400,300 '$i'" test-img-$i.jpg
+	done
+```
+
+###List all directories in current
+
+```{sh}
+for dir in ./*/
+	do  dir=${dir%*/} #strips closing /
+    	echo ${dir##*/} #prints and strips leading ./
 	done
 ```
