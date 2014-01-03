@@ -30,26 +30,17 @@ for i in {1..10}
 ```
 
 ###List directories
-This lists subdirectories of the current directory while stripping leading ./ and closing / making it useful where directory names need to be used as a variable.
+*Updated 2014-01-03 to make it compatible with spaces in directory names*
+
+This lists subdirectories of the current directory while stripping the closing / making it useful where directory names need to be used as a variable.
 
 ```{sh}
 #!/bin/bash
-for dir in ./*/
-	do  
-		dir=${dir%*/} #strips closing /
-    	echo ${dir##*/} #prints and strips leading ./
-	done
-```
-
-Alternatively the leading ./ may be removed before the echo command
-
-```{sh}
-for dir in ./*/
- 	do 	
- 		dir=${dir%*/} #strips closing /
- 		dir=${dir##*/} 	#strips leading ./
- 		echo $dir #prints list
- 	done
+ls -d */ | while read line
+	 do 
+	 	dir=${line%*/}
+	 	echo $dir
+	 done
 ```
 
 ###Strip spaces
@@ -67,9 +58,9 @@ ls | while read -r FILE
 Unzips all zip archives in the current folder creating a subfolder for each that is named after the archive (minus the zip extension)
 
 ```{sh}
-for file in *.zip
+ls *.zip | while read file
 	do 
-		unzip $file -d ./${file/.zip/} 
+		unzip "$file" -d ./"${file/.zip/}" 
 	done
 ```
 
@@ -79,17 +70,17 @@ Examples are image renaming but will work with others
 Add text between filename and extension. Renames filename.png to filename-text.png
 
 ```{sh}
-for file in *.png
+ls *.png | while read file
 	do 
-		mv $file ${file/.png/}-text.png
+		mv "$file" "${file/.png/}"-text.png
 	done
 ```
 
 Add text before filename. Renames filename.png to text-filename.png
 
 ```{sh}
-for file in *.png
+ls *.png | while read file
 	do 
-		mv $file text-$file
+		mv "$file" text-"$file"
 	done
 ```
