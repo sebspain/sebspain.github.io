@@ -24,7 +24,8 @@ for i in {1..10}; do convert -size 800x600 xc:#ffffccff -fill black -pointsize 8
 ```{sh}
 #!/bin/bash
 for i in {1..10}
-	do convert -size 800x600 xc:#ffffccff -fill black -pointsize 80 -draw "text 400,300 '$i'" test-img-$i.jpg
+	do 
+		convert -size 800x600 xc:#ffffccff -fill black -pointsize 80 -draw "text 400,300 '$i'" test-img-$i.jpg
 	done
 ```
 
@@ -34,7 +35,8 @@ This lists subdirectories of the current directory while stripping leading ./ an
 ```{sh}
 #!/bin/bash
 for dir in ./*/
-	do  dir=${dir%*/} #strips closing /
+	do  
+		dir=${dir%*/} #strips closing /
     	echo ${dir##*/} #prints and strips leading ./
 	done
 ```
@@ -43,7 +45,8 @@ Alternatively the leading ./ may be removed before the echo command
 
 ```{sh}
 for dir in ./*/
- 	do 	dir=${dir%*/} #strips closing /
+ 	do 	
+ 		dir=${dir%*/} #strips closing /
  		dir=${dir##*/} 	#strips leading ./
  		echo $dir #prints list
  	done
@@ -55,7 +58,38 @@ Replaces spaces in filenames with underscores
 ```{sh}
 #!/bin/bash
 ls | while read -r FILE
-do
-    mv -v "$FILE" `echo $FILE | tr ' ' '_' `
-done
+	do 	
+		mv -v "$FILE" `echo $FILE | tr ' ' '_' `
+	done
+```
+
+###Unzip archives to individual folders
+Unzips all zip archives in the current folder creating a subfolder for each that is named after the archive (minus the zip extension)
+
+```{sh}
+for file in *.zip
+	do 
+		unzip $file -d ./${file/.zip/} 
+	done
+```
+
+###Bulk renaming
+Examples are image renaming but will work with others
+
+Add text between filename and extension. Renames filename.png to filename-text.png
+
+```{sh}
+for file in *.png
+	do 
+		mv $file ${file/.png/}-text.png
+	done
+```
+
+Add text before filename. Renames filename.png to text-filename.png
+
+```{sh}
+for file in *.png
+	do 
+		mv $file text-$file
+	done
 ```
