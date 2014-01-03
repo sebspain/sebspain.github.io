@@ -11,7 +11,6 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #444;
   background: #ffffff;
-  text-shadow: 0 1px 0 rgba(255,255,255,.5);
   border-top: 10px solid #008A3D;
   font-size: 14px;
 }
@@ -29,6 +28,7 @@ body > footer {
 h2, h3 {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
+  margin: 0.5em 0;
 }
 
 h1 {
