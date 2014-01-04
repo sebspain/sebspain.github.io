@@ -11,6 +11,8 @@ categories:
 
 This page is mainly an *aide-mémoire* for me but some of these may be useful for others. Add suggestions for improvements in the comments.
 
+These should all run on bash, additional requirements are noted.
+
 ###Create a set of test images
 This creates a set of images with the numbers 1 to 10 in the middle. Useful for creating a set of images for further scripting tests. Requires [ImageMagick](http://www.imagemagick.org/).
 
@@ -44,7 +46,7 @@ ls -d */ | while read line
 ```
 
 ###Strip spaces
-Replaces spaces in filenames with underscores
+Replaces spaces in filenames with underscores for all files (non-hidden files) in the current directory
 
 ```{sh}
 #!/bin/bash
@@ -54,8 +56,8 @@ ls | while read -r FILE
 	done
 ```
 
-###Unzip archives to individual folders
-Unzips all zip archives in the current folder creating a subfolder for each that is named after the archive (minus the zip extension)
+###Unzip archives to individual subdirectoies
+Unzips all zip archives in the current directory creating a subfolder for each that is named after the archive (minus the zip extension)
 
 ```{sh}
 ls *.zip | while read file
@@ -65,7 +67,7 @@ ls *.zip | while read file
 ```
 
 ###Bulk renaming
-Examples are image renaming but will work with others
+Examples are image renaming but will work with others. Affects all files in the current directory.
 
 Add text between filename and extension. Renames filename.png to filename-text.png
 
@@ -82,5 +84,34 @@ Add text before filename. Renames filename.png to text-filename.png
 ls *.png | while read file
 	do 
 		mv "$file" text-"$file"
+	done
+```
+
+*Added 2014-01-04*
+
+###Batch conversion of SVG files
+These convert all SVG files in a directory to EPS or PNG for use with $$LaTeX$$ etc. This method requires [Inkscape](http://www.inkscape.org).
+
+**EPS Conversion**
+
+```{sh}
+#!/bin/bash
+
+ls *.svg | while read file
+	do
+		inkscape "$file" --export-eps="${file/.svg/}.eps"
+	done
+```
+
+**PNG Conversion**
+
+This script takes an additional argument to determine the resolution (DPI) of the output files. Personally I have it saved in my PATH as svg2png and run as svg2png <DPI>. E.g. "svg2png 300" will export 300 DPI PNG files.
+
+```{sh}
+#!/bin/bash
+
+ls *.svg | while read file
+	do
+		inkscape "$file" -d $1 -e "${file/.svg/}.png"
 	done
 ```
