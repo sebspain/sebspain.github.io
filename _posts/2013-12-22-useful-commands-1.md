@@ -90,7 +90,7 @@ ls *.png | while read file
 *Added 2014-01-04*
 
 ###Batch conversion of SVG files
-These convert all SVG files in a directory to EPS or PNG for use with $$LaTeX$$ etc. This method requires [Inkscape](http://www.inkscape.org).
+These convert all SVG files in a directory to EPS or PNG for use with $LaTeX$ etc. This method requires [Inkscape](http://www.inkscape.org).
 
 **EPS Conversion**
 
