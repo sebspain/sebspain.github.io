@@ -105,7 +105,7 @@ ls *.svg | while read file
 
 **PNG Conversion**
 
-This script takes an additional argument to determine the resolution (DPI) of the output files. Personally I have it saved in my PATH as svg2png and run as svg2png <DPI>. E.g. "svg2png 300" will export 300 DPI PNG files.
+This script takes an additional argument to determine the resolution (DPI) of the output files. Personally I have it saved in my PATH as svg2png and run as svg2png \<DPI\>. E.g. "svg2png 300" will export 300 DPI PNG files.
 
 ```{sh}
 #!/bin/bash
