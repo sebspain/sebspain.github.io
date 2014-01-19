@@ -28,6 +28,7 @@ body > footer {
 h2, h3 {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
+  margin: 0.5em 0;
 }
 
 h1 {
@@ -217,7 +218,7 @@ img.gallery {
 
 /** kludge to fix overly wide font spacing in firefox **/
 @-moz-document url-prefix() {
-                        h1, h2 {
+                        header h1 {
                         letter-spacing: -0.1em;
                     }
 }
