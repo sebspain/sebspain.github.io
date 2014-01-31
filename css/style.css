@@ -289,6 +289,10 @@ img.oa {
     margin: -2px 2px;
 }
 
-.MathJax_Display {
-color: #444 !important;
+.MathJax .mo {
+  color: inherit;
+}
+
+.MathJax .mi {
+  color: inherit;
 }
