@@ -46,23 +46,7 @@ Currently 3D printing is limited to a spacial resolution in the 10s of micron ra
 
 The second method, molecular imprinting, can produce a "mold" on about the right length scale. Molecular imprinting is analagous to producing a mold in traditional metalwork molding. You make the mold by making a polymer in the presence of the molecule that acts as a [template](http://en.wikipedia.org/wiki/Pattern_\(casting\)). When you remove the template molecule you end up with holes of the appropriate shape in the material. So, theoretically molecular imprinting could produce a suitable mold, but *you'll need your target drug to make the mold* so we are back to a chicken-egg situation again.
 
-So the feasibility of the first step in the process is basically zero, at least until we can produce a mold on an Angstrom scale without needing it to be a) made of molecules (maybe an electric/magnetic field in the future) or b) needing to already have the target molecule.
+So the feasibility of the first step in the process is basically zero, at least until we can produce a mold on an Angstrom scale without needing it to be a) made of molecules (maybe an electric/magnetic field in the future?) or b) needing to already have the target molecule.
 
-
-<!-- Lee Cronin then gets a mention .
-
->A world-leading group led by Lee Cronin has made advances with the technology named ‘Chemputer’ [25], [26], [27], [28] and [29]. However, it is different to our concept. We specifically address the detail of how to pick up each atom and react. We also disagree that it is possible for anyone to simply download the software (app) from the internet and use it to print one's own drug. It is not feasible and should be illegal in the future.
-
-I'm familiar with Lee's work, and some of my colleagues collaborate with him. His ideas are considered somewhat  -->
-
-
-
-
-
-
-
-
-http://betterlivingthroughchemistry.ghost.io/drugprinter-or-the-hallucinogenic-goose-that-3d-prints-the-golden-egg/
-
-http://pipeline.corante.com/archives/2014/04/21/molecular_printing_of_drug_molecules_say_what.php
+I'll leave it there for now as it just gets less feasible, if I get time tomorrow I may carry on. In the mean time take a look at [fluorogrol's](http://betterlivingthroughchemistry.ghost.io/drugprinter-or-the-hallucinogenic-goose-that-3d-prints-the-golden-egg/) and [Derek Lowe's](http://pipeline.corante.com/archives/2014/04/21/molecular_printing_of_drug_molecules_say_what.php) posts for their comments on the synthetic parts.
 
