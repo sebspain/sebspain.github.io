@@ -51,6 +51,6 @@ So the feasibility of the first step in the process is basically zero, at least 
 I'll leave it there for now as it just gets less feasible, if I get time tomorrow I may carry on. In the mean time take a look at [fluorogrol's](http://betterlivingthroughchemistry.ghost.io/drugprinter-or-the-hallucinogenic-goose-that-3d-prints-the-golden-egg/) and [Derek Lowe's](http://pipeline.corante.com/archives/2014/04/21/molecular_printing_of_drug_molecules_say_what.php) posts for their comments on the synthetic parts.
 
 Copyright.
-Quoted text and the image are reproduced from Calvin Yu-Chian Chen, *Drug Discovery Today*, 2014. DOI: http://dx.doi.org/10.1016/j.drudis.2014.03.027 and there reproduction is considered fair use.
+Quoted text and the image are reproduced from Calvin Yu-Chian Chen, *Drug Discovery Today*, 2014. DOI: http://dx.doi.org/10.1016/j.drudis.2014.03.027 and their reproduction here is considered fair use.
 
 License is unknown as the article is Open Access and displays a [ http://creativecommons.org/licenses/by-nc-nd/3.0/]( http://creativecommons.org/licenses/by-nc-nd/3.0/) but the bottom of the article claims Copyright Elsevier All Rights Reserved.
