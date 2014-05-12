@@ -12,8 +12,8 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
-1.  E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, Sebastian G. Spain, David Bradshaw, David Churchley, Guiseppe Mantovani, Klaus Winzer
-and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selective microbial binding and labelling" <em>Nature Mater.</em>, Advance Article. DOI: 10.1038/nmat3949. [\[DOI\]](http://dx.doi.org/10.1038/nmat3949)
+1.  E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, Sebastian G. Spain, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer
+and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selective microbial binding and labelling" <em>Nature Mater.</em>, 2014, Advance Online Publication. DOI: 10.1038/nmat3949. [\[DOI\]](http://dx.doi.org/10.1038/nmat3949)
 
 
 1. Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>\* and Cameron Alexander; "Programmed assembly of polymer-DNA conjugate nanoparticles with optical readout and sequence-specific activation of biorecognition" <em>Nanoscale</em> 2014, <strong>6</strong>, 2368-2374. <img height="14px" src="/img/oa.svg" class="oa" alt="open access logo"> [\[DOI\]](http://dx.doi.org/10.1039/C3NR04952C) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c3nr04952c-final.pdf)
