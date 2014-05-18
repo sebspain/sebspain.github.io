@@ -12,7 +12,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
-1.  E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, Sebastian G. Spain, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer
+1.  E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, <strong>Sebastian G. Spain</strong>, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer
 and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selective microbial binding and labelling" <em>Nature Mater.</em>, 2014, Advance Online Publication. DOI: 10.1038/nmat3949. [\[DOI\]](http://dx.doi.org/10.1038/nmat3949)
 
 
