@@ -4,6 +4,8 @@ title: Research
 ---
 *Work in progress*
 
+My research interests lie at the interfaces of chemistry, biology and pharmacy. 
+
 My research involves a mixture of organic, polymer and physical chemistries, cell biology and pharmacy. 
 
 ### Overview ###
