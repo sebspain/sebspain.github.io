@@ -1,7 +1,7 @@
 --- 
-layout: page 
-title: About 
---- 
+layout: page
+title: About
+---
 ### Name: Seb Spain
 ### Occupation: Research Fellow (Chemistry) 
 I was born and raised in the Dursley area of Gloucestershire. A place that was once beautifully described as "A one horse town, where even the horse left due to boredom and the desire to get a life" and inspiration for the now infamous [Dursley Family](http://en.wikipedia.org/wiki/Dursley_family#The_Dursleys). I attended Rednock School where I was taught chemistry by [Tim Harrison](http://www.chemlabs.bris.ac.uk/bios/Tim_Harrison.html) and Tim Reed who introduced me to what fun it can be. I then moved to the University of Durham where I read chemistry and graduated with an MChem in 2004. During my undergraduate project with [Neil Cameron](http://www.dur.ac.uk/chemistry/staff/profile/?id=173) (working with [Matt Gibson](http://www2.warwick.ac.uk/fac/sci/chemistry/research/gibson/),
@@ -26,7 +26,4 @@ The comment facility provided by [Disqus](http://disqus.com) and has additional 
 ###Contact
 
 <a href="mailto:seb@sebspain.co.uk" class="button">Email</a>
-<a href="https://twitter.com/sebspain" class="button">Twitter</a>	       
-			
-
-
+<a href="https://twitter.com/sebspain" class="button">Twitter</a>
