@@ -1,18 +1,11 @@
 --- 
-<<<<<<< HEAD
 layout: page 
 title: About 
 ---
  
 ###Name: Seb Spain
 ###Occupation: Research Fellow (Chemistry) 
-=======
-layout: page
-title: About
----
-### Name: Seb Spain
-### Occupation: Research Fellow (Chemistry) 
->>>>>>> 6c7641968cfb7e70f8e358f3e7a602b2acd66123
+
 I was born and raised in the Dursley area of Gloucestershire. A place that was once beautifully described as "A one horse town, where even the horse left due to boredom and the desire to get a life" and inspiration for the now infamous [Dursley Family](http://en.wikipedia.org/wiki/Dursley_family#The_Dursleys). I attended Rednock School where I was taught chemistry by [Tim Harrison](http://www.chemlabs.bris.ac.uk/bios/Tim_Harrison.html) and Tim Reed who introduced me to what fun it can be. I then moved to the University of Durham where I read chemistry and graduated with an MChem in 2004. During my undergraduate project with [Neil Cameron](http://www.dur.ac.uk/chemistry/staff/profile/?id=173) (working with [Matt Gibson](http://www2.warwick.ac.uk/fac/sci/chemistry/research/gibson/),
 now at Warwick) I realised that polymer chemistry was for me (as predicted by Tim Reed several years earlier) and stayed in Durham to study for a PhD with Neil. In early 2008 I moved to the [Department of Clinical Pharmacology, University of Oxford](http://www.clinpharm.ox.ac.uk/), where I spent two years as a postdoc working on the development of "stealth" viruses and immunomodulatory polymers. In 2010 I moved to my current position in Nottingham where I am working for [Cameron Alexander](http://www.nottingham.ac.uk/pharmacy/people/cameron.alexander) on the development of DNA-polymer hybrids for drug-delivery. When not in the lab I split my time between geeky hobbies (I'm a linux geek in training), graphic design (see my [gallery](http://sebspain.co.uk/gallery/ "Gallery") for examples) and music (our one time Pharmacy band may be making a return). 
 
