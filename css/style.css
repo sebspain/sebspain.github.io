@@ -42,7 +42,14 @@ h2 {
 }
 
 h3 {
-  font-size: 1.4em;
+  font-size: 1.6em;
+}
+
+h4 {
+  font-size: 1.3em;
+}
+h5 {
+  font-size: 1em;
 }
 
 a {
@@ -202,7 +209,13 @@ img.gallery {
     font-size: 2.8em;
   }
   h3 {
-    font-size: 2em;
+    font-size: 1.6em;
+  }
+  h4 {
+    font-size: 1.3em;
+  }
+  h5 {
+    font-size: 1em;
   }
   .lead {
     font-size: 1.8em;
