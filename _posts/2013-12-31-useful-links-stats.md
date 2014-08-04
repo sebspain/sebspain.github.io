@@ -19,3 +19,7 @@ A rather excellent introduction to basic statistics by demonstrating the common 
 [Lectures on Biostatistics by David Colquhoun](http://www.dcscience.net/Lectures_on_biostatistics-ocr4.pdf)
 
 DC's out-of-print book, slightly dated but the maths hasn't changed.
+
+[OpenIntro Statistics](http://www.openintro.org/stat/)
+
+Creative Commons Licensed Stats Textbook and Courses
