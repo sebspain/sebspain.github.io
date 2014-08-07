@@ -42,7 +42,7 @@ add in link once written above the evils of office
 add in link to post about file sizes, efficiency and vector vs. raster
 -->
 
-There are various reasons for this that I'll expand upon in a later post but the main problem is that Excel cannot export graphs to a good vector format and that's how graphs should be exported (again, I'll expand on this later).
+There are various reasons for this that I'll expand upon in a later post but the main problem is that Excel cannot export graphs to a good vector format and that's how graphs should be exported (again, I'll expand on this later). In fact [it can barely export graphs at all](http://www.ablebits.com/office-addins-blog/2013/08/27/save-excel-chart-as-image/)
 
 Graphing software that will produce good quality vector graphics include:
 
