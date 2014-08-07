@@ -62,7 +62,7 @@ Scalable Vector Graphics (SVG) are a relative new comer. Originally designed as 
 - not commonly accepted by publishers
 - some compatibility issues when opening files created in different software
 - no "real" layers
-- poor software support
+- poor software support*
 
 ####WMF/EWF (.wmf/.emf)
 Windows/Enhanced Metafiles are Microsoft's own vector format.
