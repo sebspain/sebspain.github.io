@@ -38,3 +38,5 @@ With this in mind a couple of years ago I gave a brief presentation on the basic
 [Part 2. Color Spaces, Resolutions and Compression](/2013/01/30/graphics-for-scientists-part-2-color-spaces-resolutions-and-compression.html)
 
 [Part 3. Raster File Formats](/2014/08/04/graphics-for-scientists-part-3-file-formats.html)
+
+[Part 4. Vector File Formats](/2014/08/07/graphics-for-scientists-part-4-vector-file-formats.html)
