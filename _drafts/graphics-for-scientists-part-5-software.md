@@ -60,7 +60,13 @@ My personal favourite. It runs on anything but is command-line based so has a st
 
 
 ####"Photographs"
-Generally the only source of raster images should be photographs and micrographs. Good microscopes will produce high quality TIFF files as well as their own format (usually a container with additional information, then the TIFFs). For photographs, if possible use a camera that record either to TIFF or RAW. There days a lot of lab photos are taken on phones which inevitably save as JPEG, make sure the highest settings are
+Generally the only source of raster images should be photographs and micrographs. Good microscopes will produce high quality TIFF files as well as their own format (usually a container with additional information, then the TIFFs). For photographs, if possible use a camera that record either to TIFF or RAW. These days a lot of lab photos are taken on phones which inevitably save as JPEG, make sure the highest quality settings are used.
+
+#####Adobe Photoshop
+
+#####GIMP
+
+#####ImageJ
 
 
 
