@@ -29,6 +29,7 @@ Basically, Excel is pretty crap at data analysis so you may as well use somethin
 The default graphs are *ugly* and often represent data badly.
 
 <!--- add in some example graphs --->
+![Example of the ugly default Excel 2003 plot](http://sebspain.co.uk/files/2014/08/12/excel03_graph.png)
 
 ####References
 
