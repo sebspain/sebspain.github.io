@@ -12,7 +12,9 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
-1.  E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, <strong>Sebastian G. Spain</strong>, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer
+1. Daniel E. Mitchell, Mary Lilliman, <strong>Sebastian G. Spain</strong> and Matthew I. Gibson; "Quantitative study on the antifreeze protein mimetic ice growth inhibition properties of poly(ampholytes) derived from vinyl-based polymers" <em>Biomater. Sci.</em>, 2014, Advance Article. DOI:10.1039/C4BM00153B. [\[DOI\]](http://dx.doi.org/10.1039/C4BM00153B) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c4bm00153b-adv.pdf)
+
+1. E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, <strong>Sebastian G. Spain</strong>, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer
 and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selective microbial binding and labelling" <em>Nature Mater.</em>, 2014, 13, 748-755. [\[DOI\]](http://dx.doi.org/10.1038/nmat3949)
 
 
