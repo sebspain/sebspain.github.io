@@ -35,6 +35,7 @@ h1 {
   font-family: "Montserrat Alternates", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 3em;
+  margin: 50px 0 0 0;
 }
 
 h2 {
@@ -79,7 +80,8 @@ header p {
 }
 
 .lead {
-  font-size: 1.5em;
+  font-size: 2.5em;
+  margin: 40px 0 0 0;
 }
 
 p, pre {
@@ -121,7 +123,13 @@ li.posts {
   font-size: 1.2em;
 }
 
-.button:hover, .button:focus {
+.contact {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0 0.5em;
+  border: 1px solid #DDDDDD;
+  border-radius: 3px;
+}
+.button:hover, .button:focus, .contact:hover, .contact:focus {
   outline: none;
   border: 1px solid rgba(0, 138, 61, 0.5);
 }
@@ -149,6 +157,10 @@ li.posts {
 
 .current {
 	border: 1px solid rgb(0, 138, 61);
+}
+
+.page {
+  padding: 0;
 }
 
 footer p {
@@ -218,7 +230,7 @@ img.gallery {
     font-size: 1em;
   }
   .lead {
-    font-size: 1.8em;
+    font-size: 2.5em;
   }
 }
 
