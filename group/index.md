@@ -19,7 +19,6 @@ EPSRC CASE Award with PsiOxus Therapeutics.
 
 Co-supervised by Cameron Alexander and Beppe Mantovani.
 
-http://www.nottingham.ac.uk/pharmacy/news/phd-student-wins-best-poster-prize.aspx
 #####Lee Moir
 Project: Development of an externally activated drug delivery system
 
