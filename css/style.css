@@ -110,6 +110,10 @@ li.posts {
 	margin: 0.5em 0;
 }
 
+ol {
+  padding-left: 20px;
+}
+
 .button {
   border-radius: 5px;
   border: 1px solid #DDDDDD;
