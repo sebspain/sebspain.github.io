@@ -6,5 +6,8 @@ deny from all
 	
 </Files>
 	
+<IfModule headers_module>
+    header set X-Clacks-Overhead "GNU Terry Pratchett"
+</IfModule>
 
 ErrorDocument 404 /404.html
