@@ -12,7 +12,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 ###Peer-reviewed Journals
 
-1. Nora Francini, Laura Purdie, Cameron Alexander, Giuseppe Mantovani and <strong>Sebastian G. Spain</strong>\*; "Multifunctional poly[N-(2-hydroxypropyl)methacrylamide] copolymers via post-polymerization modification and sequential thiol–ene chemistry" <em>Macromolecules</em>, Accepted.
+1. Nora Francini, Laura Purdie, Cameron Alexander, Giuseppe Mantovani and <strong>Sebastian G. Spain</strong>\*; "Multifunctional poly[N-(2-hydroxypropyl)methacrylamide] copolymers via post-polymerization modification and sequential thiol–ene chemistry" <em>Macromolecules</em>, Article ASAP DOI: 10.1021/acs.macromol.5b00447. [\[DOI\]](http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b00447)
 
 1. Daniel E. Mitchell, Mary Lilliman, <strong>Sebastian G. Spain</strong> and Matthew I. Gibson; "Quantitative study on the antifreeze protein mimetic ice growth inhibition properties of poly(ampholytes) derived from vinyl-based polymers" <em>Biomater. Sci.</em>, 2014, <strong>2</strong>, 1781-1795. [\[DOI\]](http://dx.doi.org/10.1039/C4BM00153B) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c4bm00153b-final.pdf)
 
