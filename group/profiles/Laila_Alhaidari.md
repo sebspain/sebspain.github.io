@@ -8,4 +8,3 @@ title: Laila Alhaidari
 **Project:** Responsive materials for <sup>19</sup>F MRI theranostics
 
 **Funding:** Scholarship from...
-
