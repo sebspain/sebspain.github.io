@@ -11,6 +11,8 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 
 ###Peer-reviewed Journals
+1. Vanessa Loczenski Rose, Saif Shubber, S. Sajeesh, <strong>Sebastian G. Spain</strong>, Sanyogitta Puri, Stephanie Allen, Dong-Ki Lee, G. Sebastiaan Winkler and Giuseppe Mantovani; "Phosphonium polymethacrylates for siRNA delivery: effect of polymer and
+RNA structural parameters on polyplex assembly and gene knockdown." <em>Biomacromolecules</em>, 2015, DOI:  10.1021/acs.biomac.5b00898. [\[DOI\]](http://dx.doi.org/10.1021/acs.biomac.5b00898)
 
 1. Nora Francini, Laura Purdie, Cameron Alexander, Giuseppe Mantovani and <strong>Sebastian G. Spain</strong>\*; "Multifunctional poly[N-(2-hydroxypropyl)methacrylamide] copolymers via post-polymerization modification and sequential thiol–ene chemistry" <em>Macromolecules</em>, 2015, <strong>48</strong>, 2857-2863. [\[DOI\]](http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b00447)
 
