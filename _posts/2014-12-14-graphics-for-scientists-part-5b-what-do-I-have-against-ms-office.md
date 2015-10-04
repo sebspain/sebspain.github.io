@@ -11,7 +11,7 @@ categories:
 - Microsoft Office
 ---
 
-_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](http://sebspain.co.uk/graphics/graphics-for-scientists-intro/)._
+_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](/2013/01/29/graphics-for-scientists-intro.html)._
 
 In [my last post](/2014/08/11/graphics-for-scientists-part-5-software.html) I introduced two golden rules for making publication quality graphics.
 
@@ -35,7 +35,7 @@ Take the two graphs below, made using the default settings from Office 2011 (lef
 Which one of these looks like it belongs in an scientific publication?
 I'd guess most people would pick the one on the right.
 
-![Comparison of the default scatter plot and trendline formatting for Excel 2011 and Prism 6](http://sebspain.co.uk/files/2014/12/14/excel_vs_prism.png)
+![Comparison of the default scatter plot and trendline formatting for Excel 2011 and Prism 6](http://spain-lab/files/2014/12/14/excel_vs_prism.png)
 
 You can change a lot of settings to make an Excel plot look "right" but it's extra, unnecessary effort.
 
@@ -46,7 +46,7 @@ I won't go into too much detail here as I have a post coming up on data represen
 I have seen both of these charts used in papers and conference presentation despite them making even the most basic bit of information hard to see.
 If you don't have these options you can't use them.
 
-![Examples of 3D Bar Charts made with Excel](http://sebspain.co.uk/files/2014/12/14/excel_3D_bar_plots.png)
+![Examples of 3D Bar Charts made with Excel](http://spain-lab/files/2014/12/14/excel_3D_bar_plots.png)
 
 ###References
 

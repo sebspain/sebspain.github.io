@@ -12,7 +12,7 @@ categories:
 - Science
 ---
 
-Below are what I plan on adding to the series. If there is anything else you think should be covered comment below or email/tweet me ([see contacts page](http://sebspain.co.uk/about/))
+Below are what I plan on adding to the series. If there is anything else you think should be covered comment below or email/tweet me ([see contacts page](http://spain-lab.co.uk/about/))
 
 - specific graphics file formats, advantages/disadvantages
 

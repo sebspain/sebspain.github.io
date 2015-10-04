@@ -10,7 +10,7 @@ categories:
 - Science
 ---
 
-_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](http://sebspain.co.uk/graphics/graphics-for-scientists-intro/)._
+_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](/2013/01/29/graphics-for-scientists-intro.html)._
 
 Now that you know about the different types of graphics files you need to know what software you can use to create them. This list doesn't aim to be exhaustive, instead covering software that I'm reasonably familiar with. If we look at the figure mock-up below we have various types of data in one figure:
 
@@ -24,7 +24,7 @@ D. A schematic
 
 So we need to be able to produce each of these parts and then put them all together and add annotations like the labeling of the sub-figures.
 
-![Mock-up of a compound figure](http://sebspain.co.uk/files/2014/08/11/mock_figure.png)
+![Mock-up of a compound figure](http://spain-lab.co.uk/files/2014/08/11/mock_figure.png)
 
 ##Chemical Structure Drawing
 ###ChemDraw

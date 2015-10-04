@@ -18,7 +18,7 @@ tags:
 
 During a recent conversion about the lower temperature of testicles compared to the rest of the male body I was attempted to find the temperture differential when I stumbled across [this wonderful product](http://www.fertilmate.co.uk/) sold by Babystart Ltd through their website [babystart.co.uk](http://babystart.co.uk)
 
-![FertilMate Testicle Cooling Patch as sold by Babystart.co.uk](http://sebspain.co.uk/wp-content/uploads/2012/05/FertilMate-Labela.jpg)
+![FertilMate Testicle Cooling Patch as sold by Babystart.co.uk](http://spain-lab.co.uk/wp-content/uploads/2012/05/FertilMate-Labela.jpg)
 
 The improved quality of sperm produced when the testes are kept cool is a pretty well established phenomenon (see [Schuppe et al 2007](http://www.ncbi.nlm.nih.gov/pubmed/18076419)) and BabyStart are keen to point this out providing multiple references to proper peer-reviewed journals including [Mulcahy 1984](http://www.ncbi.nlm.nih.gov/pubmed/6471178) and [Schuppe et al 2005](http://www.ncbi.nlm.nih.gov/pubmed/15811070). Consequently a cooling patch for the testes seems like a good idea if you are trying for a baby but how does the FertilMate achieve its cooling?
 
@@ -36,5 +36,3 @@ So according to Babystart the cooling effect is provided by L-menthol. Now we've
 L-menthol is an agonist for a skin receptor protein known as [TRPM8](http://en.wikipedia.org/wiki/TRPM8). TRPM8 is responsible for skin's sensitivity to cold so when L-menthol binds to it the brain is tricked into thinking that that area is cold but it doesn't actually lower the temperature. A related receptor, TRPV1, is responsible for sensation of heat and can be triggered by capsaicin, the predominent chemical responsible for the "heat" of chilis.
 
 So will these patches work? Probably not, more likely they'll raise the temperature of your testes by reducing air flow to the skin and subsequent reduction in sweat evaporation. Also as the body is pretty good at feedback loops it'll probably compensate for the cool feeling by trying to raise the temperature by contraction of the [cremaster muscle](http://en.wikipedia.org/wiki/Cremasteric_muscle), much like you sweating in response to eating chilis. It will however probably make your testes smell nice and minty fresh.
-
-

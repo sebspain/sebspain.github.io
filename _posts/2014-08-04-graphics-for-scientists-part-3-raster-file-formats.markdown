@@ -10,7 +10,7 @@ categories:
 - Science
 ---
 
-_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](http://sebspain.co.uk/graphics/graphics-for-scientists-intro/)._
+_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](/2013/01/29/graphics-for-scientists-intro.html)._
 
 In parts [one](/2013/01/29/graphics-for-scientists-part-1-raster-vs-vector-graphics.html) and [two](/2013/01/30/graphics-for-scientists-part-2-color-spaces-resolutions-and-compression.html) I introduced the main categories of image formats and some other basic concepts. Here I'll run through the most common raster ones and some advantages/disadvantages.
 

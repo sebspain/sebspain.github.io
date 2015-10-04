@@ -10,7 +10,7 @@ categories:
 - Science
 ---
 
-_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](http://sebspain.co.uk/graphics/graphics-for-scientists-intro/)._
+_This is part of a series of posts about producing publication quality graphics. [See here for the introduction and links to other parts](/2013/01/29/graphics-for-scientists-intro.html)._
 
 In part [three](/2014/08/04/graphics-for-scientists-part-3-raster-file-formats.html) I went through the major raster image formats. Here I'll run through the most common vector ones and some advantages/disadvantages.
 
@@ -51,7 +51,7 @@ Scalable Vector Graphics (SVG) are a relative new comer. Originally designed as 
 </svg>
 ```
 
-![SVG Example](http://sebspain.co.uk/files/2014/08/07/example.svg)
+![SVG Example](http://spain-lab.co.uk/files/2014/08/07/example.svg)
 
 ####Advantages
 - open standard resulting in high uptake

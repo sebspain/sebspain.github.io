@@ -36,7 +36,7 @@ So this is a fully automated 3D printer for molecules. How's that going to work 
 
 >There must be a mold first before printing the compound. As shown in Fig. 1 [reproduced below], the two half-molds of a tiny reactor are produced from the starting point of the compound 3D structure. The compound should be drawn first (a) and the surface of the target compound can be designed by software (b). Then part of the compound is removed and cut from the surface mold (c) and finally the two half-molds are ready (d).
 
-![Figure 1 from http://www.sciencedirect.com/science/article/pii/S1359644614001214](http://sebspain.co.uk/files/2014/04/21/mold.jpg)
+![Figure 1 from http://www.sciencedirect.com/science/article/pii/S1359644614001214](http://spain-lab.co.uk/files/2014/04/21/mold.jpg)
 
 Parts (a) and (b) are reasonable straight forward. Fire up your favourite molecular drawing package, run an energy minimisation and then calculate the Van der Waals surface. We then get take a giant leap to parts (c) and (d) where we magically have a mold and then cut it in half. Thankfully this is covered in more detail later in the paper, the important bit is.
 
