@@ -1,30 +1,15 @@
-
 {% include preamble.html %}
-
-
-<body class="wrap wider">
-<header>
-	
-{% include mobile-nav.html %}
-
-</header>
-
-<div class="grid">
-	
-	<div class="unit w-3-4 ">
-	<h2>{{ page.title }}</h2>
-          {{ content }}
-    </div>
-
-{% include main-nav.html %}
-
-
+{% include header.html %}
+<div class="page-content">
+	<div class="grid">
+		<div class="unit w-1-1">
+			<h1>{{ page.title }}</h1>
+				{{ content }}
+		</div>
+	</div>
 </div>
 
 {% include footer.html %}
 
 </body>
 </html>
-
-
-    

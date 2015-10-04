@@ -1,4 +1,4 @@
-name: seb spain
+name: Spain Lab
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 #markdown: rdiscount
@@ -6,9 +6,9 @@ markdown: redcarpet
 redcarpet:
   extensions: [
 		"no_intra_emphasis",
-		"fenced_code_blocks", 
-		"autolink", 
-		"strikethrough", 
+		"fenced_code_blocks",
+		"autolink",
+		"strikethrough",
 		#"superscript"
 		]
 
@@ -27,4 +27,3 @@ scholar:
   details_dir:    publications
   details_layout: bibtex.html
   details_link:   Details
-  

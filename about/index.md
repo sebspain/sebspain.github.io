@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Seb Spain
+title: Seb Spain
 ---
 
 ####Employment
@@ -23,5 +23,5 @@ Committee member for [RSC Biomaterials Chemistry Special Interest Group](http://
 
 ####Contact
 
-<a href="mailto:seb@sebspain.co.uk" class="button">Email</a>
+<a href="mailto:seb@spain-lab.co.uk" class="button">Email</a>
 <a href="https://twitter.com/sebspain" class="button">Twitter</a>

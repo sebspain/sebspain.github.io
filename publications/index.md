@@ -9,8 +9,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 
 <img height="14px" src="/img/oa.svg" class="oa" alt="open access logo"> denotes article published open access
 
-
-###Peer-reviewed Journals
+##Peer-reviewed Journals
 1. Vanessa Loczenski Rose, Saif Shubber, S. Sajeesh, <strong>Sebastian G. Spain</strong>, Sanyogitta Puri, Stephanie Allen, Dong-Ki Lee, G. Sebastiaan Winkler and Giuseppe Mantovani; "Phosphonium polymethacrylates for siRNA delivery: effect of polymer and
 RNA structural parameters on polyplex assembly and gene knockdown." <em>Biomacromolecules</em>, 2015, DOI:  10.1021/acs.biomac.5b00898. [\[DOI\]](http://dx.doi.org/10.1021/acs.biomac.5b00898)
 
@@ -38,17 +37,16 @@ and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selec
 
 1. <strong>Sebastian G. Spain</strong>\* and Neil R. Cameron; "The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study" <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. [\[DOI\]](http://dx.doi.org/10.1039/c1py00030f) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c2py20352a.pdf)
 
-1. <strong>Sebastian G. Spain</strong> and Neil R. Cameron; "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polym. Chem.</em>, 2011,<strong>2</strong>, 60-68. [\[DOI\]](http://dx.doi.org/10.1039/C0PY00149J) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c0py00149j.pdf)
+1. <strong>Sebastian G. Spain</strong> and Neil R. Cameron; "A spoonful of sugar: the application of glycopolymers in therapeutics" <em>Polym. Chem.</em>, 2011, <strong>2</strong>, 60-68. [\[DOI\]](http://dx.doi.org/10.1039/C0PY00149J) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c0py00149j.pdf)
 
 1. Matthew I. Gibson, Carl A. Barker, <strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; "Inhibition of ice crystal growth by synthetic glycopolymers: implications for the rational design of antifreeze glycoprotein mimics" <em>Biomacromolecules</em>, 2009, <strong>10</strong>, 328-333. [\[DOI\]](http://dx.doi.org/10.1021/bm801069x)
 
-1. Neil R. Cameron, <strong>Sebastian G. Spain</strong>, James A. Kingham, Stefan Weck, Luca Albertin, Carl A. Barker, Guiseppe Battaglia, Thomas Smart, and Adam Blanazs; "Synthesis of well-defined glycopolymers and some studies of their aqueous solution behaviour" <em>Faraday Discuss.</em>, 2008, <stro-g>139</strong>, 359-368. [\[DOI\]](http://dx.doi.org/10.1039/b717177c) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/b717177c.pdf)
+1. Neil R. Cameron, <strong>Sebastian G. Spain</strong>, James A. Kingham, Stefan Weck, Luca Albertin, Carl A. Barker, Guiseppe Battaglia, Thomas Smart, and Adam Blanazs; "Synthesis of well-defined glycopolymers and some studies of their aqueous solution behaviour" <em>Faraday Discuss.</em>, 2008, <strong>139</strong>, 359-368. [\[DOI\]](http://dx.doi.org/10.1039/b717177c) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/b717177c.pdf)
 
 1. <strong>Sebastian G. Spain</strong>, Matthew I. Gibson and Neil R. Cameron; "Recent Advances in the Synthesis of Well-defined Glycopolymers" <em>J. Polym. Sci. Part A Polym. Chem.</em> 2007, <strong>45</strong>, 2059-2072. [\[DOI\]](http://dx.doi.org/10.1002/pola.22106)
 
 1. <strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chem. Commun.</em> 2006, 4198-4200. [\[DOI\]](http://dx.doi.org/10.1039/b608383h) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/b608383h.pdf)
 
-###Book Chapters
+##Book Chapters
 
-
-1. <p><strong>Sebastian G. Spain</strong>, Gokcen Yasayan, Mahmoud Soliman, Felicity Heath, Aram O. Saeed and Cameron Alexander, "Nanoparticles of Nucleic Acid Delivery" in <em>Comprehensive Biomaterials</em>. Elsevier 2011, vol.4, pp 389-410. [\[Book\]](http://www.elsevierdirect.com/ISBN/9780080553023/Comprehensive-Biomaterials) [\[Chapter\]](http://www.sciencedirect.com/science/article/pii/B9780080552941001331)</p>
+1. <strong>Sebastian G. Spain</strong>, Gokcen Yasayan, Mahmoud Soliman, Felicity Heath, Aram O. Saeed and Cameron Alexander, "Nanoparticles of Nucleic Acid Delivery" in <em>Comprehensive Biomaterials</em>. Elsevier 2011, vol.4, pp 389-410. [\[Book\]](http://www.elsevierdirect.com/ISBN/9780080553023/Comprehensive-Biomaterials) [\[Chapter\]](http://www.sciencedirect.com/science/article/pii/B9780080552941001331)
