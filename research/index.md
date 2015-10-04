@@ -9,6 +9,7 @@ title: Research
     <a href="#">Other</a>
 </nav>
 
+***This page is currently being updated***
 
 Our research is diverse and encompasses aspects of organic and polymer chemistries, materials science, pharmacy and biology. We have a strong focus on the development of new materials for biomedical purposes such as therapeutics and diagnostics but also work in areas such as protective coatings and cosmetics. Details of some of our current and previous research interests can be found below.
 
