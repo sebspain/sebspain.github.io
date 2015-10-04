@@ -41,29 +41,29 @@ h1, h2, h3, h4 {
     font-family: "Julius Sans One", sans-serif;
 }
 h1 {
-    font-size: 2em;
+    font-size: 2.1em;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.6em;
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 h4 {
-    font-size: 1em
+    font-size: 1em;
 }
 
 h1.header {
     font-weight: bold;
-    font-size: 2.5em;
+    font-size: 2.7em;
     margin: 20px 0 0 0;
 }
 
 h3 a {
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: bold;
 }
 /*layout*/
@@ -111,6 +111,17 @@ nav.bottomnav a {
     margin-right: 1.2em;
 }
 
+nav.pagenav a:hover {
+    border-bottom: 2px solid #bbb;
+}
+
+nav.pagenav a {
+    font-weight: 600;
+    font-family: "Julius Sans One", sans-serif;
+    font-size: 1.5em;
+    color: #333;
+    margin-right: 1.2em;
+}
 /*Lists*/
 /*Blog Post List*/
 ul.posts {

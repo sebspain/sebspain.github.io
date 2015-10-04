@@ -2,6 +2,15 @@
 layout: page
 title: Research
 ---
+
+<nav class="pagenav">
+    <a href="#">Responsive Materials</a>
+    <a href="#">Bioconjuates</a>
+    <a href="#">Biocomposites</a>
+    <a href="#">Other</a>
+</nav>
+
+
 My research lies at the interface between pharmacy, biology and chemistry, particularly the use of modern polymer chemistry to produce materials that display a complex biological effect in a simple way. In recent years the main focus has been the development of stimuli responsive materials for applications in therapeutic delivery and diagnostics. Some examples are highlighted below.
 
 ###DNA responsive materials
