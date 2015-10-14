@@ -35,7 +35,7 @@ Take the two graphs below, made using the default settings from Office 2011 (lef
 Which one of these looks like it belongs in an scientific publication?
 I'd guess most people would pick the one on the right.
 
-![Comparison of the default scatter plot and trendline formatting for Excel 2011 and Prism 6](http://spain-lab/files/2014/12/14/excel_vs_prism.png)
+![Comparison of the default scatter plot and trendline formatting for Excel 2011 and Prism 6](http://spain-lab.co.uk/files/2014/12/14/excel_vs_prism.png)
 
 You can change a lot of settings to make an Excel plot look "right" but it's extra, unnecessary effort.
 
@@ -46,7 +46,7 @@ I won't go into too much detail here as I have a post coming up on data represen
 I have seen both of these charts used in papers and conference presentation despite them making even the most basic bit of information hard to see.
 If you don't have these options you can't use them.
 
-![Examples of 3D Bar Charts made with Excel](http://spain-lab/files/2014/12/14/excel_3D_bar_plots.png)
+![Examples of 3D Bar Charts made with Excel](http://spain-lab.co.uk/files/2014/12/14/excel_3D_bar_plots.png)
 
 ###References
 
