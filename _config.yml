@@ -1,5 +1,5 @@
 name: Spain Lab
-highlighter: pygments
+#highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 #markdown: rdiscount
 markdown: redcarpet
