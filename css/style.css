@@ -185,9 +185,9 @@ pre {
   line-height: 1.7em;
 }
 
-h3.profile {
+.profile {
   text-align: center;
-  font-size: 1.3em;
+
 }
 
 .meta {
