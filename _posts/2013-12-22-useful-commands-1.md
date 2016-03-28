@@ -13,7 +13,7 @@ This page is mainly an *aide-mémoire* for me but some of these may be useful fo
 
 These should all run on bash, additional requirements are noted.
 
-##Create a set of test images
+## Create a set of test images
 
 This creates a set of images with the numbers 1 to 10 in the middle. Useful for creating a set of images for further scripting tests. Requires [ImageMagick](http://www.imagemagick.org/).
 
