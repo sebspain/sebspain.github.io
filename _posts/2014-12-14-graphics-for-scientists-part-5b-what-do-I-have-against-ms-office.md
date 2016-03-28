@@ -25,12 +25,12 @@ Similarly, you can cut a plank of wood with a chisel, but using a saw is going t
 
 The main reason for not using in are the poor choices for exporting to a usable format, go and try saving an image of a graph from Excel, here are some other reasons not ot use Excel:
 
-###It's statistically flawed.
+### It's statistically flawed.
 The statistical analyses in Excel are known to be full of errors. There have been multiple papers written on the subject [1], and yet many of them still haven't been fixed by Microsoft, although that may be changing [2].
 Basically, Excel is pretty crap at data analysis so you may as well use something else.
 
 
-###The default graphs are *ugly*.
+### The default graphs are *ugly*.
 Take the two graphs below, made using the default settings from Office 2011 (left) and Prism 6.0e (right).
 Which one of these looks like it belongs in an scientific publication?
 I'd guess most people would pick the one on the right.
@@ -39,7 +39,7 @@ I'd guess most people would pick the one on the right.
 
 You can change a lot of settings to make an Excel plot look "right" but it's extra, unnecessary effort.
 
-###Excel makes it easy to represent data badly.
+### Excel makes it easy to represent data badly.
 This isn't really a flaw in Excel as the user is responsible for choosing how data should be represented.
 However, the corporate environment seems to have been seduced by the idea that fancy colours, gradients and 3D effects are important for graphs and Microsoft seemingly provide more eye-bleeding monstrocities for them in each release.
 I won't go into too much detail here as I have a post coming up on data representation but by way of example look at the two bar charts below.
@@ -48,7 +48,7 @@ If you don't have these options you can't use them.
 
 ![Examples of 3D Bar Charts made with Excel](http://spain-lab.co.uk/files/2014/12/14/excel_3D_bar_plots.png)
 
-###References
+### References
 
 1. a). D. McCullough and B. Wilson; "On the accuracy of statistical procedures in Microsoft Excel 97", Comput. Stat. Data An. 1999, **31**, 27-37. [\[DOI\]](http://dx.doi.org/10.1016/S0167-9473(99)00004-3).
 b) B. D. McCullough and B. Wilson; "On the accuracy of statistical procedures in Microsoft Excel 2003", Comput. Stat. Data An. 2005, **49**, 1244-1252. [\[DOI\]](http://dx.doi.org/10.1016/j.csda.2004.06.016)

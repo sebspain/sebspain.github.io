@@ -3,6 +3,9 @@ name: Spain Lab
 permalink: /:year/:month/:day/:title.html
 #markdown: rdiscount
 markdown: kramdown
+kramdown: 
+  input: GFM
+  syntax_highlighter: rouge
 #redcarpet:
 #  extensions: [
 #		"no_intra_emphasis",

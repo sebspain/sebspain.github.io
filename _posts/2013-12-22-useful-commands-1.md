@@ -32,7 +32,7 @@ for i in {1..10}
 	done
 ```
 
-##List directories
+## List directories
 *Updated 2014-01-03 to make it compatible with spaces in directory names*
 
 This lists subdirectories of the current directory while stripping the closing / making it useful where directory names need to be used as a variable.
@@ -46,7 +46,7 @@ ls -d */ | while read line
 	 done
 ```
 
-##Strip spaces
+## Strip spaces
 Replaces spaces in filenames with underscores for all files (non-hidden files) in the current directory
 
 ```{sh}
@@ -57,7 +57,7 @@ ls | while read -r FILE
 	done
 ```
 
-##Unzip archives to individual subdirectoies
+## Unzip archives to individual subdirectoies
 Unzips all zip archives in the current directory creating a subfolder for each that is named after the archive (minus the zip extension)
 
 ```{sh}
@@ -67,7 +67,7 @@ ls *.zip | while read file
 	done
 ```
 
-##Bulk renaming
+## Bulk renaming
 Examples are image renaming but will work with others. Affects all files in the current directory.
 
 Add text between filename and extension. Renames filename.png to filename-text.png
@@ -90,7 +90,7 @@ ls *.png | while read file
 
 *Added 2014-01-04*
 
-##Batch conversion of SVG files
+## Batch conversion of SVG files
 These convert all SVG files in a directory to EPS or PNG for use with $LaTeX$ etc. This method requires [Inkscape](http://www.inkscape.org).
 
 **EPS Conversion**
