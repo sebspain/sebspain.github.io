@@ -19,12 +19,12 @@ This creates a set of images with the numbers 1 to 10 in the middle. Useful for 
 
 **Single line version**
 
-```{sh}
+``` sh
 for i in {1..10}; do convert -size 800x600 xc:#ffffccff -fill black -pointsize 80 -draw "text 400,300 '$i'" test-img-$i.jpg; done
 ```
 **Script version**
 
-```{sh}
+``` sh
 #!/bin/bash
 for i in {1..10}
 	do
@@ -37,7 +37,7 @@ for i in {1..10}
 
 This lists subdirectories of the current directory while stripping the closing / making it useful where directory names need to be used as a variable.
 
-```{sh}
+``` sh
 #!/bin/bash
 ls -d */ | while read line
 	 do
@@ -49,7 +49,7 @@ ls -d */ | while read line
 ## Strip spaces
 Replaces spaces in filenames with underscores for all files (non-hidden files) in the current directory
 
-```{sh}
+``` sh
 #!/bin/bash
 ls | while read -r FILE
 	do
@@ -60,7 +60,7 @@ ls | while read -r FILE
 ## Unzip archives to individual subdirectoies
 Unzips all zip archives in the current directory creating a subfolder for each that is named after the archive (minus the zip extension)
 
-```{sh}
+``` sh
 ls *.zip | while read file
 	do
 		unzip "$file" -d ./"${file/.zip/}"
@@ -72,7 +72,7 @@ Examples are image renaming but will work with others. Affects all files in the 
 
 Add text between filename and extension. Renames filename.png to filename-text.png
 
-```{sh}
+``` sh
 ls *.png | while read file
 	do
 		mv "$file" "${file/.png/}"-text.png
@@ -81,7 +81,7 @@ ls *.png | while read file
 
 Add text before filename. Renames filename.png to text-filename.png
 
-```{sh}
+``` sh
 ls *.png | while read file
 	do
 		mv "$file" text-"$file"
@@ -95,7 +95,7 @@ These convert all SVG files in a directory to EPS or PNG for use with $LaTeX$ et
 
 **EPS Conversion**
 
-```{sh}
+``` sh
 #!/bin/bash
 
 ls *.svg | while read file
@@ -108,7 +108,7 @@ ls *.svg | while read file
 
 This script takes an additional argument to determine the resolution (DPI) of the output files. Personally I have it saved in my PATH as svg2png and run as svg2png \<DPI\>. E.g. "svg2png 300" will export 300 DPI PNG files.
 
-```{sh}
+``` sh
 #!/bin/bash
 
 ls *.svg | while read file
