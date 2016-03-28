@@ -2,15 +2,15 @@ name: Spain Lab
 #highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 #markdown: rdiscount
-markdown: redcarpet
-redcarpet:
-  extensions: [
-		"no_intra_emphasis",
-		"fenced_code_blocks",
-		"autolink",
-		"strikethrough",
-		#"superscript"
-		]
+markdown: kramdown
+#redcarpet:
+#  extensions: [
+#		"no_intra_emphasis",
+#		"fenced_code_blocks",
+#		"autolink",
+#		"strikethrough",
+#		"superscript"
+#		]
 
 
 scholar:
