@@ -14,17 +14,17 @@ categories:
 
 Over the Easter weekend a rather interesting paper has been doing the rounds of the chemistry community on Twitter. The [paper in question](http://www.sciencedirect.com/science/article/pii/S1359644614001214) is entitled
 
->	DrugPrinter: print any drug instantly
+> DrugPrinter: print any drug instantly
 
 which is a pretty bold claim that would have learned societies and the Nobel committee clambering over each other to be the first to honour the author. So will this paper be remembered as a breakthrough moment in the history of drug discovery? I'll go through it in some detail before answering that.
 
 The first thing to note is that the article is fundamentally an opinion piece and doesn't contain any experimentation or data. This isn't a problem *per se*, Kolb, Finn and Sharpless' description of [Click Chemistry](http://onlinelibrary.wiley.com/doi/10.1002/1521-3773\(20010601\)40:11%3C2004::AID-ANIE2004%3E3.0.CO;2-5/abstract) and Baran, Maimone and Richter's [protecting group free total synthesis](http://www.nature.com/nature/journal/v446/n7134/full/nature05569.html) have become seminal papers as much for the concepts and methodologies described than the specific syntheses reported. However, those syntheses did demonstrate that the concept worked. So what is the concept proposed here?
 
->In drug discovery, de novo compounds are usually difficult to synthesize, purify and suffer low yields. Thus, DrugPrinter, a novel protocol for ‘printing’ any compound instantly instead of using a time-consuming, low yield synthesis and without requiring purification and separation of byproduct, is proposed.
+> In drug discovery, de novo compounds are usually difficult to synthesize, purify and suffer low yields. Thus, DrugPrinter, a novel protocol for ‘printing’ any compound instantly instead of using a time-consuming, low yield synthesis and without requiring purification and separation of byproduct, is proposed.
 
 "Printing" molecules is not the most novel of concepts but to some extent it's feasible (see the [classic IBM STM logo](http://researcher.ibm.com/researcher/files/us-flinte/stm10.jpg)). So far so good. The introduction covers various background about 3D printing including the rather odd claim.
 
->Although 3D printer technology is widely used today, even as far as building a house [6] and [7]...
+> Although 3D printer technology is widely used today, even as far as building a house [6] and [7]...
 
 To manage that you would need a really big printer, unless the house is aimed at, say, a hamster. Sadly I can't tell you any more as the cited articles ([here](http://circ.ahajournals.org/content/127/1/e6) and [here](http://www.sciencedirect.com/science/article/pii/S2211802013000235)) appear to have literally nothing to do with 3D printing. We then get a bit more detail about *DrugPrinter*.
 

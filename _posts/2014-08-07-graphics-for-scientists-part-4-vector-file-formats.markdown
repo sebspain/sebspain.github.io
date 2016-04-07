@@ -44,7 +44,7 @@ You'll be familiar with Portable Document Format (PDF), particularly for written
 ### SVG (.svg)
 Scalable Vector Graphics (SVG) are a relative new comer. Originally designed as an open standard vector format for the web they are becoming more common for general graphics work, although I don't know of any publishers that accept them directly. In essence they are text file that is interpreted into an image so they can easily be compressed in a lossless manner and even searched. For example, the brief code below defines the image beneath it. However, in general you create them with a graphics package.
 
-```{xml}
+``` xml
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="160px" height="160px">
   <rect x="5" y="5" width="150" height="150" fill="rgb(127, 127, 127)" stroke-width="5" stroke="rgb(0, 0, 0)" />
   <circle cx="80" cy="80" r="50" stroke="rgb(0,0,0)" stroke-width="1" fill="rgb(127,127,255)" />
