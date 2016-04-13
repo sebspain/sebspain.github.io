@@ -50,6 +50,7 @@ and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selec
 1. <strong>Sebastian G. Spain</strong>, Matthew I. Gibson and Neil R. Cameron; "Recent Advances in the Synthesis of Well-defined Glycopolymers" <em>J. Polym. Sci. Part A Polym. Chem.</em> 2007, <strong>45</strong>, 2059-2072. [\[DOI\]](http://dx.doi.org/10.1002/pola.22106)
 
 1. <strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chem. Commun.</em> 2006, 4198-4200. [\[DOI\]](http://dx.doi.org/10.1039/b608383h) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/b608383h.pdf)
+{: reversed="reversed"}
 
 ## Book Chapters
 
