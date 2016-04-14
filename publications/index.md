@@ -62,7 +62,7 @@ and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selec
 
 1. Gokcen Yasayan, Martin Redhead, Johannes P. Magnusson, <strong>Sebastian G. Spain</strong>, Stephanie Allen, Martyn C. Davies, Cameron Alexander and Francisco Fernandez-Trillo; "Well-defined Polymeric Vesicles with High Stability and Modulation of Cell Uptake by a Simple Coating Protocol" <em>Polym. Chem.</em>, 2012, <strong>3</strong>, 2596-2604. <img height="14px" src="/img/oa.svg" class="oa" alt="open access logo"> [\[DOI\]](http://dx.doi.org/10.1039/C2PY20352A) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/c2py20352a.pdf)
 
-    <img width="400px" src="img/C2PY20352A_toc.png" alt="TOC Graphic">
+    <img width="400" src="img/C2PY20352A_toc.png" alt="TOC Graphic">
 
 1. Samer R. Abulateefeh, <strong>Sebastian G. Spain</strong>, Jonathan W. Aylott et al.; "Thermoresponsive colloids in cancer therapy" <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. [\[DOI\]](http://dx.doi.org/10.1002/mabi.201100252)
 
