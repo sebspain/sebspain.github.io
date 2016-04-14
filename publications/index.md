@@ -10,6 +10,8 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 <img height="14px" src="/img/oa.svg" class="oa" alt="open access logo"> denotes article published open access
 
 ## Peer-reviewed Journals
+1. Laura Purdie, Cameron Alexander, <strong>Sebastian G. Spain</strong>\* and Johannes P. Magnusson; "Influence of polymer size on uptake and cytotoxicity of doxorubicin-loaded DNA–PEG conjugates" <em>Bioconjugate Chem.</em> 2006, Accepted Manuscript.
+
 1. Andrea D. Goncalves, Cameron Alexander, Clive J. Roberts, <strong>Sebastian G. Spain</strong>, Shahid Uddin and Stephanie Allen; "The effect of protein concentration on the viscosity of a recombinant albumin solution formulation" <em>RSC Advances</em>, 2016, <strong>6</strong> 15143-15154. [\[DOI\]](http://dx.doi.org/10.1039/C5RA21068B) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/2016/c5ra21068b-final.pdf)
 
 1. Giovanna Sicilia, Adrienne L. Davis, <strong>Sebastian G. Spain</strong>, Johannes P. Magnusson, Nathan Boase, Kristofer J. Thurecht and Cameron Alexander; "Synthesis of 19F Nucleic Acid–Polymer Conjugates as Real-Time MRI Probes of Biorecognition." <em>Polym. Chem.</em>, 2016, <strong>7</strong>, 2180-2191. [\[DOI\]](http://dx.doi.org/10.1039/C5PY01883H) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/2016/C5PY01883H-final.pdf)
