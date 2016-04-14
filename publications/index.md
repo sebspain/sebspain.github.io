@@ -87,6 +87,7 @@ and Cameron Alexander; "Bacteria-instructed synthesis of polymers for self-selec
     <img width="300px" src="img/pola.22106_toc.png" alt="TOC Graphic">
 
 1. <strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; "Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles", <em>Chem. Commun.</em> 2006, 4198-4200. [\[DOI\]](http://dx.doi.org/10.1039/b608383h) [\[PDF\]](http://sebspain.co.uk/publications/PDFs/b608383h.pdf)
+
     <img width="400px" src="img/B608383H_toc.png" alt="TOC Graphic">
 {: reversed="reversed"}
 
