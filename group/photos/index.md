@@ -7,3 +7,7 @@ title: Group Photos
 
 The group Christmas Dinner 2015 - traditional curry
 
+
+![Group photo ChemSoc Ball 2016](ball_2016.png)
+
+The group in the wild.
