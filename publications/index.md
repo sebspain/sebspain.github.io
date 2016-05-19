@@ -10,7 +10,7 @@ Where copyright agreements allow a link to the published PDF may be found. Other
 <img height="14" src="/img/oa.svg" class="oa" alt="open access logo"> denotes article published open access
 
 ## Peer-reviewed Journals
-1. Laura Purdie, Cameron Alexander, <strong>Sebastian G. Spain</strong>\* and Johannes P. Magnusson; "Influence of polymer size on uptake and cytotoxicity of doxorubicin-loaded DNA–PEG conjugates" <em>Bioconjugate Chem.</em> 2016, Just Accepted Manuscript. DOI: 10.1021/acs.bioconjchem.6b00085 [\[DOI\]](http://dx.doi.org/10.1021/acs.bioconjchem.6b00085)
+1. Laura Purdie, Cameron Alexander, <strong>Sebastian G. Spain</strong>\* and Johannes P. Magnusson; "Influence of polymer size on uptake and cytotoxicity of doxorubicin-loaded DNA–PEG conjugates" <em>Bioconjugate Chem.</em> 2016, <strong>27</strong>, 1244-1252. [\[DOI\]](http://dx.doi.org/10.1021/acs.bioconjchem.6b00085)
 
     <img width="400" src="img/acs.bioconjchem.6b00085_toc.png" alt="TOC Graphic">
 
