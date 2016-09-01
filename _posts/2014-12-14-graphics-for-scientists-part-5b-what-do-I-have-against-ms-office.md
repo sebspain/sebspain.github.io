@@ -3,7 +3,7 @@ author: sspain
 comments: true
 layout: post
 slug: graphics-for-scientists-part-5b-what-do-I-have-against-ms-office
-title: Graphics for Scienists - Part 5b - What do I have against MS Office?
+title: Graphics for Scientists - Part 5b - What do I have against MS Office?
 categories:
 - graphics for scientists
 - graphics
