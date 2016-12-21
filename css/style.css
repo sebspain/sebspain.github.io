@@ -200,12 +200,12 @@ pre {
   text-align: center;
 }
 
-.research {
+.expand {
     display: none;
     padding: 0px 20px;
 }
 
-h2.research {
+h2.expand {
     display: block;
 }
 
