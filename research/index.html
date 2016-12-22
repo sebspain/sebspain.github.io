@@ -78,6 +78,13 @@
             Details of some of our current and previous research interests can be found below (click headings to expand).
             </p>
         </div>
+            <h2 class="expand center-on-mobiles" id="capability">Underpinning Capability</h2>
+            <div id="capability_div" class="expand center-on-mobiles">
+
+            <p>
+            At our heart we are a synthetic polymer chemistry group.
+            Unlike many synthetic groups, we are not wedded to a particularly family of materials <em>or</em> synthetic techniques, instead choosing the tool that we think is the best fit for the job.
+            </div>
             <h2 class="expand center-on-mobiles" id="dna">DNA-Responsive Materials</h2>
             <div id="dna_div" class="expand center-on-mobiles">
 
@@ -124,10 +131,6 @@
             <h2 class="expand center-on-mobiles" id="dna_del">Nucleic acids as delivery vehicles</h2>
             <div id="dna_del_div" class="expand center-on-mobiles">
 
-            <!-- <figure>
-            <img alt="Temperature controlled uptake of particles into cells" src="img/t_controlled_uptake.png" />
-            <figcaption>Temperature-dependent cellular uptake of polymer nanoparticles. For further details see reference [3].</figcaption>
-            </figure> -->
             <p>
             Nucleic acids are usually considered to be a source of information and is therefore used to induce a specific response (see above) or to up/down-regulate a specific gene (gene therapy and RNA interference).
             However, they may also be used for the delivery of certain drugs.
@@ -161,6 +164,9 @@
 </footer>
 
 <script>
+$( "#capability" ).click(function() {
+  $( "#capability_div" ).toggle();
+});
 $( "#dna" ).click(function() {
   $( "#dna_div" ).toggle();
 });
