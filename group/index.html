@@ -86,15 +86,27 @@
          <h3 class="profile">Helen Elmes</h3>
          <h3 class="profile">Alice Mckeon</h3>
          <h2 class="profile">MSc Students</h2>
+         <a href="photos/"><h2 class="profile">Group Photos</h2></a>
         </div>
-	 <a href="photos/"><h2 class="profile">Group Photos</h2></a>
-     </div>
+    </div>
+    <div class="grid">
+        <h2 id="join_us" class="profile">Joining the Group</h2>
+        <div id="join_us_div" class="expand unit w-1-1 center-on-mobiles">
+            <p>
+            We are always looking for talented chemists and biologists to join the group.
+            Funded positions will be advertised here as and when they are available.
+            </p>
+            <p>
+            If you have funding, or are intending to apply for a scholarship/fellowship, and wish to work within the group please <a href="mailto:seb@spain-lab.co.uk">contact Seb</a> to discuss this further.
+            </p>
+        </div>
+    </div>
+
      <div class="grid">
        <div class="no-gutters unit w-1-1">
-
-        <div class="unit w-1-2 center-on-mobiles">
-            <h2 class="profile">Collaborators</h2>
-            <ul>
+        <h2 id="collaborators" class="profile">Collaborators</h2>
+        <div id="collaborators_div" class="expand unit w-1-1 center-on-mobiles">
+            <ul style="list-style-type:none">
                 <li>Prof. Sheila MacNeil - Sheffield</li>
                 <li>Prof. Paul Hatton - Sheffield</li>
                 <li>Dr Oleksandr Mykhaylyk - Sheffield</li>
@@ -102,9 +114,10 @@
                 <li>Prof. Matthew Gibson - Warwick</li>
             </ul>
         </div>
-        <div class="unit w-1-2 center-on-mobiles">
-            <h2 class="profile">Alumni</h2>
-            <ul>
+
+        <h2 id="alumni" class="profile">Alumni</h2>
+        <div id="alumni_div" class="expand unit w-1-1 center-on-mobiles">
+            <ul style="list-style-type:none">
                 <li>Marissa Morales Moctezuma - MSc 2015/16</li>
                 <li>Charlie Pearce - MChem 2015/16</li>
                 <li>Natalie Parsons - MChem 2015/16</li>
@@ -136,6 +149,19 @@
         </div>
     </div>
 </footer>
+
+
+<script>
+$( "#join_us" ).click(function() {
+  $( "#join_us_div" ).toggle();
+});
+$( "#alumni" ).click(function() {
+  $( "#alumni_div" ).toggle();
+});
+$( "#collaborators" ).click(function() {
+  $( "#collaborators_div" ).toggle();
+});
+</script>
 
 </body>
 </html>
