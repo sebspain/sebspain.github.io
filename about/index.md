@@ -17,7 +17,6 @@ title: Seb Spain
 2000-2004: MChem in Chemistry, Upper Second Class. University of Durham
 
 #### Other Activities and Memberships
-Committee member and webmaster for [Recent Appointees in Polymer Science](http://www.raps.org.uk)
 
 Committee member for [RSC Biomaterials Chemistry Special Interest Group](http://www.rsc.org/Membership/Networking/InterestGroups/Biomaterials/index.asp)
 
@@ -25,3 +24,5 @@ Committee member for [RSC Biomaterials Chemistry Special Interest Group](http://
 
 <a href="mailto:seb@spain-lab.co.uk" class="button">Email</a>
 <a href="https://twitter.com/sebspain" class="button">Twitter</a>
+
+Full CV is available [here](http://sebspain.co.uk/publications/other/SGSpain_CV.pdf)
