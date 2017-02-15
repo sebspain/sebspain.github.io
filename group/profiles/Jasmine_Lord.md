@@ -3,7 +3,7 @@ layout: page
 title: Jasmine Lord
 ---
 
-<img src="img/placeholder.png" alt="Jasmine Lord" class="gallery">
+<img src="img/Jasmine_Lord.png" alt="Jasmine Lord" class="gallery">
 
 **Project:** New embolic agents
 
