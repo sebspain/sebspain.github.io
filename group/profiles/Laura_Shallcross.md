@@ -21,3 +21,6 @@ Having worked with polymers intended for medical applications, I became interest
 
 ## Prizes
 Prize for Best Presentation at the [5th Annual Postgraduate Symposium on Nanotechnology](https://nanosymposium2015.wordpress.com/).
+
+## Destination
+Laura is now a polymer chemist at [Scott Bader](http://www.scottbader.com/).
