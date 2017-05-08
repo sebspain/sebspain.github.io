@@ -19,6 +19,12 @@ img {
     border-radius: 0.3em;
 }
 
+img.logo {
+    display:block;
+    float:left;
+    margin: 5px 0px 0px 0px;
+}
+
 img.inline-right {
     display: block;
     float: right;
