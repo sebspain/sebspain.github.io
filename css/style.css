@@ -44,7 +44,8 @@ strong {
 /*Headings*/
 
 h1, h2, h3, h4 {
-    font-family: "Julius Sans One", sans-serif;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
 }
 h1 {
     font-size: 2.1em;
@@ -104,10 +105,10 @@ nav.topnav a:hover {
 
 nav.topnav a {
     font-weight: 600;
-    font-family: "Julius Sans One", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 1.5em;
-    color: #000;
     margin-left:1em;
+    text-transform: uppercase;
 }
 
 nav.bottomnav a:hover {
@@ -115,11 +116,11 @@ nav.bottomnav a:hover {
 }
 
 nav.bottomnav a {
-    font-weight: 600;
-    font-family: "Julius Sans One", sans-serif;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
     font-size: 0.9em;
-    color: #000;
     margin-right: 1.2em;
+    text-transform: uppercase;
 }
 
 nav.pagenav a:hover {
@@ -127,11 +128,12 @@ nav.pagenav a:hover {
 }
 
 nav.pagenav a {
-    font-weight: 600;
-    font-family: "Julius Sans One", sans-serif;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
     font-size: 1.5em;
     color: #333;
     margin-right: 1.2em;
+    text-transform: uppercase;
 }
 /*Lists*/
 /*Blog Post List*/
