@@ -48,11 +48,11 @@ h1, h2, h3, h4 {
     text-transform: uppercase;
 }
 h1 {
-    font-size: 1.9em;
+    font-size: 1.7em;
 }
 
 h2 {
-    font-size: 1.6em;
+    font-size: 1.4em;
 }
 
 h3 {
@@ -65,12 +65,12 @@ h4 {
 
 h1.header {
     font-weight: bold;
-    font-size: 2.7em;
+    font-size: 2.2em;
     margin: 20px 0 0 0;
 }
 
 h2 a {
-    font-size: 1.6em;
+    font-size: 1.4em;
     font-weight: bold;
 }
 
@@ -106,7 +106,7 @@ nav.topnav a:hover {
 nav.topnav a {
     font-weight: 600;
     font-family: "Open Sans", sans-serif;
-    font-size: 1.5em;
+    font-size: 1.3em;
     margin-left:1em;
     text-transform: uppercase;
 }
