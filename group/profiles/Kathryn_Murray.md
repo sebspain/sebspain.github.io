@@ -10,3 +10,7 @@ Kat completed her MChem in Chemistry for Drug Discovery (first class honours) at
 **Project:** Transdermal delivery for the prevention of scar contracture
 
 **Funding:** [EPSRC CDT in Polymers, Soft Matter and Colloids](http://www.polymercentre.org.uk/centre-for-doctoral-training/)
+
+## Prizes
+
+Poster prize at the <a href="http://www.pbm.ugent.be/?page_id=1901">Advanced Materials for Biomedical Applications Conference</a> in Ghent.
