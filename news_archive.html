@@ -15,19 +15,20 @@
   <!-- MathJax Section -->
   <script type="text/javascript"
    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-      }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-  </script>
+   <script>
+     MathJax.Hub.Config({
+       tex2jax: {
+         inlineMath: [['$','$'], ['\\(','\\)']],
+         skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+       }
+     });
+     MathJax.Hub.Queue(function() {
+         var all = MathJax.Hub.getAllJax(), i;
+         for(i=0; i < all.length; i += 1) {
+             all[i].SourceElement().parentNode.className += ' has-jax';
+         }
+     });
+   </script>
 </head>
 
 
@@ -57,6 +58,7 @@
 
             <h1>News Archive</h1>
               <ul class="news">
+                <li><span>21 Dec 2017</span> &raquo; New paper on alkyl-modified DNA-based delivery systems published in <a href=http://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00805><em>Mol. Pharmaceutics</em></a>.</li>
                 <li><span>01 Nov 2017</span> &raquo; <a href="group/join.html" >PhD studentship</a> in oxidation-responsive materials available for Sept/Oct. 2018 start.</li>
                 <li><span>05 Oct 2017</span> &raquo; Congratulations to Kat on winning a poster prize at the <a href="http://www.pbm.ugent.be/?page_id=1901">Advanced Materials for Biomedical Applications Conference</a> in Ghent.</li>
                 <li><span>03 Oct 2017</span> &raquo; New paper on tuning the transition temperature of thermoresponsive nanoparticles now online in <a href="http://dx.doi.org/10.1039/C7SM00920H"><em>Soft Matter</em></a>.</li>
