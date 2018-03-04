@@ -23,7 +23,7 @@ Basically it comes down to having the right tool for the job.
 You *can* use Powerpoint for making figures and, with some workarounds, you [can produce something of near publication quality](http://support.microsoft.com/kb/827745).
 Similarly, you can cut a plank of wood with a chisel, but using a saw is going to be quicker, easier, and give a better result.
 
-The main reason for not using in are the poor choices for exporting to a usable format, go and try saving an image of a graph from Excel, here are some other reasons not ot use Excel:
+The main reason for not using it are the poor choices for exporting to a usable format, go and try saving an image of a graph from Excel, here are some other reasons not to use Excel:
 
 ### It's statistically flawed.
 The statistical analyses in Excel are known to be full of errors. There have been multiple papers written on the subject [1], and yet many of them still haven't been fixed by Microsoft, although that may be changing [2].
