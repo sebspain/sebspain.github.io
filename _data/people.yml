@@ -5,42 +5,82 @@
 -   name: Dominic Gray
     url: Dominic_Gray
     position: PhD
+    funder:
+        - EPSRC
+        - BASF
+    cdt: true
 
 -   name: Kathryn Murray
     url: Kathryn_Murray
     position: PhD
+    funder:
+        - EPSRC
+    cdt: true
+    supervisors:
+        - Sheila MacNeil
 
 -   name: Laila Alhaidari
     url: Laila_Alhaidari
     position: PhD
+    funder:
+        - Saudi Arabian Cultural Bureau
 
 -   name: Jasmine Lord
     url: Jasmine_Lord
     position: PhD
+    funder:
+        - EPSRC
+        - BTG plc
+    cdt: true
 
 -   name: Emma Owens
     url: Emma_Owens
     position: PhD
+    funder:
+        - University of Sheffield
 
 -   name: Tom Neal
     url: Tom_Neal
     position: PhD
+    funder:
+        - EPSRC
+        - AkzoNobel N.V.
+    cdt: true
+    supervisors:
+        - Oleksandr Mykhaylyk
 
 -   name: Rheanna Perry
     url: Rheanna_Perry
     position: PhD
+    funder:
+        - EPSRC
+        - Croda plc
+    cdt: true
 
 -   name: Katharina Clitherow
     url: Katharina_Clitherow
     position: PhD
+    funder:
+        - EPSRC
+        - Dermtreat APS
+    supervisors:
+        - Paul Hatton
+        - Craig Murdoch
+    cdt: true
 
 -   name: Marissa Morales Moctezuma
     url: Marissa_Morales_Moctezuma
     position: PhD
+    funder:
+        - CONACYT
 
 -   name: Anna Mroz
     url: Anna_Mroz
     position: PhD
+    funder:
+        - EPSRC
+        - Scott Bader
+    cdt: true
 
 -   name: Katie Lewthwaite
     position: MChem
