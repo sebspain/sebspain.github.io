@@ -1,119 +1,50 @@
-<!DOCTYPE html>
-<html>
+---
+layout: front
+title: Welcome
+---
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Spain Lab - University of Sheffield</title>
-  <meta name="description" content="Website for the research group of Dr Seb Spain in the Department of Chemistry, University of Sheffield.">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans%7CFira+Sans:300,300italic,500,500italic,400,400italic,700,700italic%7CFira+Mono:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/css/normalize.css">
-  <link rel="stylesheet" href="/css/syntax.css">
-  <link rel="stylesheet" href="/css/gridism.css">
-  <link rel="stylesheet" href="/css/style.css">
-  <!-- MathJax Section -->
-  <script    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  <script>
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-      }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-  </script>
-</head>
-
-
-<body class="wrap wider">
-
-<header class="site-header">
-    <div class="grid">
-        <div class="unit w-1-3 center-on-mobiles">
-            <img class="logo" src="/img/spain_lab_lowres_col.png" alt="Logo for the Spain Lab"/>
-        </div>
-        <div class="unit w-2-3 center-on-mobiles align-right">
-            <nav class="topnav">
-                <a href="/">Home</a>
-                <a href="/research/">Research</a>
-                <a href="/group/">People</a>
-                <a href="/facilities/">Facilities</a>
-                <a href="/publications">Publications</a>
-                <a href="/blog.html">Blog</a>
-            </nav>
-        </div>
-    </div>
-</header>
-
-<div class="page-content">
-    <div class="grid">
-        <div class="unit w-2-3 center-on-mobiles">
-
-            <h1>Welcome</h1>
-            <figure>
-                <img src="/img/hpma_confocal.png" alt="Confocal microscopy image of HCT 116 cells treated with fluorescently labelled poly[N-hydroxyethyl methacrylamide]. Copyright: Dr Laura Purdie.">
-                <figcaption>HCT 116 cells treated with fluorescently labelled poly[N-hydroxyethyl methacrylamide] (Image courtesy of Dr Laura Purdie, University of Nottingham).</figcaption>
-            </figure>
-            <p>
-            We are a synthetic polymer chemistry group based in the Department of Chemistry, University of Sheffield, UK. Our research is diverse but may be loosely grouped as novel materials for therapeutics and diagnostics.
-            </p>
-            <p>
-            To achieve this we use a combination of "small molecule" synthesis, modern polymer synthesis, including controlled radical and ring-opening polymerizations, and <em>in vitro</em> and <em>in vivo</em> pre-clinical studies.
-            </p>
-            <p>
-            Current projects range from embolizing agents and trandermal drug delivery to industrial coatings. Further details can be found on our
-            <a href="/research/" >research pages</a> or individual <a href="/group/">group member</a> pages.
-            </p>
-
-
-        </div>
-        <div class="unit w-1-3 center-on-mobiles">
-            <h2>News</h2>
-              <ul class="news">
-                <li><span>08 Feb 2018</span> &raquo; Tom's paper on self-assembly of statistical copolymers is now out in <a href=http://dx.doi.org/10.1021/acs.macromol.7b02134><em>Macromolecules</em></a>.</li>
-                <li><span>21 Dec 2017</span> &raquo; New paper on alkyl-modified DNA-based delivery systems published in <a href=http://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00805><em>Mol. Pharmaceutics</em></a>.</li>
-                <li><span>01 Nov 2017</span> &raquo; <a href="group/join.html" >PhD studentship</a> in oxidation-responsive materials available for Sept/Oct. 2018 start.</li>
-                <li><span>05 Oct 2017</span> &raquo; Congratulations to Kat on winning a poster prize at the <a href="http://www.pbm.ugent.be/?page_id=1901">Advanced Materials for Biomedical Applications Conference</a> in Ghent.</li>
-                <li><span>03 Oct 2017</span> &raquo; New paper on tuning the transition temperature of thermoresponsive nanoparticles now online in <a href="http://dx.doi.org/10.1039/C7SM00920H"><em>Soft Matter</em></a>.</li>
-                <li><span>23 Sep 2017</span> &raquo; <a href="group/profiles/Anna_Mroz.html">Anna</a> has joined the group as a PhD student, and Elliott, Fiona and Katie are starting their MChem projects. Welcome to the Lab!</li>
-                <li><span>15 Sep 2017</span> &raquo; <a href="group/profiles/Marissa_Morales_Moctezuma.html">Marissa</a> has rejoined the group as PhD student. Welcome back!</li>
-                <li><span>16 Jul 2017</span> &raquo; Laura's paper on the effect of branched poly(acrylic acid) on apatite formation is now online in <a href="http://dx.doi.org/10.1039/C7TB00144D"><em>J. Mater. Chem. B.</em></a></li>
-                <li><span>28 Apr 2017</span> &raquo; Spain group <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P027989/1">awarded funding to develop inflammation-responsive materials.</a> Further details to follow.</li>
-                <li><a href="news_archive.html"><em>News archive...</em></a></li>
-            </ul>
-        </div>
-    </div>
+<h1>{{ page.title }}</h1>
+<div class="unit w-2-3 center-on-mobiles">
+    <figure>
+        <img src="/img/hpma_confocal.png" alt="Confocal microscopy image of HCT 116 cells treated with fluorescently labelled poly[N-hydroxyethyl methacrylamide]. Copyright: Dr Laura Purdie.">
+        <figcaption>HCT 116 cells treated with fluorescently labelled poly[N-hydroxyethyl methacrylamide] (Image courtesy of Dr Laura Purdie, University of Nottingham).</figcaption>
+    </figure>
+    <p>
+    We are a synthetic polymer chemistry group based in the Department of Chemistry, University of Sheffield, UK. Our research is diverse but may be loosely grouped as novel materials for therapeutics and diagnostics.
+    </p>
+    <p>
+    To achieve this we use a combination of "small molecule" synthesis, modern polymer synthesis, including controlled radical and ring-opening polymerizations, and <em>in vitro</em> and <em>in vivo</em> pre-clinical studies.
+    </p>
+    <p>
+    Current projects range from embolizing agents and trandermal drug delivery to industrial coatings. Further details can be found on our
+    <a href="/research/" >research pages</a> or individual <a href="/group/">group member</a> pages.
+    </p>
 </div>
 
-<footer>
-    <div class="grid">
-        <div class="unit w-1-1 center-on-mobiles align-left">
-            <nav class="bottomnav">
-                    <a href="mailto:seb@spain-lab.co.uk" class="contact">Email</a>
-                    <a href="https://twitter.com/sebspain" class="contact">Twitter</a>
-                    <a href="http://www.linkedin.com/pub/sebastian-spain/31/516/38a" class="contact">Linkedin</a>
-                    <a href="http://www.researcherid.com/rid/A-7814-2010" class="contact">ResearcherID</a>
-                    <a href="http://orcid.org/0000-0001-7241-5713" class="contact">ORCID</a>
-                    <a href="http://scholar.google.co.uk/citations?user=aDsMaboAAAAJ" class="contact">Google Scholar</a>
-                    <a href="https://www.researchgate.net/profile/Sebastian_Spain" class="contact">ResearchGate</a>
-                    <a href="http://github.com/sebspain" class="contact">GitHub</a>
-                    <a href="http://sebspain.co.uk/files/sebspain_gpg_public.gpg" class="contact">GPG Key</a>
-                    <a href="https://www.youtube.com/channel/UCcdwL6wjC1TgPdSsdtZZRPA" class="contact">YouTube</a>
-                    <a href="https://sites.google.com/a/sheffield.ac.uk/spain-group-internal/" class="contact">Intranet</a>
-            </nav>
-        </div>
+<div class="unit w-1-3 center-on-mobiles">
+    <h2>News</h2>
+    <ul class="news">
+        {% for story in site.data.news limit:6 %}
+        <li><span>{{ story.date | date: " %d %b %Y " }}</span> &raquo; {{ story.storytext }}</li>
+        {% endfor %}
+        <li><a href="news_archive.html"><em>News archive</em></a></li>
+    </ul>
+</div>
 
-    </div>
-</footer>
+<div class="unit w-2-3 center-on-mobiles">
+    <h2>Recent Papers</h2>
+    <ul class="news">
+      {% for paper in site.data.papers limit:5 %}
+        <li>
+            "{{ paper.title }}", <em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+        </li>
+      {% endfor %}
+      <li><a href="/publications/"><em>Full publication list</em></a></li>
+    </ul>
+</div>
 
 
 
-</body>
-
-</html>
+<div class="unit w-1-3 hide-on-mobiles">
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/sebspain?ref_src=twsrc%5Etfw">Tweets by sebspain</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
