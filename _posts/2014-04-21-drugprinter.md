@@ -9,6 +9,8 @@ categories:
 - Science
 - Psuedoscience
 - Drug Discovery
+tags:
+- pseudoscience
 ---
 
 

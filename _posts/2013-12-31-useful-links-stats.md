@@ -8,6 +8,8 @@ categories:
 - Statistics
 - Science
 - Tutorials
+tags:
+- science
 ---
 
 I'll update this post occasionally as and when I find good sites about basic stats.

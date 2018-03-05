@@ -7,6 +7,8 @@ published: true
 categories:
 - Coding
 - Useful Commands
+tags:
+- code
 ---
 
 This page is mainly an *aide-mémoire* for me but some of these may be useful for others. Add suggestions for improvements in the comments.

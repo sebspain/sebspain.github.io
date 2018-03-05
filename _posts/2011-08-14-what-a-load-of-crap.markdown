@@ -9,8 +9,7 @@ wordpress_id: 62
 categories:
 - Science
 tags:
-- faeces
-- good science
+- science
 - graphene
 ---
 

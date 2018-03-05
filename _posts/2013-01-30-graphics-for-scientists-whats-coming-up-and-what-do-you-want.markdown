@@ -10,6 +10,9 @@ categories:
 - Graphics
 - Graphics for Scientists
 - Science
+tags:
+- science
+- graphics
 ---
 
 Below are what I plan on adding to the series. If there is anything else you think should be covered comment below or email/tweet me ([see contacts page](http://spain-lab.co.uk/about/))

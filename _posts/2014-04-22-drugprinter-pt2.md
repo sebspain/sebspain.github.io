@@ -9,6 +9,8 @@ categories:
 - Science
 - Psuedoscience
 - Drug Discovery
+tags:
+- pseudoscience
 ---
 
 Assuming you could actually make a DrugPrinter, how instantly would it be able to produce enough drug for testing? Let's assume we want to make 10 mg of compound (enough for physicochemical analysis and basic screening) and it has a molar mass of 500 g/mol.

@@ -10,10 +10,7 @@ categories:
 - Medicine
 - Pseudoscience
 tags:
-- fertility
-- menthol
 - pseudoscience
-- testes
 ---
 
 During a recent conversion about the lower temperature of testicles compared to the rest of the male body I was attempted to find the temperture differential when I stumbled across [this wonderful product](http://www.fertilmate.co.uk/) sold by Babystart Ltd through their website [babystart.co.uk](http://babystart.co.uk)
