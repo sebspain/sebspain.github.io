@@ -3,44 +3,68 @@
     url: Seb_Spain
 
 -   name: Dominic Gray
+    firstname: Dom
+    lastname: Gray
     url: Dominic_Gray
     position: PhD
+    project: DPE-mediated emulsion polymerisation
+    biog: Dominic completed his Masters in chemistry with professional experience at the University of Warwick (2010-2014) including a placement at Monash University (2013). Following this he joined the Polymers, Soft Matter and Colloids CDT at the University of Sheffield and is currently investigating the use of controlled radical polymerization in emulsions for coatings sponsored by BASF.
     funder:
         - EPSRC
         - BASF
     cdt: true
 
 -   name: Kathryn Murray
+    firstname: Kat
+    lastname: Murray
     url: Kathryn_Murray
     position: PhD
+    project: Transdermal delivery for the prevention of scar contracture
+    biog: Kat completed her MChem in Chemistry for Drug Discovery (first class honours) at the University of Bath (2009-2013). She worked as an assistant scientist at Systagenix (becoming Woundchek Laboratories in 2014) before starting her PhD at the University of Sheffield as part of the Polymers, Soft Matter and Colloids CDT. Kat’s research focuses on transdermal drug delivery to reduce scar contracture.
     funder:
         - EPSRC
+        - University of Sheffield
     cdt: true
     supervisors:
         - Sheila MacNeil
+    prizes:
+        - Poster prize at the Advanced Materials for Biomedical Applications Conference in Ghent.
+
 
 -   name: Laila Alhaidari
+    firstname: Laila
+    lastname: Alhaidari
     url: Laila_Alhaidari
     position: PhD
+    project: Responsive materials for 19F MRI theranostics
     funder:
         - Saudi Arabian Cultural Bureau
 
 -   name: Jasmine Lord
+    firstname: Jasmine
+    lastname: Lord
     url: Jasmine_Lord
     position: PhD
+    project: New embolic agents
+    biog: In 2015, I graduated from the University of Sheffield with a Masters degree in chemistry including industrial experience gained from a years placement at Biocompatibles, a BTG International group company. During the industrial placement, I worked as an innovation technician focusing on the development of radiopaque beads for transarterial embolization being involved with the project as it progressed from early stage research through development to preclinical trial manufacture. The opportunity also arose to extend the placement over summer, during which I worked to provide scientific support for a patent application. For my final year project I was based in the Jones research group at the University of Sheffield specialising in the area of asymmetric synthesis using chiral auxiliaries. The focus of the project was the development of a synthetic route for the preparation of a chiral compound designed to behave as a molecular mimic of an intermediate formed during the biosynthesis of pseudaminic acid within the flagellum of bacteria. Thereby, behaving as a novel antibiotic for pathogenic bacteria.
     funder:
         - EPSRC
         - BTG plc
     cdt: true
 
 -   name: Emma Owens
+    firstname: Emma
+    lastname: Owens
     url: Emma_Owens
     position: PhD
     project: Oxidation-responsive materials for targeting inflammation
+    biog: I graduated from the University of Sheffield in 2015 with a masters degree in chemistry. During my undergraduate degree, I spent 10 weeks of my summer break working with Professor Armes research group at the University of Sheffield. The aim of this short project was to synthesise PMAA-b-PBzMA and PAA-b-PST block copolymers via the RAFT aqueous emulsion polymerisation. Through this I found that I had an interest in polymer chemistry, which ultimately influenced my decision to apply for a PhD in this field. My masters project focused on using molecular modelling programs, such as Gaussian 09, in order to determine the energy of astrochemical reactions. In particular, the objective to resolve why there is a large abundance of methyl formate, rather than the more kinetically stable isomer, glycoaldehyde, near hot cores of young stellar objects. To do this possible reaction routes were modelled and the influence of hydrogen bonding on the energy of these was determined.
     funder:
         - University of Sheffield
 
 -   name: Tom Neal
+    firstname: Tom
+    lastname: Neal
     url: Tom_Neal
     position: PhD
     project: Towards water-borne gloss paints
@@ -52,16 +76,23 @@
         - Oleksandr Mykhaylyk
 
 -   name: Rheanna Perry
+    firstname: Rheanna
+    lastname: Perry
     url: Rheanna_Perry
     position: PhD
+    project: New materials for instant effect cosmetics
+    biog: Rheanna completed her Masters in Chemistry at the University of Sheffield in 2015 where she worked on a RAFT PISA project for Professor Steve Armes. Following this she joined the EPSRC sponsored CDT in Polymers, Soft Matter and Colloids at the same institution and is currently working on the synthesis of microparticles from biodegradable materials sponsored by CRODA.
     funder:
         - EPSRC
         - Croda plc
     cdt: true
 
 -   name: Katharina Clitherow
+    firstname: Katharina
+    lastname: Clitherow
     url: Katharina_Clitherow
     position: PhD
+    project: Development of Electrospun Polymer Devices for Drug Delivery to Oral Mucosa
     funder:
         - EPSRC
         - Dermtreat APS
@@ -71,17 +102,25 @@
     cdt: true
 
 -   name: Marissa Morales Moctezuma
+    firstname: Marissa
+    lastname: Morales Moctezuma
     url: Marissa_Morales_Moctezuma
     position: PhD
+    project: Stimuli-responsive polymer nanocomposites hydrogels for biomedical applications
     funder:
         - CONACYT
 
 -   name: Anna Mroz
+    firstname: Anna
+    lastname: Mroz
     url: Anna_Mroz
     position: PhD
+    project: Increasing the sustainability of high performance composites
     funder:
         - EPSRC
         - Scott Bader
+    supervisors:
+        - Patrick Fairclough
     cdt: true
 
 -   name: Katie Lewthwaite
@@ -103,10 +142,12 @@
     url: Laura_Shallcross
     position: PhD
     alumni: true
+    current: Scientist at Scott Bader
 
 -   name: Nora Francini
     position: PhD
     alumni: true
+    current: Postdoc at the Italian Institute of Technology
 
 -   name: Lee Moir
     position: PhD
@@ -123,6 +164,7 @@
 -   name: Daniel Cheung
     position: MSc
     alumni: true
+    current: PhD student
 
 -   name: Raj Kumar Devadoss
     position: MSc
