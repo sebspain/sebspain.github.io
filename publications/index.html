@@ -1,64 +1,10 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Spain Lab - Publications</title>
-  <meta name="description" content="Website for the research group of Dr Seb Spain in the Department of Chemistry, University of Sheffield.">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans%7CFira+Sans:300,300italic,500,500italic,400,400italic,700,700italic%7CFira+Mono:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/css/normalize.css">
-  <link rel="stylesheet" href="/css/syntax.css">
-  <link rel="stylesheet" href="/css/gridism.css">
-  <link rel="stylesheet" href="/css/style.css">
-  <!-- MathJax Section -->
-  <script    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  <script>
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-      }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-  </script>
+---
+layout: page
+title: Publications
+---
 
 
-    <script src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-</head>
-
-<body class="wrap wider">
-
-<header class="site-header">
-    <div class="grid">
-        <div class="unit w-1-3 center-on-mobiles">
-            <img class="logo" src="/img/spain_lab_lowres_col.png" alt="Logo for the Spain Lab"/>
-        </div>
-        <div class="unit w-2-3 center-on-mobiles align-right">
-            <nav class="topnav">
-                <a href="/">Home</a>
-                <a href="/research/">Research</a>
-                <a href="/group/">People</a>
-                <a href="/facilities/">Facilities</a>
-                <a href="/publications">Publications</a>
-                <a href="/blog.html">Blog</a>
-            </nav>
-        </div>
-    </div>
-</header>
-
-<div class="page-content">
-	<div class="grid">
-		<div class="unit w-1-1">
-			<h1>Publications</h1>
-				<p>Where copyright agreements allow a link to the published PDF may be found. Otherwise for PDF copies of any of the articles below please <a href="mailto:seb@sebspain.co.uk">contact me</a> and I will provide them where possible.</p>
+<p>Where copyright agreements allow a link to the published PDF may be found. Otherwise for PDF copies of any of the articles below please <a href="mailto:seb@sebspain.co.uk">contact me</a> and I will provide them where possible.</p>
 
 <p>* denotes SGS as corresponding author</p>
 
@@ -66,174 +12,27 @@
 
 <h2 id="peer-reviewed-journals">Peer-reviewed Journals</h2>
 <ol class="publications" reversed="reversed">
+  {% for paper in site.data.papers %}
     <li>
-      <p>Thomas J. Neal, Deborah L. Beattie, Sarah J. Byard, Gregory N. Smith, Martin W. Murray, Neal S. J. Williams, Simon N. Emmett, Steven P. Armes, <strong>Sebastian G. Spain*</strong>, Oleksandr O. Mykhaylyk; “Self-assembly of amphiphilic statistical copolymers and their aqueous rheological properties” <em>Macromolecules</em> 2018, <strong>51</strong>, 1474-1487.
-          <!-- <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> -->
-<a href="http://dx.doi.org/10.1021/acs.macromol.7b02134">[DOI]</a>
-  </p>
-      <div data-badge-popover="right" data-badge-type="1" data-doi="DOI: 10.1021/acs.macromol.7b02134" data-hide-no-mentions="true" class="altmetric-embed"></div>
-      <p><img width="300" src="/non_foss/publications/img/acs.macromol.7b02134.png" alt="TOC Graphic" /></p>
-  </li>
-    <li>
-      <p>Laura Purdie, Cameron Alexander, <strong>Sebastian G. Spain*</strong> and Johannes P. Magnusson; “Alkyl-modified oligonucleotides as intercalating vehicles for doxorubicin uptake via albumin binding” <em>Mol. Pharmaceutics</em> 2018, <strong>15</strong>, 437-446.
-          <!-- <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> -->
-<a href="http://dx.doi.org/10.1021/acs.molpharmaceut.7b00805">[DOI]</a>
-  </p>
-      <div data-badge-popover="right" data-badge-type="1" data-doi="DOI: 10.1021/acs.molpharmaceut.7b00805" data-hide-no-mentions="true" class="altmetric-embed"></div>
-      <p><img width="300" src="/non_foss/publications/img/acs.molpharmaceut.7b00805.png" alt="TOC Graphic" /></p>
-  </li>
-    <li>
-      <p>Ruggero Foralosso, Lee Moir, Francesca Mastrotto, Luana Sasso, Aleksandra Tchoryk, Amjad Selo, Anna Grabowska, Marianne B. Ashford, Jonathan Aylott, Paul R. Gellert, <strong>Sebastian G. Spain</strong> and Cameron Alexander; “Control of aggregation temperatures in mixed and blended cytocompatible thermoresponsive block co-polymer nanoparticles” <em>Soft Matter</em> 2017, <strong>13</strong>, 7441-7452. <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" />
-<a href="http://dx.doi.org/10.1039/C7SM00920H">[DOI]</a>
-      <a href="http://sebspain.co.uk/non_foss/publications/PDFs/2017/c7sm00920h-final.pdf">[PDF]</a>
-  </p>
-      <div data-badge-popover="right" data-badge-type="1" data-doi="DOI: 10.1039/C7SM00920H" data-hide-no-mentions="true" class="altmetric-embed"></div>
-      <p><img width="300" src="/non_foss/publications/img/C7SM00920H_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Laura Shallcross, Kevin Roche, Caroline J. Wilcock, Kenneth J. Stanton, Thomas Swift, Stephen Rimmer, Paul V. Hatton and <strong>Sebastian G. Spain</strong>*; “The effect of hyperbranched poly(acrylic acid)s on the morphology and size of precipitated nanoscale (fluor)hydroxyapatite.” <em>J. Mater. Chem. B.</em> 2017, <strong>5</strong>, 6027-6033. <a href="http://dx.doi.org/10.1039/C7TB00144D">[DOI]</a>
-    <a href="http://sebspain.co.uk/non_foss/publications/PDFs/2017/c7tb00144d-final.pdf">[PDF]</a>
-</p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="DOI: 10.1039/C7TB00144D" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/c7tb00144d_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Laura Purdie, Cameron Alexander, <strong>Sebastian G. Spain</strong>* and Johannes P. Magnusson; “Influence of polymer size on uptake and cytotoxicity of doxorubicin-loaded DNA–PEG conjugates” <em>Bioconjugate Chem.</em> 2016, <strong>27</strong>, 1244-1252. <a href="http://dx.doi.org/10.1021/acs.bioconjchem.6b00085">[DOI]</a>
-    </p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/acs.bioconjchem.6b00085" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/acs.bioconjchem.6b00085_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Andrea D. Goncalves, Cameron Alexander, Clive J. Roberts, <strong>Sebastian G. Spain</strong>, Shahid Uddin and Stephanie Allen; “The effect of protein concentration on the viscosity of a recombinant albumin solution formulation” <em>RSC Advances</em>, 2016, <strong>6</strong>, 15143-15154. <a href="http://dx.doi.org/10.1039/C5RA21068B">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/2016/c5ra21068b-final.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C5RA21068B" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="500" src="/non_foss/publications/img/C5RA21068B_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Giovanna Sicilia, Adrienne L. Davis, <strong>Sebastian G. Spain</strong>, Johannes P. Magnusson, Nathan Boase, Kristofer J. Thurecht and Cameron Alexander; “Synthesis of 19F Nucleic Acid–Polymer Conjugates as Real-Time MRI Probes of Biorecognition.” <em>Polym. Chem.</em>, 2016, <strong>7</strong>, 2180-2191. <a href="http://dx.doi.org/10.1039/C5PY01883H">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/2016/C5PY01883H-final.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C5PY01883H" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C5PY01883H_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Vanessa Loczenski Rose, Saif Shubber, S. Sajeesh, <strong>Sebastian G. Spain</strong>, Sanyogitta Puri, Stephanie Allen, Dong-Ki Lee, G. Sebastiaan Winkler and Giuseppe Mantovani; “Phosphonium polymethacrylates for siRNA delivery: effect of polymer and
-RNA structural parameters on polyplex assembly and gene knockdown.” <em>Biomacromolecules</em>, 2015, <strong>16</strong>, 3480-3490. <a href="http://dx.doi.org/10.1021/acs.biomac.5b00898">[DOI]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/acs.biomac.5b00898" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="500" src="/non_foss/publications/img/acs.biomac.5b00898_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Nora Francini, Laura Purdie, Cameron Alexander, Giuseppe Mantovani and <strong>Sebastian G. Spain</strong>*; “Multifunctional poly[N-(2-hydroxypropyl)methacrylamide] copolymers via post-polymerization modification and sequential thiol–ene chemistry” <em>Macromolecules</em>, 2015, <strong>48</strong>, 2857-2863. <a href="http://pubs.acs.org/doi/abs/10.1021/acs.macromol.5b00447">[DOI]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/acs.macromol.5b00447" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/acs.macromol.5b00447_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Daniel E. Mitchell, Mary Lilliman, <strong>Sebastian G. Spain</strong> and Matthew I. Gibson; “Quantitative study on the antifreeze protein mimetic ice growth inhibition properties of poly(ampholytes) derived from vinyl-based polymers” <em>Biomater. Sci.</em>, 2014, <strong>2</strong>, 1781-1795. <a href="http://dx.doi.org/10.1039/C4BM00153B">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c4bm00153b-final.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C4BM00153B" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C4BM00153B_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, <strong>Sebastian G. Spain</strong>, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer
-and Cameron Alexander; “Bacteria-instructed synthesis of polymers for self-selective microbial binding and labelling” <em>Nature Mater.</em>, 2014, <strong>13</strong>, 748-755. <a href="http://dx.doi.org/10.1038/nmat3949">[DOI]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/nmat3949" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/nmat3949_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>* and Cameron Alexander; “Programmed assembly of polymer-DNA conjugate nanoparticles with optical readout and sequence-specific activation of biorecognition” <em>Nanoscale</em> 2014, <strong>6</strong>, 2368-2374. <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> <a href="http://dx.doi.org/10.1039/C3NR04952C">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c3nr04952c-final.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C3NR04952C" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C3NR04952C_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, <strong>Sebastian G. Spain</strong>* and Cameron Alexander; “Programmable polymer-DNA hydrogels with dual input and multiscale responses” <em>Biomat. Sci.</em> 2014, <strong>2</strong>, 203-211. <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> <a href="http://dx.doi.org/10.1039/C3BM60126A">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c3bm60126a-final.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C3BM60126A" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C3BM60126A_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, <strong>Sebastian G. Spain</strong>, Stephanie Allen, Martyn C. Davies, and Cameron Alexander; “Multi-modal switching in responsive DNA block co-polymer conjugates” <em>Phys. Chem. Chem. Phys.</em>, 2013, <strong>15</strong>, 16263-16274. <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> <a href="http://dx.doi.org/10.1039/C3CP52243A">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c3cp52243a.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C3CP52243A" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C3CP52243A_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Teresa Matini, Nora Francini, Anna Battocchio, <strong>Sebastian G. Spain</strong>, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander; “Synthesis and characterization of variable conformation pH responsive block co-polymers for nucleic acid delivery and targeted cell entry” <em>Polym. Chem.</em> 2014, <strong>5</strong>, 1626-1636. <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> <a href="http://dx.doi.org/10.1039/C3PY00744H">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c3py00744h-final.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C3PY00744H" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C3PY00744H_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Samer R. Abulateefeh, <strong>Sebastian G. Spain</strong>, Kristofer J. Thurecht, Jonathan W. Aylott, Weng C. Chan, Martin C. Garnett and Cameron Alexander; “Enhanced uptake of nanoparticle drug carriers via a thermoresponsive shell enhances cytotoxicity in a cancer cell line” <em>Biomater. Sci.</em>, 2013, <strong>1</strong>, 434-442. <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> <a href="http://dx.doi.org/10.1039/C2BM00184E">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c2bm00184e.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C2BM00184E" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C2BM00184E_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Gokcen Yasayan, Martin Redhead, Johannes P. Magnusson, <strong>Sebastian G. Spain</strong>, Stephanie Allen, Martyn C. Davies, Cameron Alexander and Francisco Fernandez-Trillo; “Well-defined Polymeric Vesicles with High Stability and Modulation of Cell Uptake by a Simple Coating Protocol” <em>Polym. Chem.</em>, 2012, <strong>3</strong>, 2596-2604. <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> <a href="http://dx.doi.org/10.1039/C2PY20352A">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c2py20352a.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C2PY20352A" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C2PY20352A_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Samer R. Abulateefeh, <strong>Sebastian G. Spain</strong>, Jonathan W. Aylott et al.; “Thermoresponsive colloids in cancer therapy” <em>Macromol. Biosci.</em>, 2011, <strong>11</strong>, 1722-1734. <a href="http://dx.doi.org/10.1002/mabi.201100252">[DOI]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1002/mabi.201100252" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="300" src="/non_foss/publications/img/mabi.201100252_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p><strong>Sebastian G. Spain</strong>* and Neil R. Cameron; “The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120): an ITC and SPR study” <em>Polym. Chem.</em>,2011, <strong>2</strong>, 1552-1560. <a href="http://dx.doi.org/10.1039/C1PY00030F">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c1py00030f.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C1PY00030F" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/C1PY00030F_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p><strong>Sebastian G. Spain</strong> and Neil R. Cameron; “A spoonful of sugar: the application of glycopolymers in therapeutics” <em>Polym. Chem.</em>, 2011, <strong>2</strong>, 60-68. <a href="http://dx.doi.org/10.1039/C0PY00149J">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/c0py00149j.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/C0PY00149J" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="500" src="/non_foss/publications/img/C0PY00149J_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Matthew I. Gibson, Carl A. Barker, <strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; “Inhibition of ice crystal growth by synthetic glycopolymers: implications for the rational design of antifreeze glycoprotein mimics” <em>Biomacromolecules</em>, 2009, <strong>10</strong>, 328-333. <a href="http://dx.doi.org/10.1021/bm801069x">[DOI]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1021/bm801069x" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="500" src="/non_foss/publications/img/bm801069x_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p>Neil R. Cameron, <strong>Sebastian G. Spain</strong>, James A. Kingham, Stefan Weck, Luca Albertin, Carl A. Barker, Guiseppe Battaglia, Thomas Smart, and Adam Blanazs; “Synthesis of well-defined glycopolymers and some studies of their aqueous solution behaviour” <em>Faraday Discuss.</em>, 2008, <strong>139</strong>, 359-368. <a href="http://dx.doi.org/10.1039/b717177c">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/b717177c.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/b717177c" data-hide-no-mentions="true" class="altmetric-embed"></div>
-  </li>
-  <li>
-    <p><strong>Sebastian G. Spain</strong>, Matthew I. Gibson and Neil R. Cameron; “Recent Advances in the Synthesis of Well-defined Glycopolymers” <em>J. Polym. Sci. Part A Polym. Chem.</em> 2007, <strong>45</strong>, 2059-2072. <a href="http://dx.doi.org/10.1002/pola.22106">[DOI]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1002/pola.22106" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="300" src="/non_foss/publications/img/pola.22106_toc.png" alt="TOC Graphic" /></p>
-  </li>
-  <li>
-    <p><strong>Sebastian G. Spain</strong>, Luca Albertin and Neil R. Cameron; “Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles”, <em>Chem. Commun.</em> 2006, 4198-4200. <a href="http://dx.doi.org/10.1039/b608383h">[DOI]</a> <a href="http://sebspain.co.uk/non_foss/publications/PDFs/b608383h.pdf">[PDF]</a></p>
-    <div data-badge-popover="right" data-badge-type="1" data-doi="10.1039/b608383h" data-hide-no-mentions="true" class="altmetric-embed"></div>
-    <p><img width="400" src="/non_foss/publications/img/B608383H_toc.png" alt="TOC Graphic" /></p>
-  </li>
+    <p>
+        {{ paper.authors }}; "{{ paper.title }}", <em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+        {% if paper.pdf == true %}<a href="/non_foss/publications/PDFs/{{ paper.year }}/{{ paper.doi_short }}.pdf">[PDF]</a>{% endif %}
+        {% if paper.openaccess == true %}<img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> {% endif %}
+    <p>
+    {% if paper.toc == true %}
+    <p><img width="300" src="/non_foss/publications/img/{{ paper.doi_short }}_toc.png" alt="TOC Graphic" /></p>{% endif %}
+    <div data-badge-popover="right" data-badge-type="1" data-doi="DOI: {{ paper.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    </li>
+  {% endfor %}
 </ol>
 
 <h2 id="book-chapters">Book Chapters</h2>
 
-<ol>
-  <li><strong>Sebastian G. Spain</strong>, Gokcen Yasayan, Mahmoud Soliman, Felicity Heath, Aram O. Saeed and Cameron Alexander, “Nanoparticles of Nucleic Acid Delivery” in <em>Comprehensive Biomaterials</em>. Elsevier 2011, vol.4, pp 389-410. <a href="http://www.elsevierdirect.com/ISBN/9780080553023/Comprehensive-Biomaterials">[Book]</a> <a href="http://www.sciencedirect.com/science/article/pii/B9780080552941001331">[Chapter]</a></li>
+<ol class="publications" reversed="reversed">
+  {% for book in site.data.books %}
+    <li>
+    <p>
+        {{ book.authors }}; "{{ book.title }}" in <em>{{ book.booktitle }}</em>, {{ book.year }}, {% if book.volume %} vol. {{ book.volume }}, {% endif %} {{ book.pages }}.
+    </p>
+  {% endfor %}
 </ol>
-
-
-
-		</div>
-	</div>
-</div>
-
-<footer>
-    <div class="grid">
-        <div class="unit w-1-1 center-on-mobiles align-left">
-            <nav class="bottomnav">
-                    <a href="mailto:seb@spain-lab.co.uk" class="contact">Email</a>
-                    <a href="https://twitter.com/sebspain" class="contact">Twitter</a>
-                    <a href="http://www.linkedin.com/pub/sebastian-spain/31/516/38a" class="contact">Linkedin</a>
-                    <a href="http://www.researcherid.com/rid/A-7814-2010" class="contact">ResearcherID</a>
-                    <a href="http://orcid.org/0000-0001-7241-5713" class="contact">ORCID</a>
-                    <a href="http://scholar.google.co.uk/citations?user=aDsMaboAAAAJ" class="contact">Google Scholar</a>
-                    <a href="https://www.researchgate.net/profile/Sebastian_Spain" class="contact">ResearchGate</a>
-                    <a href="http://github.com/sebspain" class="contact">GitHub</a>
-                    <a href="http://sebspain.co.uk/files/sebspain_gpg_public.gpg" class="contact">GPG Key</a>
-                    <a href="https://www.youtube.com/channel/UCcdwL6wjC1TgPdSsdtZZRPA" class="contact">YouTube</a>
-                    <a href="https://sites.google.com/a/sheffield.ac.uk/spain-group-internal/" class="contact">Intranet</a>
-            </nav>
-        </div>
-
-    </div>
-</footer>
-
-
-</body>
-</html>
