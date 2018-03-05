@@ -10,7 +10,10 @@
     openaccess: false
     pdf: false
     toc: true
-
+    tags:
+        - self assembly
+        - characterisation
+        - solution behaviour
 
 -   id: Purdie2018
     authors: Laura Purdie, Cameron Alexander, Sebastian G. Spain* and Johannes P. Magnusson
@@ -24,6 +27,8 @@
     openaccess: false
     pdf: false
     toc: true
+    tags:
+        - DNA based vehicles
 
 -   id: Foralosso2017
     authors: Ruggero Foralosso, Lee Moir, Francesca Mastrotto, Luana Sasso, Aleksandra Tchoryk, Amjad Selo, Anna Grabowska, Marianne B. Ashford, Jonathan Aylott, Paul R. Gellert, Sebastian G. Spain and Cameron Alexander
@@ -37,6 +42,8 @@
     openaccess: true
     pdf: true
     toc: true
+    tags:
+        - thermoresponsive materials
 
 -   id: Shallcross2017
     authors: Laura Shallcross, Kevin Roche, Caroline J. Wilcock, Kenneth J. Stanton, Thomas Swift, Stephen Rimmer, Paul V. Hatton and Sebastian G. Spain*
@@ -63,6 +70,8 @@
     openaccess: false
     pdf: false
     toc: true
+    tags:
+        - DNA based vehicles
 
 -   id: Goncalves2016
     authors: Andrea D. Goncalves, Cameron Alexander, Clive J. Roberts, Sebastian G. Spain, Shahid Uddin and Stephanie Allen
@@ -76,6 +85,9 @@
     openaccess: true
     pdf: true
     toc: true
+    tags:
+        - solution behaviour
+        - characterisation
 
 -   id: Sicilia2016
     authors: Giovanna Sicilia, Adrienne L. Davis, Sebastian G. Spain, Johannes P. Magnusson, Nathan Boase, Kristofer J. Thurecht and Cameron Alexander
@@ -89,6 +101,8 @@
     openaccess: false
     pdf: true
     toc: true
+    tags:
+        - DNA responsive materials
 
 -   id: Rose2015
     authors: Vanessa Loczenski Rose, Saif Shubber, S. Sajeesh, Sebastian G. Spain, Sanyogitta Puri, Stephanie Allen, Dong-Ki Lee, G. Sebastiaan Winkler and Giuseppe Mantovani
@@ -102,6 +116,8 @@
     openaccess: false
     pdf: false
     toc: true
+    tags:
+        - gene delivery
 
 -   id: Francini2015
     authors: Nora Francini, Laura Purdie, Cameron Alexander, Giuseppe Mantovani and Sebastian G. Spain*
@@ -115,6 +131,8 @@
     openaccess: false
     pdf: false
     toc: true
+    tags:
+        - synthetic methodology
 
 -   id: Mitchell2014
     authors: Daniel E. Mitchell, Mary Lilliman, Sebastian G. Spain and Matthew I. Gibson
@@ -154,6 +172,8 @@
     openaccess: true
     pdf: true
     toc: true
+    tags:
+        - DNA responsive materials
 
 -   id: Sicilia2014
     authors: Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain* and Cameron Alexander
@@ -167,6 +187,8 @@
     openaccess: true
     pdf: true
     toc: true
+    tags:
+        - DNA responsive materials
 
 -   id: Matini2014
     authors: Teresa Matini, Nora Francini, Anna Battocchio, Sebastian G. Spain, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander
@@ -180,6 +202,8 @@
     openaccess: true
     pdf: true
     toc: true
+    tags:
+        - pH responsive materials
 
 -   id: Yasayan2013
     authors: Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander
@@ -193,6 +217,8 @@
     openaccess: true
     pdf: true
     toc: true
+    tags:
+        - responsive materials
 
 -   id: Abulateefeh2013
     authors: Samer R. Abulateefeh, Sebastian G. Spain, Kristofer J. Thurecht, Jonathan W. Aylott, Weng C. Chan, Martin C. Garnett and Cameron Alexander
@@ -206,6 +232,8 @@
     openaccess: true
     pdf: true
     toc: true
+    tags:
+        - thermoresponsive materials
 
 -   id: Yasayan2012
     authors: Gokcen Yasayan, Martin Redhead, Johannes P. Magnusson, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, Cameron Alexander and Francisco Fernandez-Trillo
@@ -232,6 +260,8 @@
     openaccess: false
     pdf: false
     toc: true
+    tags:
+        - thermoresponsive materials
 
 -   id: Spain2011b
     authors: Sebastian G. Spain* and Neil R. Cameron
@@ -245,6 +275,8 @@
     openaccess: false
     pdf: true
     toc: true
+    tags:
+        - glycopolymers
 
 -   id: Spain2011a
     authors: Sebastian G. Spain and Neil R. Cameron
@@ -258,6 +290,8 @@
     openaccess: false
     pdf: true
     toc: true
+    tags:
+        - glycopolymers
 
 -   id: Gibson2009
     authors: Matthew I. Gibson, Carl A. Barker, Sebastian G. Spain, Luca Albertin and Neil R. Cameron
@@ -284,6 +318,8 @@
     openaccess: false
     pdf: true
     toc: false
+    tags:
+        - glycopolymers
 
 -   id: Spain2007
     authors: Sebastian G. Spain, Matthew I. Gibson and Neil R. Cameron
@@ -297,6 +333,8 @@
     openaccess: false
     pdf: false
     toc: true
+    tags:
+        - glycopolymers
 
 -   id: Spain2006
     authors: Sebastian G. Spain, Luca Albertin and Neil R. Cameron
@@ -309,3 +347,5 @@
     openaccess: false
     pdf: true
     toc: true
+    tags:
+        - glycopolymers

@@ -36,12 +36,14 @@
 -   name: Emma Owens
     url: Emma_Owens
     position: PhD
+    project: Oxidation-responsive materials for targeting inflammation
     funder:
         - University of Sheffield
 
 -   name: Tom Neal
     url: Tom_Neal
     position: PhD
+    project: Towards water-borne gloss paints
     funder:
         - EPSRC
         - AkzoNobel N.V.
