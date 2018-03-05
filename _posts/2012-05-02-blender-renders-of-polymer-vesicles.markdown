@@ -12,7 +12,6 @@ categories:
 tags:
 - blender
 - graphics
-- work
 ---
 
 I got asked to make some images for a paper recently so was messing around with [Blender](http://www.blender.org). Some higher res versions (and the underlying .blend file) will eventually make it to the [gallery](http://spain-lab.co.uk/gallery/) but I'll leave that until the paper is published to prevent any issues with the publishers and copyright. These were made in response to a question over how easy it was to change the appearance (hence me taking the piss slightly with the monkeys ([Suzanne](http://en.wikipedia.org/wiki/Blender_%28software%29#Suzanne))).
