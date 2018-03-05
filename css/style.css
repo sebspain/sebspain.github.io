@@ -153,11 +153,18 @@ ul.news {
     font-size: 90%;
 }
 
+ul.latest_pubs {
+	list-style-type: none;
+	padding: 0;
+    font-size: 90%;
+}
+
 ul.news span {
 	color: #333;
 	font-family: 'Fira Mono', monospace, 'Courier New';
 	font-size: 90%;
 }
+
 ul.news li {
     padding: 5px 0;
 }

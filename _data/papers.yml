@@ -1,4 +1,4 @@
--   name: Neal2018
+-   id: Neal2018
     authors: Thomas J. Neal, Deborah L. Beattie, Sarah J. Byard, Gregory N. Smith, Martin W. Murray, Neal S. J. Williams, Simon N. Emmett, Steven P. Armes, Sebastian G. Spain* and Oleksandr O. Mykhaylyk
     title: Self-assembly of amphiphilic statistical copolymers and their aqueous rheological properties
     journal: Macromolecules
@@ -12,7 +12,7 @@
     toc: true
 
 
--   name: Purdie2018
+-   id: Purdie2018
     authors: Laura Purdie, Cameron Alexander, Sebastian G. Spain* and Johannes P. Magnusson
     title: Alkyl-modified oligonucleotides as intercalating vehicles for doxorubicin uptake via albumin binding
     journal: Mol. Pharmaceutics
@@ -25,7 +25,7 @@
     pdf: false
     toc: true
 
--   name: Foralosso2017
+-   id: Foralosso2017
     authors: Ruggero Foralosso, Lee Moir, Francesca Mastrotto, Luana Sasso, Aleksandra Tchoryk, Amjad Selo, Anna Grabowska, Marianne B. Ashford, Jonathan Aylott, Paul R. Gellert, Sebastian G. Spain and Cameron Alexander
     title: Control of aggregation temperatures in mixed and blended cytocompatible thermoresponsive block co-polymer nanoparticles
     journal: Soft Matter
@@ -38,7 +38,7 @@
     pdf: true
     toc: true
 
--   name: Shallcross2017
+-   id: Shallcross2017
     authors: Laura Shallcross, Kevin Roche, Caroline J. Wilcock, Kenneth J. Stanton, Thomas Swift, Stephen Rimmer, Paul V. Hatton and Sebastian G. Spain*
     title: The effect of hyperbranched poly(acrylic acid)s on the morphology and size of precipitated nanoscale (fluor)hydroxyapatite.
     journal: J. Mater. Chem. B.
@@ -51,7 +51,7 @@
     pdf: true
     toc: true
 
--   name: Purdie2016
+-   id: Purdie2016
     authors: Laura Purdie, Cameron Alexander, Sebastian G. Spain* and Johannes P. Magnusson
     title: Influence of polymer size on uptake and cytotoxicity of doxorubicin-loaded DNA–PEG conjugates
     journal: Bioconjugate Chem.
@@ -64,7 +64,7 @@
     pdf: false
     toc: true
 
--   name: Goncalves2016
+-   id: Goncalves2016
     authors: Andrea D. Goncalves, Cameron Alexander, Clive J. Roberts, Sebastian G. Spain, Shahid Uddin and Stephanie Allen
     title: The effect of protein concentration on the viscosity of a recombinant albumin solution formulation
     journal: RSC Advances
@@ -77,7 +77,7 @@
     pdf: true
     toc: true
 
--   name: Sicilia2016
+-   id: Sicilia2016
     authors: Giovanna Sicilia, Adrienne L. Davis, Sebastian G. Spain, Johannes P. Magnusson, Nathan Boase, Kristofer J. Thurecht and Cameron Alexander
     title: Synthesis of 19F Nucleic Acid–Polymer Conjugates as Real-Time MRI Probes of Biorecognition.
     journal: Polym. Chem.
@@ -90,7 +90,7 @@
     pdf: true
     toc: true
 
--   name: Rose2015
+-   id: Rose2015
     authors: Vanessa Loczenski Rose, Saif Shubber, S. Sajeesh, Sebastian G. Spain, Sanyogitta Puri, Stephanie Allen, Dong-Ki Lee, G. Sebastiaan Winkler and Giuseppe Mantovani
     title: Phosphonium polymethacrylates for siRNA delivery - effect of polymer and RNA structural parameters on polyplex assembly and gene knockdown.
     journal: Biomacromolecules
@@ -103,7 +103,7 @@
     pdf: false
     toc: true
 
--   name: Francini2015
+-   id: Francini2015
     authors: Nora Francini, Laura Purdie, Cameron Alexander, Giuseppe Mantovani and Sebastian G. Spain*
     title: Multifunctional poly[N-(2-hydroxypropyl)methacrylamide] copolymers via post-polymerization modification and sequential thiol–ene chemistry
     journal: Macromolecules
@@ -116,7 +116,7 @@
     pdf: false
     toc: true
 
--   name: Mitchell2014
+-   id: Mitchell2014
     authors: Daniel E. Mitchell, Mary Lilliman, Sebastian G. Spain and Matthew I. Gibson
     title: Quantitative study on the antifreeze protein mimetic ice growth inhibition properties of poly(ampholytes) derived from vinyl-based polymers
     journal: Biomater. Sci.
@@ -129,7 +129,7 @@
     pdf: true
     toc: true
 
--   name: Magnennis2014
+-   id: Magnennis2014
     authors: E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, Sebastian G. Spain, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer and Cameron Alexander
     title: Bacteria-instructed synthesis of polymers for self-selective microbial binding and labelling
     journal: Nature Mater.
@@ -142,7 +142,7 @@
     pdf: false
     toc: true
 
--   name: Magnusson2014
+-   id: Magnusson2014
     authors: Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, Sebastian G. Spain* and Cameron Alexander
     title: Programmed assembly of polymer-DNA conjugate nanoparticles with optical readout and sequence-specific activation of biorecognition
     journal: Nanoscale
@@ -155,7 +155,7 @@
     pdf: true
     toc: true
 
--   name: Sicilia2014
+-   id: Sicilia2014
     authors: Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain* and Cameron Alexander
     title: Programmable polymer-DNA hydrogels with dual input and multiscale responses
     journal: Biomat. Sci.
@@ -168,7 +168,7 @@
     pdf: true
     toc: true
 
--   name: Matini2014
+-   id: Matini2014
     authors: Teresa Matini, Nora Francini, Anna Battocchio, Sebastian G. Spain, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander
     title: Synthesis and characterization of variable conformation pH responsive block co-polymers for nucleic acid delivery and targeted cell entry
     journal: Polym. Chem.
@@ -181,7 +181,7 @@
     pdf: true
     toc: true
 
--   name: Yasayan2013
+-   id: Yasayan2013
     authors: Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander
     title: Multi-modal switching in responsive DNA block co-polymer conjugates
     journal: Phys. Chem. Chem. Phys.
@@ -194,7 +194,7 @@
     pdf: true
     toc: true
 
--   name: Abulateefeh2013
+-   id: Abulateefeh2013
     authors: Samer R. Abulateefeh, Sebastian G. Spain, Kristofer J. Thurecht, Jonathan W. Aylott, Weng C. Chan, Martin C. Garnett and Cameron Alexander
     title: Enhanced uptake of nanoparticle drug carriers via a thermoresponsive shell enhances cytotoxicity in a cancer cell line
     journal: Biomater. Sci.
@@ -207,7 +207,7 @@
     pdf: true
     toc: true
 
--   name: Yasayan2012
+-   id: Yasayan2012
     authors: Gokcen Yasayan, Martin Redhead, Johannes P. Magnusson, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, Cameron Alexander and Francisco Fernandez-Trillo
     title: Well-defined Polymeric Vesicles with High Stability and Modulation of Cell Uptake by a Simple Coating Protocol
     journal: Polym. Chem.
@@ -220,7 +220,7 @@
     pdf: true
     toc: true
 
--   name: Abulateefeh2011
+-   id: Abulateefeh2011
     authors: Samer R. Abulateefeh, Sebastian G. Spain, Jonathan W. Aylott et al.
     title: Thermoresponsive colloids in cancer therapy
     journal: Macromol. Biosci.
@@ -233,7 +233,7 @@
     pdf: false
     toc: true
 
--   name: Spain2011b
+-   id: Spain2011b
     authors: Sebastian G. Spain* and Neil R. Cameron
     title: The binding of polyvalent galactosides to the lectin Ricinus communis agglutinin 120 (RCA120) - an ITC and SPR study
     journal: Polym. Chem.
@@ -246,7 +246,7 @@
     pdf: true
     toc: true
 
--   name: Spain2011a
+-   id: Spain2011a
     authors: Sebastian G. Spain and Neil R. Cameron
     title: A spoonful of sugar - the application of glycopolymers in therapeutics
     journal: Polym. Chem.
@@ -259,7 +259,7 @@
     pdf: true
     toc: true
 
--   name: Gibson2009
+-   id: Gibson2009
     authors: Matthew I. Gibson, Carl A. Barker, Sebastian G. Spain, Luca Albertin and Neil R. Cameron
     title: Inhibition of ice crystal growth by synthetic glycopolymers - implications for the rational design of antifreeze glycoprotein mimics
     journal: Biomacromolecules
@@ -272,7 +272,7 @@
     pdf: false
     toc: true
 
--   name: Cameron2008
+-   id: Cameron2008
     authors: Neil R. Cameron, Sebastian G. Spain, James A. Kingham, Stefan Weck, Luca Albertin, Carl A. Barker, Guiseppe Battaglia, Thomas Smart, and Adam Blanazs
     title: Synthesis of well-defined glycopolymers and some studies of their aqueous solution behaviour
     journal: Faraday Discuss.
@@ -285,7 +285,7 @@
     pdf: true
     toc: false
 
--   name: Spain2007
+-   id: Spain2007
     authors: Sebastian G. Spain, Matthew I. Gibson and Neil R. Cameron
     title: Recent Advances in the Synthesis of Well-defined Glycopolymers
     journal: J. Polym. Sci. Part A Polym. Chem.
@@ -298,7 +298,7 @@
     pdf: false
     toc: true
 
--   name: Spain2006
+-   id: Spain2006
     authors: Sebastian G. Spain, Luca Albertin and Neil R. Cameron
     title: Facile in Situ Preparation of Biologically Active Multivalent Glyconanoparticles
     journal: Chem. Commun.
