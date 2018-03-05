@@ -49,7 +49,8 @@ title: Group Members
 <div class="unit w-1-2">
     <h2 class="profile">PhD Students</h2>
     {% for person in site.data.people %}
-    {% if person.position == 'PhD' and person.alumni == true %}<a href="profiles/{{ person.url }}.html"><h3 class="profile">{{ person.name }}</h3></a>
+    {% if person.position == 'PhD' and person.alumni == true %}
+    <h3 class="profile">{{ person.name }}</h3></a>
     {% endif %}
     {% endfor %}
 </div>
