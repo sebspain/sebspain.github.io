@@ -14,7 +14,7 @@ title: Katharina Clitherow
         {{ person.funder }}
     {% endif %}
     {% if person.supervisors %}
-    <p>{{ person.firstname }} is co-supervised by {{ person.supervisors }}.</p>
+    <p>{{ person.firstname }} is co-supervised by {{ person.supervisors[0] }} and {{ person.supervisors[1] }}.</p>
     {% endif %}
     {% if person.prizes %}
     <h3>Prizes</h3>
