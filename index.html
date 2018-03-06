@@ -4,11 +4,16 @@ title: Welcome
 ---
 
 <h1>{{ page.title }}</h1>
-<div class="unit w-2-3 center-on-mobiles">
-    <figure>
-        <img src="/img/hpma_confocal.png" alt="Confocal microscopy image of HCT 116 cells treated with fluorescently labelled poly[N-hydroxyethyl methacrylamide]. Copyright: Dr Laura Purdie.">
-        <figcaption>HCT 116 cells treated with fluorescently labelled poly[N-hydroxyethyl methacrylamide] (Image courtesy of Dr Laura Purdie, University of Nottingham).</figcaption>
-    </figure>
+<div class="unit w-2-3">
+    <div class="w3-display-container">
+        <img class="slider" src="img/front_slider/slider_1.png">
+        <img class="slider" src="img/front_slider/slider_3.png">
+        <img class="slider" src="img/front_slider/slider_2.png">
+        <img class="slider" src="img/front_slider/slider_4.png">
+
+    <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+    <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+    </div>
     <p>
     We are a synthetic polymer chemistry group based in the Department of Chemistry, University of Sheffield, UK. Our research is diverse but may be loosely grouped as novel materials for therapeutics and diagnostics.
     </p>
@@ -21,17 +26,17 @@ title: Welcome
     </p>
 </div>
 
-<div class="unit w-1-3 center-on-mobiles">
+<div class="unit w-1-3">
     <h2>News</h2>
     <ul class="news">
-        {% for story in site.data.news limit:6 %}
+        {% for story in site.data.news limit:7 %}
         <li><span>{{ story.date | date: " %d %b %Y " }}</span> &raquo; {{ story.storytext }}</li>
         {% endfor %}
         <li><a href="news_archive.html"><em>News archive</em></a></li>
     </ul>
 </div>
 
-<div class="unit w-2-3 center-on-mobiles">
+<div class="unit w-2-3">
     <h2>Recent Papers</h2>
     <ul class="news">
       {% for paper in site.data.papers limit:5 %}
@@ -48,3 +53,24 @@ title: Welcome
 <div class="unit w-1-3 hide-on-mobiles">
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/sebspain?ref_src=twsrc%5Etfw">Tweets by sebspain</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("slider");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  x[slideIndex-1].style.display = "block";
+}
+</script>
