@@ -198,11 +198,12 @@ blockquote {
 }
 
 figcaption {
-    font-size: 95%;
+    font-size: 90%;
     font-style: italic;
     font-weight: bold;
     max-width: 750px;
     margin: 0 auto;
+    text-align: center;
 }
 
 pre {
@@ -248,4 +249,54 @@ img.gallery {
 
 img.facilities {
     width: 200px;
+}
+
+.slider {
+    width: 90%;
+    margin: auto;
+    /* border: 0.3em solid #fff;
+    border-radius: 0.3em; */
+}
+
+/* from https://www.w3schools.com/w3css/4/w3.css for slider */
+.w3-button {
+    border: none;
+    display:inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap
+}
+
+.w3-button {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.w3-display-container {
+    position: relative
+}
+
+.w3-display-left {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translate(0%,-50%);
+    -ms-transform: translate(-0%,-50%)
+}
+.w3-display-right {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(0%,-50%);
+    -ms-transform: translate(0%,-50%)
 }
