@@ -46,6 +46,10 @@ span {
 	font-family: 'Fira Mono', monospace, 'Courier New';
 	font-size: 100%;
 }
+
+hr {
+    border-top: 1px solid #ddd
+}
 /*Headings*/
 
 h1, h2, h3, h4 {
