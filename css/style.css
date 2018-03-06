@@ -99,7 +99,7 @@ nav.topnav {
 }
 
 nav.topnav a:hover {
-    border-bottom: 3px solid #bbb;
+    border-bottom: 3px solid #0072b2;
 }
 
 nav.topnav a {
@@ -111,7 +111,7 @@ nav.topnav a {
 }
 
 nav.bottomnav a:hover {
-    border-bottom: 2px solid #bbb;
+    border-bottom: 2px solid #0072b2;
 }
 
 nav.bottomnav a {
