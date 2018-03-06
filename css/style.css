@@ -159,7 +159,7 @@ ul.news {
 
 ul.latest_pubs {
 	list-style-type: none;
-	padding: 0;
+    padding: 0;
     font-size: 90%;
 }
 
@@ -171,6 +171,10 @@ ul.news span {
 
 ul.news li {
     padding: 5px 0;
+}
+
+ul.latest_pubs li {
+    padding: 5px 5px;
 }
 
 ol {
@@ -256,22 +260,26 @@ img.facilities {
 }
 
 .slider {
-    width: 90%;
+    width: 100%;
     margin: auto;
-    /* border: 0.3em solid #fff;
-    border-radius: 0.3em; */
+    border: none;
 }
 
+.slidecaption {
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+}
 /* from https://www.w3schools.com/w3css/4/w3.css for slider */
 .w3-button {
     border: none;
     display:inline-block;
-    padding: 8px 16px;
+    padding: 8px 8px;
     vertical-align: middle;
     overflow: hidden;
     text-decoration: none;
     color: inherit;
-    background-color: inherit;
+    background-color: white;
     text-align: center;
     cursor: pointer;
     white-space: nowrap
@@ -304,3 +312,16 @@ img.facilities {
     transform: translate(0%,-50%);
     -ms-transform: translate(0%,-50%)
 }
+
+.w3-display-bottomleft {
+    position: absolute;
+    left: 0;
+    bottom: 0
+}
+.w3-display-bottomright {
+    position: absolute;
+    right: 0;
+    bottom: 0
+}
+
+.w3-display-topleft{position:absolute;left:0;top:0}.w3-display-topright{position:absolute;right:0;top:0}
