@@ -3,8 +3,8 @@ layout: front
 title: Welcome
 ---
 
-<h1>{{ page.title }}</h1>
 <div class="unit w-2-3">
+    <h1>{{ page.title }}</h1>
     <div class="w3-display-container">
         <img class="slider" src="img/front_slider/slider_1.png" alt="slide show image 1: 3D render of DNA based micelles in blood">
         <img class="slider" src="img/front_slider/slider_3.png" alt="slide show image 2: FRET data for the unpacking of DNA micelles">
@@ -28,7 +28,7 @@ title: Welcome
 <div class="unit w-1-3">
     <h2>News</h2>
     <ul class="news">
-        {% for story in site.data.news limit:7 %}
+        {% for story in site.data.news limit:9 %}
         <li><span>{{ story.date | date: " %d %b %Y " }}</span> &raquo; {{ story.storytext }}</li>
         {% endfor %}
         <li><a href="news_archive.html"><em>News archive</em></a></li>
