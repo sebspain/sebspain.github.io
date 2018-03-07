@@ -339,10 +339,16 @@ img.facilities {
 }
 
 .card {
-    flex: 0 1 calc(30% - 1em);
+    flex: 0 1 calc(100% - 1em);
     padding: 5px;
     /* border: 1px solid #ddd;
     border-radius: 0.5em; */
+
+}
+
+img.card {
+    max-height: 150px;
+    width: auto;
 }
 
 p.card {
@@ -366,6 +372,5 @@ p.card {
 
     .card {
         flex: 0 1 calc(33% - 1em);
-        min-width: 250px;
     }
 }

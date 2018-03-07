@@ -6,26 +6,23 @@ title: Publications
 
 <p>Where copyright agreements allow a link to the published PDF may be found. Otherwise for PDF copies of any of the articles below please <a href="mailto:seb@sebspain.co.uk">contact me</a> and I will provide them where possible.</p>
 
-<p>* denotes SGS as corresponding author; <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> denotes article published open access.</p>
-
-A simple list is available <a href="./pub_list.html">here</a>.
+<p>* denotes SGS as corresponding author; <img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> denotes article published open access</p>
 
 <h2 id="peer-reviewed-journals">Peer-reviewed Journals</h2>
-<section class="cards">
+<ol class="publications" reversed="reversed">
   {% for paper in site.data.papers %}
- <article class="card">
-  {% if paper.toc == true %}
-  <p><img class="card" src="/non_foss/publications/img/{{ paper.doi_short }}_toc.png" alt="TOC Graphic" /></p>{% endif %}
-  <p style="text-align: center"><strong>{{ paper.title }}</strong></p>
-
-    <p><em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+    <li>
+    <p>
+        {{ paper.authors }}; "{{ paper.title }}", <em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
         {% if paper.pdf == true %}<a href="/non_foss/publications/PDFs/{{ paper.year }}/{{ paper.doi_short }}.pdf">[PDF]</a>{% endif %}
         {% if paper.openaccess == true %}<img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> {% endif %}
     </p>
+    <!-- {% if paper.toc == true %}
+    <p><img width="300" src="/non_foss/publications/img/{{ paper.doi_short }}_toc.png" alt="TOC Graphic" /></p>{% endif %}
     <div data-badge-popover="right" data-badge-type="1" data-doi="DOI: {{ paper.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
-</article>
+    </li> -->
   {% endfor %}
-</section>
+</ol>
 
 <h2 id="book-chapters">Book Chapters</h2>
 
