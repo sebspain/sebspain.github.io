@@ -219,6 +219,12 @@ pre {
   line-height: 1.7em;
 }
 
+td {
+    width: 1px;
+    word-break: keep-all;
+    padding: 0rem .6rem;
+}
+
 .profile {
   text-align: center;
 }
