@@ -331,3 +331,41 @@ img.facilities {
 }
 
 .w3-display-topleft{position:absolute;left:0;top:0}.w3-display-topright{position:absolute;right:0;top:0}
+
+.cards {
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+.card {
+    flex: 0 1 calc(30% - 1em);
+    padding: 5px;
+    /* border: 1px solid #ddd;
+    border-radius: 0.5em; */
+}
+
+p.card {
+    text-align: center;
+}
+/* Flexbox stuff */
+
+@media screen and (min-width: 400px) {
+
+    .card {
+        flex: 0 1 calc(50% - 1em);
+    }
+}
+
+@media screen and (min-width: 860px) {
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .card {
+        flex: 0 1 calc(33% - 1em);
+        min-width: 250px;
+    }
+}
