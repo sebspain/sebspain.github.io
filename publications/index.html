@@ -18,7 +18,10 @@ A simple list is available <a href="./pub_list.html">here</a>.
   <p><img class="card" src="/non_foss/publications/img/{{ paper.doi_short }}_toc.png" alt="TOC Graphic" /></p>{% endif %}
   <p style="text-align: center"><strong>{{ paper.title }}</strong></p>
 
-    <p><em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+    <p><em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}.<br>
+
+        <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+        <a href="summaries/{{ paper.id }}.html">[Summary]</a>
         {% if paper.pdf == true %}<a href="/non_foss/publications/PDFs/{{ paper.year }}/{{ paper.doi_short }}.pdf">[PDF]</a>{% endif %}
         {% if paper.openaccess == true %}<img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> {% endif %}
     </p>
