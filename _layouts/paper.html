@@ -1,0 +1,21 @@
+---
+layout: page
+title:
+id:
+---
+
+{% for paper in site.data.papers %}
+    {% if paper.id == page.id %}
+    <h2><strong>{{ paper.title }}</strong></h2>
+    {% if paper.toc == true %}
+    <p><img class="card" src="/non_foss/publications/img/{{ paper.doi_short }}_toc.png" alt="TOC Graphic" /></p>
+    {% endif %}
+    <p>{{ paper.authors }}; <em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+        {% if paper.pdf == true %}<a href="/non_foss/publications/PDFs/{{ paper.year }}/{{ paper.doi_short }}.pdf">[PDF]</a>{% endif %}
+        {% if paper.openaccess == true %}<img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> {% endif %}
+    </p>
+    <h3>Abstract</h3>
+    <p>{{ paper.abstract }}</p>
+    <div data-badge-popover="right" data-badge-type="1" data-doi="DOI: {{ paper.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{% endif %}
+{% endfor %}
