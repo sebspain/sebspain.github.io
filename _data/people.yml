@@ -123,20 +123,62 @@
         - Patrick Fairclough
     cdt: true
 
+-   name: Ellen Moscrop
+    firstname: Ellen
+    lastname: Moscrop
+    url: Ellen_Moscrop
+    position: PhD
+    project: Next-generation adhesives
+    funder:
+        - EPSRC
+        - Scott Bader
+    supervisors:
+        - Patrick Fairclough
+    cdt: true
+
+-   name: Josh Hayles
+    firstname: Josh
+    lastname: Hayles
+    url: Josh_Hayles
+    position: PhD
+    project: Debondable adhesives
+    funder:
+        - EPSRC
+        - Scott Bader
+    supervisors:
+        - Patrick Fairclough
+    cdt: true
+
+-   name: Sam Harrison
+    firstname: Sam
+    lastname: Harrison
+    url: Sam_Harrison
+    position: PhD
+    project: Oxidation-responsive materials
+    funder:
+        - EPSRC
+        - BTG
+    cdt: false
+
 -   name: Katie Lewthwaite
     position: MChem
+    alumni: true
 
 -   name: Elliott Read
     position: MChem
+    alumni: true
 
 -   name: Fiona Revell
     position: MChem
+    alumni: true
 
 -   name: Guowei Wu (Mark)
     position: MSc
+    alumni: true
 
 -   name: Dr Dena Dorniani
     position: Visitor
+    alumni: true
 
 -   name: Laura Shallcross
     url: Laura_Shallcross
