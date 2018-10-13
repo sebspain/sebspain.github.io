@@ -11,7 +11,7 @@ title:
     <p><strong>Funding:</strong> {% if person.cdt == true %}
         {{ person.funder.first }} and {{ person.funder.last }} through the <a href="https://www.polymercdt.org.uk/">EPSRC CDT in Polymers, Soft Matter and Colloids</a></p>
     {% else %}
-        {{ person.funder }}
+        {{ person.funder | join: ' and ' }}
     {% endif %}
     {% if person.supervisors %}
     <p>{{ person.firstname }} is co-supervised by {{ person.supervisors | join: ' and ' }}.</p>

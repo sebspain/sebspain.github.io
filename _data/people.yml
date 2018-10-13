@@ -123,20 +123,97 @@
         - Patrick Fairclough
     cdt: true
 
+-   name: Ellen Moscrop
+    firstname: Ellen
+    lastname: Moscrop
+    url: Ellen_Moscrop
+    position: PhD
+    project: Next-generation adhesives
+    funder:
+        - EPSRC
+        - Scott Bader
+    supervisors:
+        - Patrick Fairclough
+    cdt: true
+
+-   name: Josh Hayles
+    firstname: Josh
+    lastname: Hayles
+    url: Josh_Hayles
+    position: PhD
+    project: Debondable adhesives
+    funder:
+        - EPSRC
+        - Scott Bader
+    supervisors:
+        - Patrick Fairclough
+    cdt: true
+
+-   name: Sam Harrison
+    firstname: Sam
+    lastname: Harrison
+    url: Sam_Harrison
+    position: PhD
+    project: Oxidation-responsive materials for targeting inflammatory diseases
+    funder:
+        - EPSRC (NPIF Studentship)
+        - BTG plc
+    cdt: false
+
+-   name: Jake Edmans
+    firstname: Jake
+    lastname: Edmans
+    url: Jake_Edmans
+    position: PhD
+    project: Novel strategies for the transmucosal delivery of biofunctional peptides using electrospun polymer patches
+    funder:
+        - EPSRC
+        - DermTreat APS
+    supervisors:
+        - Helen Colley
+        - Paul Hatton
+        - Craig Murdoch
+    cdt: true
+
+-   name: Jon Taylor
+    firstname: Jon
+    lastname: Taylor
+    url: Jon_Taylor
+    position: PhD
+    project: Biofunctional Polymer-modified Calcium Phosphates for Bone Tissue regeneration
+    funder:
+        - EPSRC
+        - Ceramisys
+    supervisors:
+        - Cheryl Miller
+        - Paul Hatton
+    cdt: true
+
+-   name: Elena Mallouris
+    position: MChem
+
+-   name: James Street
+    position: MChem
+
 -   name: Katie Lewthwaite
     position: MChem
+    alumni: true
 
 -   name: Elliott Read
     position: MChem
+    alumni: true
 
 -   name: Fiona Revell
     position: MChem
+    alumni: true
 
 -   name: Guowei Wu (Mark)
     position: MSc
+    alumni: true
 
 -   name: Dr Dena Dorniani
     position: Visitor
+    alumni: true
 
 -   name: Laura Shallcross
     url: Laura_Shallcross

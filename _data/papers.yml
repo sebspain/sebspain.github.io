@@ -17,6 +17,8 @@
     abstract: >
         A range of poly(n-butyl methacrylate-stat-methacrylic acid) [P(BMA-stat-MAA)] statistical copolymers of various compositions and molecular weights ranging from 5 to 30 kDa were prepared using either reversible addition–fragmentation chain transfer (RAFT) solution copolymerization or conventional free radical polymerization in isopropanol (IPA). On dilution with water, these amphiphilic copolymers self-assembled to form spherical nano-objects as confirmed by small-angle X-ray scattering (SAXS) and transmission electron microscopy. Various structural models were examined to extract information regarding the mean nano-object size and morphology. It is found that nano-object radii are independent of copolymer molecular weight but depend on the copolymer composition: the smaller the amount of MAA units in the copolymer chains, the larger the nano-objects that are formed. Combined SAXS and aqueous electrophoretic measurements indicated that most of the MAA units are located at the nano-object surface. Furthermore, SAXS and rheology measurements were used to monitor the effect of solvent composition on the copolymer morphology both at a fixed copolymer concentration (either 1 or 25 wt %) and also for a gradual variation in copolymer concentrations (from 1 to 40 wt %) when adding water to the initial copolymer solution in IPA. These studies revealed that the copolymers are present in solution as molecularly dissolved Gaussian chains when the solvent composition is IPA-rich. However, the copolymer chains self-assemble into spherical nano-objects when the solvent composition is water-rich. At intermediate solvent compositions, SAXS analysis confirmed the formation of an interconnected nano-object network, which accounts for the apparently anomalous increase in solution viscosity on dilution indicated by rheology measurements.
 
+    abstract: A range of poly(n-butyl methacrylate-stat-methacrylic acid) [P(BMA-stat-MAA)] statistical copolymers of various compositions and molecular weights ranging from 5 to 30 kDa were prepared using either reversible addition–fragmentation chain transfer (RAFT) solution copolymerization or conventional free radical polymerization in isopropanol (IPA). On dilution with water, these amphiphilic copolymers self-assembled to form spherical nano-objects as confirmed by small-angle X-ray scattering (SAXS) and transmission electron microscopy. Various structural models were examined to extract information regarding the mean nano-object size and morphology. It is found that nano-object radii are independent of copolymer molecular weight but depend on the copolymer composition - the smaller the amount of MAA units in the copolymer chains, the larger the nano-objects that are formed. Combined SAXS and aqueous electrophoretic measurements indicated that most of the MAA units are located at the nano-object surface. Furthermore, SAXS and rheology measurements were used to monitor the effect of solvent composition on the copolymer morphology both at a fixed copolymer concentration (either 1 or 25 wt %) and also for a gradual variation in copolymer concentrations (from 1 to 40 wt %) when adding water to the initial copolymer solution in IPA. These studies revealed that the copolymers are present in solution as molecularly dissolved Gaussian chains when the solvent composition is IPA-rich. However, the copolymer chains self-assemble into spherical nano-objects when the solvent composition is water-rich. At intermediate solvent compositions, SAXS analysis confirmed the formation of an interconnected nano-object network, which accounts for the apparently anomalous increase in solution viscosity on dilution indicated by rheology measurements.
+
 -   id: Purdie2018
     authors: Laura Purdie, Cameron Alexander, Sebastian G. Spain* and Johannes P. Magnusson
     title: Alkyl-modified oligonucleotides as intercalating vehicles for doxorubicin uptake via albumin binding
@@ -164,9 +166,10 @@
     openaccess: false
     pdf: true
     toc: true
+    abstract: Antifreeze (glyco) proteins (AF(G)Ps) from the blood of polar fish species are extremely potent ice recrystallization inhibitors (IRI), but are difficult to synthesise or extract from natural sources. Despite this challenge, materials which display IRI are appealing due to their ability to enhance cellular cryopreservation, for applications including regenerative and transplantation medicine. Here, poly(ampholytes), which contain a mixture of cationic and anionic side chains are quantitatively evaluated for their IRI activity. Poly(aminoethyl methacrylate), obtained by RAFT polymerization, is functionalised with succinic anhydride to generate the poly(ampholytes). The charge balance of the side chains is shown to be crucial, with only 50 : 50 mixtures having strong IRI activity, which also scales with molecular weight. This is the first example of a non-hydroxylated synthetic polymer with quantifiable IRI activity and raises questions about the mechanism of IRI, as the polymers have no obvious ice-binding motif. The ampholytic structure is shown to be transferable to carbohydrate-centred polymers with activity retained, but poly(betaines) are shown to be inactive.
 
--   id: Magnennis2014
-    authors: E. Peter Magnennis, Francisco Fernández-Trillo, Cheng Sui, Sebastian G. Spain, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer and Cameron Alexander
+-   id: Magennis2014
+    authors: E. Peter Magennis, Francisco Fernández-Trillo, Cheng Sui, Sebastian G. Spain, David J. Bradshaw, David Churchley, Giuseppe Mantovani, Klaus Winzer and Cameron Alexander
     title: Bacteria-instructed synthesis of polymers for self-selective microbial binding and labelling
     journal: Nature Mater.
     year:  2014
@@ -177,6 +180,7 @@
     openaccess: false
     pdf: false
     toc: true
+    abstract: The detection and inactivation of pathogenic strains of bacteria continues to be an important therapeutic goal. Hence, there is a need for materials that can bind selectively to specific microorganisms for diagnostic or anti-infective applications, but that can be formed from simple and inexpensive building blocks. Here, we exploit bacterial redox systems to induce a copper-mediated radical polymerization of synthetic monomers at cell surfaces, generating polymers in situ that bind strongly to the microorganisms that produced them. This ‘bacteria-instructed synthesis’ can be carried out with a variety of microbial strains, and we show that the polymers produced are self-selective binding agents for the ‘instructing’ cell types. We further expand on the bacterial redox chemistries to ‘click’ fluorescent reporters onto polymers directly at the surfaces of a range of clinical isolate strains, allowing rapid, facile and simultaneous binding and visualization of pathogens.
 
 -   id: Magnusson2014
     authors: Johannes P. Magnusson, Francisco Fernández-Trillo, Giovanna Sicilia, Sebastian G. Spain* and Cameron Alexander
@@ -192,6 +196,7 @@
     toc: true
     tags:
         - DNA responsive materials
+    abstract: Soft micellar nanoparticles can be prepared from DNA conjugates designed to assemble via base pairing such that strands containing a polymer corona and a cholesterol tail generate controlled supramolecular architecture. Functionalization of one DNA conjugate strand with a biorecognition ligand results in shielding of the ligand when in the micelle, while encoding of the DNA sequences with overhangs allows supramolecular unpacking by addition of a complementary strand and sequence-specific unshielding of the ligand. The molecular assembly/disassembly and ‘on–off’ switch of the recognition signal is visualized by FRET pair signalling, PAGE and a facile turbidimetric binding assay, allowing direct and amplified readout of nucleic acid sequence recognition.
 
 -   id: Sicilia2014
     authors: Giovanna Sicilia, Christine Grainger-Boultby, Nora Francini, Johannes P. Magnusson, Aram O. Saeed, Francisco Fernández-Trillo, Sebastian G. Spain* and Cameron Alexander
@@ -207,6 +212,7 @@
     toc: true
     tags:
         - DNA responsive materials
+    abstract: Combination switchable polymer-DNA hydrogels have been synthesized to respond to both a specific oligonucleotide recognition signal and a non-specific but biorelevant environmental trigger. The hydrogels exhibit rheological properties that can be modulated through interaction with complementary DNA strands and/or reduction. Furthermore, individual and combined oligonucleotide recognition and reduction responses allow control over pore sizes in the gel, enabling programmable release and transport of objects ranging from the nano- to micro-scale.
 
 -   id: Matini2014
     authors: Teresa Matini, Nora Francini, Anna Battocchio, Sebastian G. Spain, Giuseppe Mantovani, Maria J. Vicent, Joaquin Sanchis, Elena Gallon, Francesca Mastrotto, Stefano Salmaso, Paolo Caliceti and Cameron Alexander
@@ -222,6 +228,7 @@
     toc: true
     tags:
         - pH responsive materials
+    abstract: Responsive materials that change conformation with varying pH have been prepared from a range of amphiphilic block co-polymers. The individual blocks are composed of (a) permanently hydrophilic chains with neutral functionality and (b) acrylate polymers with weakly basic side-chains. Variation in co-monomer content, molar mass and block ratios/compositions leads to a range of pH-responses, manifest through reversible self-assembly into micelles and/or polymersomes. These transitions can be tuned to achieve environmental responses in a pH range from 5–7, as shown by turbidimetric analysis, NMR and dynamic light scattering measurements (DLS). Further characterization by transmission electron microscopy (TEM) indicates that polymersomes with diameters of 100–200 nm can be formed under certain pH-ranges where the weakly basic side-chains are deprotonated. The ability of the systems assembled with these polymers to act as pH-responsive containers is shown by DNA encapsulation and release studies, and their potential for application as vehicle for drug delivery is proved by cell metabolic activity and cell uptake measurements.
 
 -   id: Yasayan2013
     authors: Gokcen Yasayan, Johannes P. Magnusson, Giovanna Sicilia, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, and Cameron Alexander
@@ -237,6 +244,7 @@
     toc: true
     tags:
         - responsive materials
+    abstract: New classes of information-rich DNA block co-polymer conjugates were synthesised, encoded with thermoresponsive and biocompatible poly(tri(ethylene glycol)ethyl ether methacrylate) (pTriEGMA) chains and oligomeric nucleic acids connected by either bioreducible or non-reducible links. The pTriEGMA chains were grown from initiator-functionalised hybridised DNA, designed to assemble with toehold overhangs. Functional information in the conjugates was explored via dynamic light scattering (DLS) and atomic force microscopy (AFM), in order to evaluate (i) reversible self-assembly into supramolecular structures across the pTriEGMA phase transition temperature; (ii) conformational change via addition of competing DNA sequences across the toeholds, and (iii) reductive cleavage of polymer–DNA links. The results showed that discrete nanoscale conjugates could reversibly associate through pTriEGMA phase behaviour and that size and association behaviour in one class of conjugate could be switched by addition of a competing DNA sequence and by reduction to break the polymer–DNA links. Preliminary experiments with the DNA-conjugates as delivery systems for doxorubicin to a cancer cell line indicated good tolerability of the conjugates alone and cytotoxic efficacy when loaded with the drug.
 
 -   id: Abulateefeh2013
     authors: Samer R. Abulateefeh, Sebastian G. Spain, Kristofer J. Thurecht, Jonathan W. Aylott, Weng C. Chan, Martin C. Garnett and Cameron Alexander
@@ -252,6 +260,7 @@
     toc: true
     tags:
         - thermoresponsive materials
+    abstract: Polymer particles consisting of a biodegradable poly[lactide-co-glycolide] (PLGA) core and a thermoresponsive shell have been formulated to encapsulate the dye rhodamine 6G and the potent cytotoxic drug paclitaxel. Cellular uptake of these particles is significantly enhanced above the thermal transition temperature (TTT) of the polymer shells in the human breast carcinoma cell line MCF-7 as determined by flow cytometry and fluorescence microscopy. Paclitaxel-loaded particles display reduced and enhanced cytotoxicity below and above the TTT respectively compared to unencapsulated drug. The data suggests a potential route to enhanced anti-cancer efficacy through temperature-mediated cell targeting.
 
 -   id: Yasayan2012
     authors: Gokcen Yasayan, Martin Redhead, Johannes P. Magnusson, Sebastian G. Spain, Stephanie Allen, Martyn C. Davies, Cameron Alexander and Francisco Fernandez-Trillo
@@ -265,6 +274,7 @@
     openaccess: true
     pdf: true
     toc: true
+    abstract: Amphiphilic polymers have been synthesised by controlled free radical polymerisation techniques. These polymers self-assemble into well-defined vesicles in aqueous conditions, enabling encapsulation of a model hydrophilic molecule. The polymeric vesicles show high stability against a range of aqueous conditions with marginal release of cargo, even in the presence of known cell-membrane disruptive polymers such as branched poly(ethylene imine) (b-PEI). This stability allows for inversion of the surface charge of the polymeric vesicles by a simple coating protocol leading to an enhanced uptake by mammalian cells.
 
 -   id: Abulateefeh2011
     authors: Samer R. Abulateefeh, Sebastian G. Spain, Jonathan W. Aylott et al.
@@ -280,6 +290,7 @@
     toc: true
     tags:
         - thermoresponsive materials
+    abstract: Many difficulties in treating cancer arise from the problems in directing highly cytotoxic agents to the deseased tissues, cells and intracellular compartments. Many drug delivery systems have been devised to address this problem, including those that show a change in properties in response to a temperature stimulus. In particular, colloidal materials based on thermoresponsive polymers offer a means to transport drugs selectively into tumour tissues that are hyperthermic, either intrinsically or through the application of clinical procedures such as localised heating. In this paper, the key attributes of thermoresponsive polymer colloids are considered, a number of important recent examples are discussed and the possible future developments of these materials are evaluated.
 
 -   id: Spain2011b
     authors: Sebastian G. Spain* and Neil R. Cameron
@@ -295,6 +306,7 @@
     toc: true
     tags:
         - glycopolymers
+    abstract: Mono- and polyvalent galactosides have been investigated with respect to their binding to the plant lectin Ricinus communis agglutinin 120 (RCA120). Thermodynamic parameters (Ka, ΔG, ΔH, ΔS and n) have been determined by isothermal titration calorimetry (ITC) and kinetics of binding (ka and kd) measured by surface plasmon resonance (SPR). ITC analysis using a single set of sites model found a non-statistical increase in avidity with increasing valency with the largest ligand displaying a greater than 20-fold increase in Ka compared to its monomeric precursor after correction for valency; binding was found to be enthalpically driven. SPR analysis supports the avidity increase but values of Ka observed were up to 100-fold greater than those measured by ITC. The large discrepancy between the two measurements is rationalized by the polyvalent–polyvalent interaction that is measured by SPR.
 
 -   id: Spain2011a
     authors: Sebastian G. Spain and Neil R. Cameron
@@ -310,6 +322,7 @@
     toc: true
     tags:
         - glycopolymers
+    abstract: Glycopolymers, synthetic polymers displaying carbohydrate moieties, have been linked to many potential applications at the biology–chemistry interface. One area that holds particular promise is the employment of glycopolymers as vehicles for therapeutics or as therapeutics themselves. This review summarises some of the more prominent examples as well as those in the early stages of development.
 
 -   id: Gibson2009
     authors: Matthew I. Gibson, Carl A. Barker, Sebastian G. Spain, Luca Albertin and Neil R. Cameron
@@ -323,6 +336,7 @@
     openaccess: false
     pdf: false
     toc: true
+    abstract: A series of structurally diverse polymers, containing either peptide or vinyl-derived backbones, was tested for ice recrystallization inhibition activity, which is commonly associated with antifreeze (glyco)proteins. It was revealed that only polymers bearing hydroxyl groups in the side chain could inhibit ice growth. Furthermore, well-defined glycopolymers were shown to have a small but significant recrystallization inhibition effect, showing that it may be possible to design antifreeze glycoprotein mimics based upon polymers derived from vinyl monomers.
 
 -   id: Cameron2008
     authors: Neil R. Cameron, Sebastian G. Spain, James A. Kingham, Stefan Weck, Luca Albertin, Carl A. Barker, Guiseppe Battaglia, Thomas Smart, and Adam Blanazs
@@ -338,6 +352,7 @@
     toc: false
     tags:
         - glycopolymers
+    abstract: Well-defined polymers with carbohydrate residues pendant to the main chain (glycopolymers) were prepared by reversible addition fragmentation chain transfer (RAFT) polymerisation. Excellent control over molecular weight and narrow polydispersities (1.1–1.2) were achieved over a range of molecular weights. In addition, efficient synthesis of block copolymers by sequential monomer addition with both hydrophilic and hydrophobic non-carbohydrate blocks was demonstrated. The aqueous solution behaviour of amphiphilic block glycopolymers was investigated, revealing the formation of multivalent carbohydrate-bearing aggregates in solution with the capability for the solubilisation of hydrophobic species (a water-insoluble dye). One such amphiphilic glycopolymer shows by TEM the formation of a worm-like micelle phase. Further investigations of these novel bioactive macromolecular assemblies are underway.
 
 -   id: Spain2007
     authors: Sebastian G. Spain, Matthew I. Gibson and Neil R. Cameron
@@ -353,6 +368,7 @@
     toc: true
     tags:
         - glycopolymers
+    abstract: Glycopolymers are receiving increasing interest due to their application in areas, such as glycomics, medicine, biotechnology, sensors, and separation science. Consequently, new methods for their synthesis are constantly being developed, with an increasing emphasis on the preparation of well‐defined polymers and on the production of complex macromolecular architectures such as stars. This review covers recent developments in the synthesis of glycopolymers, with a particular emphasis on (i) the use of controlled radical polymerization to prepare well‐defined glycopolymers from unprotected monomers and (ii) postpolymerization modification strategies using reactive polymer precursors (including “click” reactions). Recent work on the production of glycosylated polypeptides, which are under investigation as mimics of naturally occurring glycoproteins, is also included. The authors offer some suggestions as to future developments and remaining challenges in this topical area of polymer chemistry.
 
 -   id: Spain2006
     authors: Sebastian G. Spain, Luca Albertin and Neil R. Cameron
@@ -367,3 +383,4 @@
     toc: true
     tags:
         - glycopolymers
+    abstract: Biologically active multivalent glyconanoparticles are prepared in an extremely simple method by reduction of well-defined glycopolymers, prepared by RAFT polymerisation, in an aqueous solution of HAuCl4.
