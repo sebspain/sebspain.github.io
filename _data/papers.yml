@@ -14,6 +14,8 @@
         - self assembly
         - characterisation
         - solution behaviour
+    abstract: >
+        A range of poly(n-butyl methacrylate-stat-methacrylic acid) [P(BMA-stat-MAA)] statistical copolymers of various compositions and molecular weights ranging from 5 to 30 kDa were prepared using either reversible addition–fragmentation chain transfer (RAFT) solution copolymerization or conventional free radical polymerization in isopropanol (IPA). On dilution with water, these amphiphilic copolymers self-assembled to form spherical nano-objects as confirmed by small-angle X-ray scattering (SAXS) and transmission electron microscopy. Various structural models were examined to extract information regarding the mean nano-object size and morphology. It is found that nano-object radii are independent of copolymer molecular weight but depend on the copolymer composition: the smaller the amount of MAA units in the copolymer chains, the larger the nano-objects that are formed. Combined SAXS and aqueous electrophoretic measurements indicated that most of the MAA units are located at the nano-object surface. Furthermore, SAXS and rheology measurements were used to monitor the effect of solvent composition on the copolymer morphology both at a fixed copolymer concentration (either 1 or 25 wt %) and also for a gradual variation in copolymer concentrations (from 1 to 40 wt %) when adding water to the initial copolymer solution in IPA. These studies revealed that the copolymers are present in solution as molecularly dissolved Gaussian chains when the solvent composition is IPA-rich. However, the copolymer chains self-assemble into spherical nano-objects when the solvent composition is water-rich. At intermediate solvent compositions, SAXS analysis confirmed the formation of an interconnected nano-object network, which accounts for the apparently anomalous increase in solution viscosity on dilution indicated by rheology measurements.
 
 -   id: Purdie2018
     authors: Laura Purdie, Cameron Alexander, Sebastian G. Spain* and Johannes P. Magnusson
@@ -29,6 +31,8 @@
     toc: true
     tags:
         - DNA based vehicles
+    abstract: >
+        DNA-based drug delivery vehicles have displayed promise for the delivery of intercalating drugs. Here, we demonstrate that oligonucleotides modified with an alkyl chain can bind to human serum albumin, mimicking the natural binding of fatty acids. These alkyl-DNA–albumin complexes display excellent serum stability and are capable of strongly binding doxorubicin. Complexes are internalized by cells in vitro, trafficking to the mitochondria, and are capable of delivering doxorubicin with excellent efficiency resulting in cell death. However, the cellular localization of the delivered doxorubicin, and ultimately the complex efficacy, is dependent on the nature of the linker between the alkyl group and the oligonucleotide.
 
 -   id: Foralosso2017
     authors: Ruggero Foralosso, Lee Moir, Francesca Mastrotto, Luana Sasso, Aleksandra Tchoryk, Amjad Selo, Anna Grabowska, Marianne B. Ashford, Jonathan Aylott, Paul R. Gellert, Sebastian G. Spain and Cameron Alexander
@@ -44,6 +48,8 @@
     toc: true
     tags:
         - thermoresponsive materials
+    abstract: >
+        A small library of thermoresponsive amphiphilic copolymers based on polylactide-block-poly((2-(2-methoxyethoxy)ethyl methacrylate)-co-(oligoethylene glycol methacrylate)) (PLA-b-P(DEGMA)-co-(OEGMA)), was synthesised by copper-mediated controlled radical polymerisation (CRP) with increasing ratios of OEGMA : DEGMA. These polymers were combined in two ways to form nanoparticles with controllable thermal transition temperatures as measured by particle aggregation. The first technique involved the blending of two (PLA-b-P(DEGMA)-co-(OEGMA)) polymers together prior to assembling nanoparticles (NPs). The second method involved mixing pre-formed nanoparticles of single (PLA-b-P(DEGMA)-co-(OEGMA)) polymers. The observed critical aggregation temperature Tt did not change in a linear relationship with the ratios of each copolymer either in the nanoparticles blended from different copolymers or in the mixtures of pre-formed nanoparticles. However, where co-polymer mixtures were based on (OEG)9MA ratios within 5–10 mole%, a linear relationship between (OEG)9MA composition in the blends and Tt was obtained. The data suggest that OEGMA-based copolymers are tunable over a wide temperature range given suitable co-monomer content in the linear polymers or nanoparticles. Moreover, the thermal transitions of the nanoparticles were reversible and repeatable, with the cloud point curves being essentially invariant across at least three heating and cooling cycles, and a selected nanoparticle formulation was found to be readily endocytosed in representative cancer cells and fibroblasts.
 
 -   id: Shallcross2017
     authors: Laura Shallcross, Kevin Roche, Caroline J. Wilcock, Kenneth J. Stanton, Thomas Swift, Stephen Rimmer, Paul V. Hatton and Sebastian G. Spain*
@@ -57,6 +63,8 @@
     openaccess: false
     pdf: true
     toc: true
+    abstract: >
+        Hydroxyapatite and fluorhydroxyapatite (F)HA nanoparticles were synthesised in the presence of branched poly(acrylic acid)s (PAA) synthesised via reversible addition–fragmentation chain transfer polymerisation and compared to those synthesised in the presence of linear PAA. Analysis of the resulting nanoparticles using Fourier transform infrared spectroscopy, powder X-ray diffraction and transition electron microscopy found that the polymer was included within the nanoparticle samples and affected their morphology with nanoparticles synthesised in the presence of branched PAA being more acicular and smaller overall.
 
 -   id: Purdie2016
     authors: Laura Purdie, Cameron Alexander, Sebastian G. Spain* and Johannes P. Magnusson
@@ -72,6 +80,8 @@
     toc: true
     tags:
         - DNA based vehicles
+    abstract: >
+        Intercalation of drugs into assembled DNA systems offers versatile new mechanisms for controlled drug delivery. However, current systems are becoming increasingly complex, reducing the practicality of large scale production. Here, we demonstrate a more pragmatic approach where a short DNA sequence was modified with poly(ethylene glycol) (PEG) of various lengths at both 5′-termini to provide serum stability and compatibility. The anticancer drug doxorubicin was physically loaded into two designed binding sites on the dsODN. The polymer conjugation improved the stability of the dsODN toward serum nucleases while its doxorubicin binding affinity was unaffected by the presence of the polymers. We examined the effects of polymer size on the dsODN carrier characteristics and studied the resulting DOX@DNA–PEG systems with respect to cytotoxicity, cellular uptake, and localization in A549 and MCF7 cell lines. For the A549 cell line the DOX@DNA-PEG1900 exhibited the best dose response of the conjugates while DOX@DNA-PEG550 was the least potent. In MCF-7, a more doxorubicin sensitive cell line, all conjugates exhibited similar dose response to that of the free drug. Confocal microscopy analysis of doxorubicin localization shows that conjugates successfully deliver doxorubicin to the cell nucleus and also the lysosome. These data provide a valuable insight into the complexities of designing an oligonucleotide based drug delivery system and highlight some practical issues that need to be considered when doing so.
 
 -   id: Goncalves2016
     authors: Andrea D. Goncalves, Cameron Alexander, Clive J. Roberts, Sebastian G. Spain, Shahid Uddin and Stephanie Allen
@@ -88,6 +98,8 @@
     tags:
         - solution behaviour
         - characterisation
+    abstract: >
+        The effect of protein concentration on solution viscosity in a commercially available biopharmaceutical formulation of recombinant albumin (rAlbumin) was studied. The level of protein aggregation with concentration and its impact on solution viscosity was investigated. Theoretical models predicting viscosity with concentration were applied to these data, and a model that accounts for multiple protein species in solution provided the best fit. The results highlight the need to account for heterogeneity in the level of aggregation when addressing the increase of viscosity observed at high concentrations of protein solutions, a significant issue for the manufacture and use of protein-based therapeutics.
 
 -   id: Sicilia2016
     authors: Giovanna Sicilia, Adrienne L. Davis, Sebastian G. Spain, Johannes P. Magnusson, Nathan Boase, Kristofer J. Thurecht and Cameron Alexander
@@ -103,6 +115,8 @@
     toc: true
     tags:
         - DNA responsive materials
+    abstract: >
+        Polymer–DNA conjugates in which one nucleic acid strand contains fluorine-substituted nucleobases have been prepared and characterised. The efficacy of these novel 19F nucleic acid–polymer conjugates as sensitive and selective in vitro reporters of DNA binding events is demonstrated through a number of rapid-acquisition MR sequences. The conjugates respond readily and in a sequence specific manner to external target oligonucleotide sequences by changes in hybridisation. In turn, these structural changes in polymer–nucleotide conjugates translate into responses which are detectable in fluorine relaxation and diffusion switches, and which can be monitored by in vitro Spin Echo and DOSY NMR spectroscopy. Although complementary to conventional FRET methods, the excellent diagnostic properties of fluorine nuclei make this approach a versatile and sensitive probe of molecular structure and conformation in polymeric assemblies.
 
 -   id: Rose2015
     authors: Vanessa Loczenski Rose, Saif Shubber, S. Sajeesh, Sebastian G. Spain, Sanyogitta Puri, Stephanie Allen, Dong-Ki Lee, G. Sebastiaan Winkler and Giuseppe Mantovani
@@ -118,6 +132,8 @@
     toc: true
     tags:
         - gene delivery
+    abstract: >
+        Synthetic polymers containing quaternary phosphonium salts are an emerging class of materials for the delivery of oligo/polynucleotides. In this work, cationic phosphonium salt-containing polymethacrylates and their corresponding ammonium analogues were synthesized by reversible addition–fragmentation chain transfer polymerization. Both the nature of the charged heteroatom (N vs P) and the length of the spacer separating the cationic units along the polymer backbone (oxyethylene vs trioxyethylene) were systematically varied. Polymers efficiently bound short interfering RNA (siRNA) at N+/P– or P+/P– ratios of 2 and above. At a 20:1 ratio, small polyplexes (Rh: 4–15 nm) suitable for cellular uptake were formed that displayed low cytotoxicity. While siRNA polyplexes from both ammonium and phosphonium polymers were efficiently internalized by green fluorescent protein (GFP)-expressing 3T3 cells, no knockdown of GFP expression was observed. However, 65% Survivin gene knockdown was observed when siRNA was replaced with novel, multimerized long interfering RNA in HeLa cells, demonstrating the importance of RNA macromolecular architecture on RNA-mediated gene silencing.
 
 -   id: Francini2015
     authors: Nora Francini, Laura Purdie, Cameron Alexander, Giuseppe Mantovani and Sebastian G. Spain*
@@ -133,6 +149,8 @@
     toc: true
     tags:
         - synthetic methodology
+    abstract: >
+        Poly[N-(2-hydroxypropyl)methacrylamide] is a promising candidate material for biomedical applications. However, synthesis of functional pHPMA via compolymerization results can lead to variations in monomer composition, molar mass, and dispersity making comparison difficult. Postpolymerization modification routes, most commonly aminolysis of poly[active ester methacrylates], have alleviated some of these problems, but ester hydrolysis can lead to other problems. Here we report the synthesis of multifunctional pHPMA via a simple two-step derivatization of pHPMA homopolymer using readily available standard reagents and atom-efficient procedures. First, treatment with allyl isocyanate yields the corresponding carbamate with predictable incorporation of side-chain functionality. Allyl-pHPMA can then be derivatized further via radical thiol–ene reactions to generate pHPMA with multiple diverse functionalities but without adverse effects on the molecular weight and dispersity of the polymer. The applicability of the method to production of biologically relevant materials is demonstrated by cytocompatibility and cell labeling experiments with easily prepared ligand-functionalized pHPMA in the HCT 116 model cell line.
 
 -   id: Mitchell2014
     authors: Daniel E. Mitchell, Mary Lilliman, Sebastian G. Spain and Matthew I. Gibson
