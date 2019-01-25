@@ -2,6 +2,15 @@
     position: PI
     url: Seb_Spain
 
+-   name: Louisa Ejim
+    firstname: Louisa
+    lastname: Ejim
+    url: Louisa_Ejim
+    position: PDRA
+    project: Plastic - Redefining Single Use
+    funder:
+        - EPSRC/UKRI
+
 -   name: Dominic Gray
     firstname: Dom
     lastname: Gray
