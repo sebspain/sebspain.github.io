@@ -1,3 +1,20 @@
+-   id: Francini2019
+    authors: Nora Francini, Daniel Cochrane, Sam Illingworth, Laura Purdie, Giuseppe Mantovani, Kerry Fisher, Leonard W. Seymour, Sebastian G. Spain* and Cameron Alexander
+    title: Polyvalent diazonium polymers provide efficient protection of oncolytic adenovirus Enadenotucirev from neutralising antibodies while maintaining biological activity in vitro and in vivo
+    journal: Bioconjugate Chem.
+    year: 2019
+    volume:
+    pages: Just Accepted Manuscript, 10.1021/acs.bioconjchem.9b00189
+    doi: 10.1021/acs.bioconjchem.9b00189
+    doi_short: acs.bioconjchem.9b00189
+    openaccess: false
+    pdf: false
+    toc: true
+    tags:
+        - Virus conjugates
+    abstract: >
+        Oncolytic viruses offer many advantages for cancer therapy when administered directly to confined solid tumors. However, the systemic delivery of these viruses is problematic due to host immune response, undesired interactions with blood components and inherent targeting to the liver. Efficacy of systemically administered viruses has been improved by masking viral surface proteins with polymeric materials, through modulation of viral pharmacokinetic profile and accumulation in tumors in vivo. Here we describe a new class of polyvalent reactive based upon poly(N-(2-hydroxypropyl)methacrylamide) (polyHPMA) with diazonium reactive groups and their application in the modification of the chimeric oncolytic virus Enadenotucirev (EnAd). A series of six reactive copolymers with different chain lengths and density of reactive groups was synthesised and used to coat EnAd. Polymer coating was found to be extremely efficient with concentrations as low as 1 mg/mL resulting in complete (>99%) ablation of neutralising antibody binding. Coating efficiency was found to be dependent on both chain length and reactive group density. Coated viruses were found to have reduced transfection activity both in vitro and in vivo with greater protection against neutralising antibodies resulting in lower transgene production. However, in the presence of neutralising antibodies some in vivo transgene expression was maintained for coated virus compared to the uncoated control. Reduction in transgene expression was found to not be solely due to reduced cellular uptake but due to reducing unpackaging of the virus within the cells and reducing replication indicating that polymer coating does not cause permanent inactivation of the virus. These data suggest that virus activity may be modulated by appropriate design of coating polymers while retaining protection against neutralising antibodies.
+
 -   id: Neal2018
     authors: Thomas J. Neal, Deborah L. Beattie, Sarah J. Byard, Gregory N. Smith, Martin W. Murray, Neal S. J. Williams, Simon N. Emmett, Steven P. Armes, Sebastian G. Spain* and Oleksandr O. Mykhaylyk
     title: Self-assembly of amphiphilic statistical copolymers and their aqueous rheological properties
