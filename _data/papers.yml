@@ -1,3 +1,20 @@
+-   id: Clitherow2019
+    authors: Katharina H Clitherow, Craig Murdoch, Sebastian G. Spain, Anne Mette Handler, Helen E. Colley, Mai Bay Stie, Hanne Mørck Nielsen, Christian Janfelt, Paul V. Hatton and Jette Jacobsen
+    title: Mucoadhesive electrospun patch delivery of lidocaine to the oral mucosa and investigation of spatial distribution in tissue using MALDI mass spectrometry imaging
+    journal: Mol. Pharmaceutics
+    year: 2019
+    volume:
+    pages: Just Accepted Manuscript
+    doi: 10.1021/acs.molpharmaceut.9b00535
+    doi_short: acs.molpharmaceut.9b00535
+    openaccess: false
+    pdf: false
+    toc: false
+    tags:
+        - electrospinnnig
+    abstract: >
+        Many oral mucosal conditions cause considerable and prolonged pain that to date has been difficult to alleviate via topical delivery, and the use of injection causes many patients dental anxiety and needle-prick pain. Therefore, developing a non-injectable drug delivery system as an alternative administration procedure may vastly improve the health and wellbeing of these patients. Recent advances in the development of mucoadhesive electrospun patches for the direct delivery of therapeutics to the oral mucosa offer a potential solution, but as yet, the release of local anaesthetics from this system and their uptake by oral tissue has not been demonstrated. Here, we demonstrate the fabrication of lidocaine-loaded electrospun fibre patches, drug release, and subsequent uptake and permeation through porcine buccal mucosa. Lidocaine HCl and lidocaine base were incorporated into the electrospun patches to evaluate the difference in drug permeation for the two drug compositions. Lidocaine released from the lidocaine HCl-containing electrospun patches was significantly quicker than from the lidocaine base patches, with double the amount of drug released from the lidocaine HCl patches in the first 15 minutes (0.16 ± 0.04 mg) compared to from the lidocaine base patches (0.07 ± 0.01 mg). The permeation of lidocaine from the lidocaine HCl electrospun patches through ex vivo porcine buccal mucosa was also detected in 15 minutes, whereas permeation of lidocaine from the lidocaine base patch was not detected. Matrix-assisted laser desorption ionisation – mass spectrometry imaging (MALDI-MSI) was used to investigate localisation of lidocaine within oral tissue. Lidocaine in solution as well as from the mucoadhesive patch penetrated into buccal mucosal tissue in a time-dependent manner and was detectable in the lamina propria after only 15 minutes. Moreover, the lidocaine released from lidocaine HCl electrospun patches retained biological activity, inhibiting veratridine-mediated opening of voltage-gated sodium channels in SH-SY5Y neuroblastoma cells. These data suggest that a mucoadhesive electrospun patch may be used as a vehicle for rapid uptake and sustained anaesthetic drug delivery and may reduce the need for injection.
+
 -   id: Francini2019
     authors: Nora Francini, Daniel Cochrane, Sam Illingworth, Laura Purdie, Giuseppe Mantovani, Kerry Fisher, Leonard W. Seymour, Sebastian G. Spain* and Cameron Alexander
     title: Polyvalent diazonium polymers provide efficient protection of oncolytic adenovirus Enadenotucirev from neutralising antibodies while maintaining biological activity in vitro and in vivo
