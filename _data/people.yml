@@ -176,9 +176,11 @@
     url: Sam_Harrison
     position: PhD
     project: Oxidation-responsive materials for targeting inflammatory diseases
+    biog: I am a PhD student working on designing a drug delivery system for inflammatory diseases such as rheumatoid arthritis and multiple sclerosis. In both of these diseases reactive oxygen species (ROS) attack and damage areas of the body which is called inflammation. These diseases are treated with disease modifying drugs which are non-targeted and can cause serious side effects. If the drugs used were targeted to areas of inflammation only then doses could be lowered and side effects reduced. This work has focused on using oxidation sensitive materials that would respond to ROS in the areas of inflammation. Specifically we are looking to design a polymer nanoparticle that will encapsulate drug and when inflammation of the disease occurs release the drug due to the oxidation sensitivity.
     funder:
         - EPSRC (NPIF Studentship)
         - BTG plc
+    website: www.linkedin.com/in/samuel--harrison 
     cdt: false
 
 -   name: Jake Edmans
