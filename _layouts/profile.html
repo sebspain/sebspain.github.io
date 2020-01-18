@@ -25,6 +25,12 @@ title:
     {% endfor %}
     {% endif %}
 
+    {% if person.website %}
+    <p>
+    <a href="{{ person.website }}">{{ person.website }}</a>
+    </p>
+    {% endif %}
+
 {% endif %}
 {% endfor %}
 
