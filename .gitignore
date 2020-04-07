@@ -5,4 +5,4 @@ robots.txt
 .DS_Store
 non_foss
 .directory
-
+.jekyll-cache
