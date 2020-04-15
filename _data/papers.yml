@@ -3,12 +3,12 @@
     title: Incorporation of Lysozyme into a Mucoadhesive Electrospun Patch for Rapid Protein Delivery to the Oral Mucosa
     journal: Mat. Sci. Eng. C.
     year: 2020
-    volume:
-    pages: In Press
+    volume: 112
+    pages: 110917
     doi: 10.1016/j.msec.2020.110917
     doi_short: j.msec.2020.110917
     openaccess: true
-    pdf: false
+    pdf: true
     toc: true
     tags:
         - electrospinnnig
