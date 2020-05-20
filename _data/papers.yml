@@ -1,3 +1,21 @@
+-   id: Clitherow2020
+    authors: Katharina H. Clitherow, Tahani M Binaljadm, Jens Hansen, Sebastian G. Spain, Paul V. Hatton and Craig Murdoch
+    title: Medium-chain fatty acids released from polymeric electrospun patches inhibit Candida albicans growth and reduce biofilm viability
+    journal: ACS Biomater. Sci. Eng.
+    year: 2020
+    volume:
+    pages: Just Accepted Manuscript
+    doi: 10.1021/acsbiomaterials.0c00614
+    doi_short: acsbiomaterials.0c00614
+    openaccess: false
+    pdf: false
+    toc: false
+    tags:
+        - electrospinning
+    abstract: >
+        Oral candidiasis is a very common oral condition among susceptible individuals, with the main causative organism being the fungus Candida albicans. Current drug delivery systems to the oral mucosa are often ineffective due to short drug/tissue contact times, as well as increased prevalence of drug-resistant Candida strains. We evaluated the potency of saturated fatty acids as antifungal agents, and investigated their delivery by novel electrospun mucoadhesive oral patches, using agar disc diffusion and biofilm assays. Octanoic (C8) and nonanoic (C9) acids were the most effective at inhibiting C. albicans growth on disc diffusion assays, both in solution or when released from polycaprolactone (PCL) or polyvinylpyrrolidone/RS100 (PVP/RS100) electrospun patches. In contrast, dodecanoic acid (C12) displayed the most potent antifungal activity against C. albicans pre-existing biofilms in solution or when released by PCL or PVP/RS100 patches. Both free and patch-released saturated fatty acids displayed significant toxicity to wild type and azole-resistant strains of C. albicans. These data not only provide evidence that certain saturated fatty acids have the potential to be used as antifungal agents, but also demonstrate that this therapy could be delivered directly to Candida-infected sites using electrospun mucoadhesive patches, demonstrating a potential new therapeutic approach to treat oral thrush.
+
+
 -   id: Edmans2020
     authors: Jake G. Edmans, Craig Murdoch, Martin E. Santocildes-Romero, Paul V. Hatton, Helen E. Colley and Sebastian G. Spain
     title: Incorporation of Lysozyme into a Mucoadhesive Electrospun Patch for Rapid Protein Delivery to the Oral Mucosa
@@ -11,7 +29,7 @@
     pdf: true
     toc: true
     tags:
-        - electrospinnnig
+        - electrospinning
     abstract: >
         The delivery of biopharmaceuticals to the oral mucosa offers a range of potential applications including antimicrobial peptides to treat resistant infections, growth factors for tissue regeneration, or as an alternative to injections for systemic delivery. Existing formulations targeting this site are typically non-specific and provide little control over dose. To address this, an electrospun dual-layer mucoadhesive patch was investigated for protein delivery to the oral mucosa. Lysozyme was used as a model antimicrobial protein and incorporated into poly(vinylpyrrolidone)/Eudragit RS100 polymer nanofibers using electrospinning from an ethanol/water mixture. The resulting fibrous membranes released the protein at a clinically desirable rate, reaching 90 ± 13% cumulative release after 2 h. Dual fluorescent fibre labelling and confocal microscopy demonstrated th homogeneity of lysozyme and polymer distribution. High encapsulation efficiency and preservation of enzyme activity were achieved (93.4 ± 7.0% and 96.1 ± 3.3% respectively). The released lysozyme inhibited the growth of the oral bacterium Streptococcus ratti, providing further evidence of retention of biological activity and illustrating a potential application for treating and preventing oral infections. An additional protective poly(caprolactone) backing layer was introduced to promote unidirectional delivery, without loss of enzyme activity, and the resulting dual-layer patches displayed long residence times using an in vitro test, showing that the adhesive properties were maintained. This study demonstrates that the drug delivery system has great potential for the delivery of therapeutic proteins to the oral mucosa
 
@@ -28,7 +46,7 @@
     pdf: true
     toc: true
     tags:
-        - electrospinnnig
+        - electrospinning
     abstract: >
         Many oral mucosal conditions cause considerable and prolonged pain that to date has been difficult to alleviate via topical delivery, and the use of injection causes many patients dental anxiety and needle-prick pain. Therefore, developing a non-injectable drug delivery system as an alternative administration procedure may vastly improve the health and wellbeing of these patients. Recent advances in the development of mucoadhesive electrospun patches for the direct delivery of therapeutics to the oral mucosa offer a potential solution, but as yet, the release of local anaesthetics from this system and their uptake by oral tissue has not been demonstrated. Here, we demonstrate the fabrication of lidocaine-loaded electrospun fibre patches, drug release, and subsequent uptake and permeation through porcine buccal mucosa. Lidocaine HCl and lidocaine base were incorporated into the electrospun patches to evaluate the difference in drug permeation for the two drug compositions. Lidocaine released from the lidocaine HCl-containing electrospun patches was significantly quicker than from the lidocaine base patches, with double the amount of drug released from the lidocaine HCl patches in the first 15 minutes (0.16 ± 0.04 mg) compared to from the lidocaine base patches (0.07 ± 0.01 mg). The permeation of lidocaine from the lidocaine HCl electrospun patches through ex vivo porcine buccal mucosa was also detected in 15 minutes, whereas permeation of lidocaine from the lidocaine base patch was not detected. Matrix-assisted laser desorption ionisation – mass spectrometry imaging (MALDI-MSI) was used to investigate localisation of lidocaine within oral tissue. Lidocaine in solution as well as from the mucoadhesive patch penetrated into buccal mucosal tissue in a time-dependent manner and was detectable in the lamina propria after only 15 minutes. Moreover, the lidocaine released from lidocaine HCl electrospun patches retained biological activity, inhibiting veratridine-mediated opening of voltage-gated sodium channels in SH-SY5Y neuroblastoma cells. These data suggest that a mucoadhesive electrospun patch may be used as a vehicle for rapid uptake and sustained anaesthetic drug delivery and may reduce the need for injection.
 
