@@ -4,11 +4,11 @@
     journal: ACS Biomater. Sci. Eng.
     year: 2020
     volume:
-    pages: Just Accepted Manuscript
+    pages: ASAP Article
     doi: 10.1021/acsbiomaterials.0c00614
     doi_short: acsbiomaterials.0c00614
     openaccess: true
-    pdf: false
+    pdf: true
     toc: true
     tags:
         - electrospinning
