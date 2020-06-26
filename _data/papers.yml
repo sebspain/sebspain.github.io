@@ -1,3 +1,23 @@
+-   id: Edmans2020-2
+    authors: Jake G. Edmans, Katharina H. Clitherow, Craig Murdoch, Paul V. Hatton, Sebastian G. Spain and Helen E. Colley
+    title: Mucoadhesive Electrospun Fibre‐Based Technologies for Oral Medicine
+    journal: Pharmaceutics
+    year: 2020
+    volume: 12
+    pages: 504
+    doi: 10.3390/pharmaceutics12060504
+    doi_short: pharmaceutics12060504
+    openaccess: true
+    pdf: true
+    toc: false
+    tags:
+        - electrospinning
+        - bioadhesion
+        - local therapy
+        - drug delivery
+    abstract: >
+        Oral disease greatly affects quality of life, as the mouth is required for a wide range of activities including speech, food and liquid consumption. Treatment of oral disease is greatly limited by the dose forms that are currently available, which suffer from short contact times, poor site specificity, and sensitivity to mechanical stimulation. Mucoadhesive devices prepared using electrospinning offer the potential to address these challenges by allowing unidirectional site‐ specific drug delivery through intimate contact with the mucosa and with high surface areas to facilitate drug release. This review will discuss the range of electrospun mucoadhesive devices that have recently been reported to address oral inflammatory diseases, pain relief, and infections, as well as new treatments that are likely to be enabled by this technology in the future.
+
 -   id: Clitherow2020
     authors: Katharina H. Clitherow, Tahani M Binaljadm, Jens Hansen, Sebastian G. Spain*, Paul V. Hatton and Craig Murdoch
     title: Medium-chain fatty acids released from polymeric electrospun patches inhibit Candida albicans growth and reduce biofilm viability

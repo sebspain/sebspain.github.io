@@ -17,7 +17,7 @@ Some examples (temp-controlled uptake and DNA materials)
 
 Current research in oxidation-responsive materials
 
-## Composites and Adhesives
+## Reversible composites and adhesives
 
 
 ## Sustainability in Polymer Science
