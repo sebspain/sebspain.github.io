@@ -1,0 +1,36 @@
+
+<!doctype html>
+<head>
+	<meta charset="utf-8" />
+  <script src="http://3Dmol.csb.pitt.edu/build/3Dmol-min.js">
+	</script>
+	<script>
+	var initShapes = function(viewer) {
+		$.get('benz-radical-homo.cub', function(data){
+			var voldata = new $3Dmol.VolumeData(data, "cube");
+			if(viewer.hasVolumetricRender()) {
+				viewer.addVolumetricRender(voldata, {transferfn: [{color: "green", opacity: .1, value: 0.1},
+				                                                 {color: "green", opacity: .001, value: 0.01},
+																												 {color: "white", opacity: 0, value: 0},
+																												 {color: "red", opacity: .001, value: -0.01},
+																												 {color: "red", opacity: .1, value: -0.1}]});
+			} else {
+				viewer.addIsosurface(voldata, {isoval: 0.01, color: "blue", alpha: 0.95, smoothness: 10});
+				viewer.addIsosurface(voldata, {isoval: -0.01, color: "red", alpha: 0.95, smoothness: 10});
+				}
+				viewer.setStyle({}, {stick:{}});
+				viewer.zoomTo();
+				viewer.render();
+		}, 'text');
+	};
+
+
+	</script>
+  <title>Another 3dmol test</title>
+</head>
+
+<body>
+<p>Benzyl radical cube test</p>
+<div style="height: 400px; width: 400px; position: relative;" class='viewer_3Dmoljs' data-href='benz-radical.sdf' data-backgroundcolor='0xffffff' data-callback='initShapes' data-style='sphere'></div>
+</body>
+</html>
