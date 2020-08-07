@@ -1,3 +1,21 @@
+-   id: Lord2020
+    authors: Jasmine Lord, Hugh Britton, Sebastian G. Spain and Andrew L. Lewis
+    title: Advancements in the Development on New Liquid Embolic Agents for Use in Therapeutic Embolisation
+    journal: J. Mater. Chem. B.
+    year: 2020
+    volume:
+    pages: Accepted Manuscript
+    doi: 10.1039/D0TB01576H
+    doi_short: D0TB01576H
+    openaccess: true
+    pdf: true
+    toc: false
+    tags:
+        - embolisation
+        - drug delivery
+    abstract: >
+        Liquid formulations have a well-established role in therapeutic embolisation of blood vessels with the widespread use of cyanoacrylate glues, precipitating polymer suspensions, sclerosing agents and viscous emulsions of oil and chemotherapeutic agents. There is currently an emerging market for next generation liquid embolics which aim to address some of the short-comings of the currently used products. These next generation systems use varying chemistries in their approach to formulate new systems including polymerising, precipitating and phase-transitioning mechanisms to form solidified masses in situ within the vasculature. Some of these emerging technologies have been developed to possess improved imaging properties such as inherent radiopacity, rather than relying on having to mixing with radiopaque materials such as tantalum powder and reduction of X-ray imaging artefacts (streaking). Others offer solvent-free formulations which gel on contact with blood thereby allowing precise control over gel formation during the embolisation process without the use of potentially toxic solvents. In this review, we discuss the role of liquid agents in therapeutic embolisation and the potential of emerging technologies under development for use in the next generation of embolics.
+
 -   id: Edmans2020-2
     authors: Jake G. Edmans, Katharina H. Clitherow, Craig Murdoch, Paul V. Hatton, Sebastian G. Spain and Helen E. Colley
     title: Mucoadhesive Electrospun Fibre‐Based Technologies for Oral Medicine
@@ -23,8 +41,8 @@
     title: Medium-chain fatty acids released from polymeric electrospun patches inhibit Candida albicans growth and reduce biofilm viability
     journal: ACS Biomater. Sci. Eng.
     year: 2020
-    volume:
-    pages: ASAP Article
+    volume: 6
+    pages: 4087-4095
     doi: 10.1021/acsbiomaterials.0c00614
     doi_short: acsbiomaterials.0c00614
     openaccess: true
