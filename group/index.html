@@ -19,6 +19,11 @@ title: Group Members
     {% if person.position == 'PhD' and person.alumni != true %}<a href="profiles/{{ person.url }}.html"><h3 class="profile">{{ person.name }}</h3></a>
     {% endif %}
     {% endfor %}
+    <h2 class="profile">Lab Mascot</h2>
+    {% for person in site.data.people %}
+    {% if person.position == 'Mascot' and person.alumni != true %}<a href="profiles/{{ person.url }}.html"><h3 class="profile">{{ person.name }}</h3></a>
+    {% endif %}
+    {% endfor %}
 </div>
 
 <div class="unit w-1-2">
@@ -52,6 +57,11 @@ title: Group Members
 </div>
 
 <div class="unit w-1-2">
+    <h2 class="profile">Postdocs</h2>
+    {% for person in site.data.people %}
+    {% if person.position == 'PDRA' and person.alumni == true %}<a href="profiles/{{ person.url }}.html"><h3 class="profile">{{ person.name }}</h3></a>
+    {% endif %}
+    {% endfor %}
     <h2 class="profile">PhD Students</h2>
     {% for person in site.data.people %}
     {% if person.position == 'PhD' and person.alumni == true %}

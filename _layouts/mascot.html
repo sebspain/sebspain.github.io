@@ -1,0 +1,41 @@
+---
+layout: page
+title:
+---
+
+{% for person in site.data.people %}
+    {% if person.name == page.title %}
+    <img src="img/{{ person.url }}.png" alt="{{ page.title }}" class="gallery">
+    <p> {{ person.biog }}</p>
+    <p><strong>Project:</strong> {{ person.project }}</p>
+    {% if person.supervisors %}
+    <p>{{ person.firstname }} is supervised by {{ person.supervisors | join: ' and ' }}.</p>
+    {% endif %}
+    {% if person.prizes %}
+    <h3>Prizes</h3>
+    {% for i in person.prizes %}
+    <ul>
+    <li>{{ person.prizes[ forloop.index0 ] }}</li>
+    </ul>
+    {% endfor %}
+    {% endif %}
+
+    {% if person.website %}
+    <p>
+    <a href="{{ person.website }}">{{ person.website }}</a>
+    </p>
+    {% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% for paper in site.data.papers %}
+{% if paper.authors contains page.author %}
+<h3>Papers</h3>
+<p>
+    {{ paper.authors }}; "{{ paper.title }}", <em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+    {% if paper.pdf == true %}<a href="/non_foss/publications/PDFs/{{ paper.year }}/{{ paper.doi_short }}.pdf">[PDF]</a>{% endif %}
+    {% if paper.openaccess == true %}<img height="14" src="/img/oa.svg" class="oa" alt="open access logo" /> {% endif %}
+</p>
+{% endif %}
+{% endfor %}

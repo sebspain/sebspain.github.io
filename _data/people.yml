@@ -2,7 +2,7 @@
     position: PI
     url: Seb_Spain
 
--   name: Louisa Ejim
+-   name: Dr Louisa Ejim
     firstname: Louisa
     lastname: Ejim
     url: Louisa_Ejim
@@ -12,7 +12,7 @@
         - EPSRC/UKRI
     alumni: true
 
--   name: Jasmine Lord
+-   name: Dr Jasmine Lord
     firstname: Jasmine
     lastname: Lord
     url: Jasmine_Lord
@@ -25,7 +25,7 @@
     cdt: true
     alumni: true
 
--   name: Emma Owens
+-   name: Dr Emma Owens
     firstname: Emma
     lastname: Owens
     url: Emma_Owens
@@ -36,7 +36,7 @@
         - University of Sheffield
     alumni: true
 
--   name: Rheanna Perry
+-   name: Dr Rheanna Perry
     firstname: Rheanna
     lastname: Perry
     url: Rheanna_Perry
@@ -49,7 +49,7 @@
     cdt: true
     alumni: true
 
--   name: Katharina Clitherow
+-   name: Dr Katharina Clitherow
     firstname: Katharina
     lastname: Clitherow
     url: Katharina_Clitherow
@@ -64,7 +64,7 @@
     cdt: true
     alumni: true
 
--   name: Dominic Gray
+-   name: Dr Dominic Gray
     firstname: Dom
     lastname: Gray
     url: Dominic_Gray
@@ -110,7 +110,7 @@
 
 
 
--   name: Tom Neal
+-   name: Dr Tom Neal
     firstname: Tom
     lastname: Neal
     url: Tom_Neal
@@ -121,6 +121,19 @@
     cdt: false
     supervisors:
         - Oleksandr Mykhaylyk
+    alumni: true
+
+-   name: Archie Hamster
+    firstname: Archie
+    lastname: Hamster
+    url: Archie_Hamster
+    position: Mascot
+    project: Effect of carrot consumption on wheel use
+    funder:
+        - Anna and Ellen
+    supervisors:
+        - Anna Mroz
+        - Ellen Moscrop
 
 -   name: Marissa Morales Moctezuma
     firstname: Marissa
@@ -180,7 +193,7 @@
     funder:
         - EPSRC (NPIF Studentship)
         - BTG plc
-    website: www.linkedin.com/in/samuel--harrison 
+    website: www.linkedin.com/in/samuel--harrison
     cdt: false
 
 -   name: Jake Edmans
@@ -211,6 +224,21 @@
         - Cheryl Miller
         - Paul Hatton
     cdt: true
+
+-   name: Abi Cawardine
+    position: MChem
+
+-   name: Yifan Wang
+    position: MSc
+    alumni: true
+
+-   name: Giovanna De Freitas Maalouf
+    position: MChem
+    alumni: true
+
+-   name: Rebecca Stone
+    position: MChem
+    alumni: true
 
 -   name: Elena Mallouris
     position: MChem
@@ -298,3 +326,4 @@
 
 -   name: Leo Seidl
     position: Visitor
+    alumni: true
