@@ -1,10 +1,29 @@
+-   id: Neal2021
+    authors: Thomas J. Neal, Andrew J. Parnell, Stephen M. King, Deborah L. Beattie, Martin W. Murray, Neal S. J. Williams, Simon N. Emmett, Steven P. Armes, Sebastian G. Spain* and Oleksandr O. Mykhaylyk
+    title: Control of Particle Size in the Self-Assembly of Amphiphilic Statistical Copolymers
+    journal: Macromolecules
+    year: 2021
+    volume:
+    pages: ASAP Article
+    doi: 10.1039/acs.macromol.0c02341
+    doi_short: acs.macromol.0c02341
+    openaccess: true
+    pdf: true
+    toc: true
+    tags:
+        - self assembly
+        - characterisation
+        - solution behaviour
+    abstract: >
+        A range of amphiphilic statistical copolymers is synthesized where the hydrophilic component is either methacrylic acid (MAA) or 2-(dimethylamino)ethyl methacrylate (DMAEMA) and the hydrophobic component comprises methyl, ethyl, butyl, hexyl, or 2-ethylhexyl methacrylate, which provide a broad range of partition coefficients (log P). Small-angle X-ray scattering studies confirm that these amphiphilic copolymers self-assemble to form well-defined spherical nanoparticles in an aqueous solution, with more hydrophobic copolymers forming larger nanoparticles. Varying the nature of the alkyl substituent also influenced self-assembly with more hydrophobic comonomers producing larger nanoparticles at a given copolymer composition. A model based on particle surface charge density (PSC model) is used to describe the relationship between copolymer composition and nanoparticle size. This model assumes that the hydrophilic monomer is preferentially located at the particle surface and provides a good fit to all of the experimental data. More specifically, a linear relationship is observed between the surface area fraction covered by the hydrophilic comonomer required to achieve stabilization and the log P value for the hydrophobic comonomer. Contrast variation small-angle neutron scattering is used to study the internal structure of these nanoparticles. This technique indicates partial phase separation within the nanoparticles, with about half of the available hydrophilic comonomer repeat units being located at the surface and hydrophobic comonomer-rich cores. This information enables a refined PSC model to be developed, which indicates the same relationship between the surface area fraction of the hydrophilic comonomer and the log P of the hydrophobic comonomer repeat units for the anionic (MAA) and cationic (DMAEMA) comonomer systems. This study demonstrates how nanoparticle size can be readily controlled and predicted using relatively ill-defined statistical copolymers, making such systems a viable attractive alternative to diblock copolymer nanoparticles for a range of industrial applications.
+
 -   id: Niezabitowska2020
-    authors: Edyta Niezabitowska, Adam R. Town, Bassem Sabagh, Marissa D. Morales Moctezuma, Victoria R. Kearns, Sebastian G. Spain Steve P. Rannard and Tom O. McDonald
+    authors: Edyta Niezabitowska, Adam R. Town, Bassem Sabagh, Marissa D. Morales Moctezuma, Victoria R. Kearns, Sebastian G. Spain, Steve P. Rannard and Tom O. McDonald
     title: Insights into the internal structures of nanogels using a versatile asymmetric-flow field-flow fractionation method
     journal: Nanoscale Advances
     year: 2020
-    volume:
-    pages: Advance Article
+    volume: 2
+    pages: 4713-4721
     doi: 10.1039/D0NA00314J
     doi_short: D0NA00314J
     openaccess: true
@@ -17,12 +36,12 @@
         Poly(N-isopropylacrylamide) (pNIPAM) nanogels are a highly researched type of colloidal material. In this work, we establish a versatile asymmetric-flow field-flow fractionation (AF4) method that can provide high resolution particle sizing and also structural information on nanogel samples from 65–310 nm in hydrodynamic diameter and so different chemical compositions. To achieve this online multi-angle light scattering and dynamic light scattering detectors were used to provide measurement of the radius of gyration (Rg) and hydrodynamic radius (Rh) respectively. Two different eluents and a range of cross-flows were evaluated in order to provide effective fractionation and high recovery for the different nanogel samples. We found that using 0.1 M NaNO3 as the eluent and an initial cross-flow of 1 mL min−1 provided optimal separation conditions for all samples tested. Using this method, we analysed two types of samples, pNIPAM nanogels prepared by free radical dispersion polymerisation with increasing diameters and analysed poly(acrylic acid)-b-pNIPAM crosslinked nanogels prepared by reversible addition–fragmentation chain transfer dispersion polymerisation. We could determine that the differently sized free radical nanogels possessed differing internal structures; shape factors (Rg/Rh) ranged from 0.58–0.73 and revealed that the smallest nanogel had a homogeneous internal crosslinking density, while the larger nanogels had a more densely crosslinked core compared to the shell. The poly(acrylic acid)-b-pNIPAM crosslinked nanogels displayed clear core–shell structures due to all the crosslinking being contained in the core of the nanogel.
 
 -   id: Lord2020
-    authors: Jasmine Lord, Hugh Britton, Sebastian G. Spain and Andrew L. Lewis
+    authors: Jasmine Lord, Hugh Britton, Sebastian G. Spain* and Andrew L. Lewis
     title: Advancements in the Development on New Liquid Embolic Agents for Use in Therapeutic Embolisation
     journal: J. Mater. Chem. B.
     year: 2020
-    volume:
-    pages: Advance Article
+    volume: 8
+    pages: 8207-8218
     doi: 10.1039/D0TB01576H
     doi_short: D0TB01576H
     openaccess: true
