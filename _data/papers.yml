@@ -5,7 +5,7 @@
     year: 2021
     volume:
     pages: ASAP Article
-    doi: 10.1039/acs.macromol.0c02341
+    doi: 10.1021/acs.macromol.0c02341
     doi_short: acs.macromol.0c02341
     openaccess: true
     pdf: true
@@ -56,7 +56,7 @@
 -   id: Edmans2020-2
     authors: Jake G. Edmans, Katharina H. Clitherow, Craig Murdoch, Paul V. Hatton, Sebastian G. Spain and Helen E. Colley
     title: Mucoadhesive Electrospun Fibre‐Based Technologies for Oral Medicine
-    journal: Pharmaceutics
+    journal:
     year: 2020
     volume: 12
     pages: 504
