@@ -34,9 +34,10 @@ title:
 {% endif %}
 {% endfor %}
 
+<h3>Papers</h3>
 {% for paper in site.data.papers %}
 {% if paper.authors contains page.author %}
-<h3>Papers</h3>
+
 <p>
     {{ paper.authors }}; "{{ paper.title }}", <em>{{ paper.journal }}</em>, {{ paper.year }}, {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %} {{ paper.pages }}. <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
     {% if paper.pdf == true %}<a href="/non_foss/publications/PDFs/{{ paper.year }}/{{ paper.doi_short }}.pdf">[PDF]</a>{% endif %}
