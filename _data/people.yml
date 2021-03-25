@@ -135,7 +135,7 @@
         - Anna Mroz
         - Ellen Moscrop
 
--   name: Marissa Morales Moctezuma
+-   name: Dr Marissa Morales Moctezuma
     firstname: Marissa
     lastname: Morales Moctezuma
     url: Marissa_Morales_Moctezuma
@@ -143,6 +143,7 @@
     project: Stimuli-responsive polymer nanocomposites hydrogels for biomedical applications
     funder:
         - CONACYT
+    alumni: true
 
 -   name: Anna Mroz
     firstname: Anna
