@@ -20,7 +20,6 @@ Our initial work focussed on the copolymers of methacrylic acid and butyl methac
 
 More recently, we examined the self-assembly behaviour of charged amphiphilic statistical copolymers and the effects of both copolymer composition and hydrophobicity on their assembly. Using small-angle X-ray scattering (SAXS), it was found that these copolymers aggregated into spherical particles in the presence of aqueous media and that decreasing either the charged hydrophilic component or increasing the hydrophobicity (logP) of the hydrophobic component led to increased particle size. We developed a model to describe the observed behaviour based upon the hypothesis that the copolymers aggregate to achieve a critical surface charge density  and colloidal stability (the PSC model). The PSC model fitted extremely well with the experimental data and we found a linear correlation between the charge density and the logP of the hydrophobic component. This research demonstrates the predictable behaviour of statistical copolymer dispersions, and the developed PSC model can be used as a tool to design bespoke nanoparticles that can offer a cheaper, more industrially viable, alternative to block copolymers in a variety of applications.
 
-
 <h3>Relevant Papers</h3>
 {% for paper in site.data.papers %}
 {% if paper.tags contains "statistical copolymers" %}
@@ -34,6 +33,8 @@ More recently, we examined the self-assembly behaviour of charged amphiphilic st
 {% endfor %}
 
 ## Electrospun patches for mucosal drug delivery
+
+
 
 <h3>Relevant Papers</h3>
 {% for paper in site.data.papers %}

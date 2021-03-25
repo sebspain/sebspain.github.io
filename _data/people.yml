@@ -225,6 +225,19 @@
         - Paul Hatton
     cdt: true
 
+-   name: Kate Dickins
+    firstname: Kate
+    lastname: Dickins
+    url: Kate_Dickins
+    position: PhD
+    project: Electrospun patches for mucosal drug delivery in gynaecological conditions
+    funder:
+        - EPSRC
+    supervisors:
+        - Paul Hatton
+        - Helen Colley
+        - Craig Murdoch
+
 -   name: Abi Cawardine
     position: MChem
 
