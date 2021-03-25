@@ -12,6 +12,16 @@
         - EPSRC/UKRI
     alumni: true
 
+-   name: Dr Marissa Morales Moctezuma
+    firstname: Marissa
+    lastname: Morales Moctezuma
+    url: Marissa_Morales_Moctezuma
+    position: PhD
+    project: Stimuli-responsive polymer nanocomposites hydrogels for biomedical applications
+    funder:
+        - CONACYT
+    alumni: true
+
 -   name: Dr Jasmine Lord
     firstname: Jasmine
     lastname: Lord
@@ -135,15 +145,7 @@
         - Anna Mroz
         - Ellen Moscrop
 
--   name: Dr Marissa Morales Moctezuma
-    firstname: Marissa
-    lastname: Morales Moctezuma
-    url: Marissa_Morales_Moctezuma
-    position: PhD
-    project: Stimuli-responsive polymer nanocomposites hydrogels for biomedical applications
-    funder:
-        - CONACYT
-    alumni: true
+
 
 -   name: Anna Mroz
     firstname: Anna
