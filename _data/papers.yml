@@ -1,3 +1,21 @@
+-   id: Morales2021
+    authors: Marissa D. Morales Moctezuma and Sebastian G. Spain*
+    title: The effects of cononsolvents on the synthesis of responsive particles via polymerisation-induced thermal self-assembly
+    journal: Polymer Chemistry
+    year: 2021
+    volume:
+    pages: Accepted Manuscript
+    doi: 10.1039/D1PY00396H
+    doi_short: DD1PY00396H
+    openaccess: true
+    pdf: true
+    toc: true
+    tags:
+        - nanogels
+        - PISA
+    abstract: >
+        Nanogels have emerged as innovative platforms for numerous biomedical applications including gene and drug delivery, biosensors, imaging, and tissue engineering. Polymerisation-induced thermal self-assembly (PITSA) has been shown to be suitable route for the synthesis of temperature-responsive nanogels, and cononsolvents have been used to improve the solubility of comonomers. Here, we show that use of cononsolvents during synthesis also has significant effects on the properties of the final nanogels. Responsive nanogels consisting of a poly(acrylic acid) corona and a crosslinked poly(N-isopropylacrylamide) core were synthesised via RAFT-mediated PITSA in water and water/EtOH mixtures. Nanogels synthesised in water were found to increase in size as the degree of polymerisation (DPn) of the pNIPAM block was increased. For a fixed pNIPAM DPn, particle sizes were seen to decrease with increasing EtOH content in the synthesis solvent. This is rationalised by the decreasing solubility of the growing pNIPAM in the reaction medium resulting in earlier particle nucleation. The temperature response of the particles was also found to be dependent on the synthesis conditions with increasing EtOH content in the synthesis solvent increasing the volume phase transition temperature. Model poly(acrylic acid)-block-poly(N-isopropylacrylamide) copolymers synthesised under similar conditions were seen to have differing tacticities dependent on the synthesis solvent with increasing EtOH content resulting in increased syndiotacticity and increased cloud point temperatures. We propose that the tacticity changes are due to the PITSA process, with the constrained environment of the particle resulting in increased syndiotacticity.
+
 -   id: Neal2021
     authors: Thomas J. Neal, Andrew J. Parnell, Stephen M. King, Deborah L. Beattie, Martin W. Murray, Neal S. J. Williams, Simon N. Emmett, Steven P. Armes, Sebastian G. Spain* and Oleksandr O. Mykhaylyk
     title: Control of Particle Size in the Self-Assembly of Amphiphilic Statistical Copolymers
